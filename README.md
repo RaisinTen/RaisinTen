@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#245](https://github.com//EddieJaoudeCommunity/EddieBot/issues/245) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+2. 💪 Opened PR [#243](https://github.com//EddieJaoudeCommunity/EddieBot/pull/243) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+3. ❗️ Opened issue [#242](https://github.com//EddieJaoudeCommunity/EddieBot/issues/242) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+4. 🗣 Commented on [#237](https://github.com//EddieJaoudeCommunity/EddieBot/issues/237) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+5. ❗️ Opened issue [#2](https://github.com//BOLT04/BOLT04/issues/2) in [BOLT04/BOLT04](https://github.com//BOLT04/BOLT04)
+<!--END_SECTION:activity-->
