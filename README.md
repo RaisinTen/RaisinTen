@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#245](https://github.com//EddieJaoudeCommunity/EddieBot/issues/245) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 2. 💪 Opened PR [#243](https://github.com//EddieJaoudeCommunity/EddieBot/pull/243) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
