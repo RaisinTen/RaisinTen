@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
+![](https://github-profile-trophy.vercel.app/?username=RaisinTen&theme=onedark)
+
 ![](https://github-readme-stats.vercel.app/api?username=RaisinTen&show_icons=true&theme=tokyonight)
 
 ### :zap: Recent Activity
