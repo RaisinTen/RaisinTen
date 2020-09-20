@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: raisinten@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
+
+<!--START_SECTION:activity-->
