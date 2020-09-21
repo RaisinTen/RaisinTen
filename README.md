@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=RaisinTen&show_icons=true&theme=tokyonight)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaisinTen&layout=compact&theme=tokyonight)
+
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#245](https://github.com//EddieJaoudeCommunity/EddieBot/issues/245) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
