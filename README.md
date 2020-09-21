@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about GitHub Actions
 - 📫 How to reach me: raisinten@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm not an ML simp! :slightly_smiling_face:
 
 ![](https://github-profile-trophy.vercel.app/?username=RaisinTen&theme=onedark)
 
