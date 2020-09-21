@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm not an ML simp! :slightly_smiling_face:
 
-![](https://github-profile-trophy.vercel.app/?username=RaisinTen&theme=onedark)
+<img src="https://github-profile-trophy.vercel.app/?username=RaisinTen&theme=onedark" width="100%">
 
-![](https://github-readme-stats.vercel.app/api?username=RaisinTen&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaisinTen&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=RaisinTen&show_icons=true&theme=tokyonight" width="54.4%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaisinTen&layout=compact&theme=tokyonight" width="45.6%">
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
