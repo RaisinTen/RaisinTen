@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#230](https://github.com//RaisinTen/sokoban-action/issues/230) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
-2. ❗️ Opened issue [#229](https://github.com//RaisinTen/sokoban-action/issues/229) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
-3. ❗️ Opened issue [#228](https://github.com//RaisinTen/sokoban-action/issues/228) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
-4. ❗️ Opened issue [#226](https://github.com//RaisinTen/sokoban-action/issues/226) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
-5. ❗️ Opened issue [#225](https://github.com//RaisinTen/sokoban-action/issues/225) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
+1. 💪 Opened PR [#30934](https://github.com//firstcontributions/first-contributions/pull/30934) in [firstcontributions/first-contributions](https://github.com//firstcontributions/first-contributions)
+2. ❗️ Opened issue [#230](https://github.com//RaisinTen/sokoban-action/issues/230) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
+3. ❗️ Opened issue [#229](https://github.com//RaisinTen/sokoban-action/issues/229) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
+4. ❗️ Opened issue [#228](https://github.com//RaisinTen/sokoban-action/issues/228) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
+5. ❗️ Opened issue [#226](https://github.com//RaisinTen/sokoban-action/issues/226) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
 <!--END_SECTION:activity-->
