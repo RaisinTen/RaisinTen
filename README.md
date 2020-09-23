@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#234](https://github.com//RaisinTen/sokoban-action/issues/234) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
-2. ❗️ Opened issue [#233](https://github.com//RaisinTen/sokoban-action/issues/233) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
-3. 💪 Opened PR [#30934](https://github.com//firstcontributions/first-contributions/pull/30934) in [firstcontributions/first-contributions](https://github.com//firstcontributions/first-contributions)
-4. ❗️ Opened issue [#230](https://github.com//RaisinTen/sokoban-action/issues/230) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
-5. ❗️ Opened issue [#229](https://github.com//RaisinTen/sokoban-action/issues/229) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
+1. 💪 Opened PR [#14](https://github.com//DSC-KIIT/project-halide/pull/14) in [DSC-KIIT/project-halide](https://github.com//DSC-KIIT/project-halide)
+2. ❗️ Opened issue [#234](https://github.com//RaisinTen/sokoban-action/issues/234) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
+3. ❗️ Opened issue [#233](https://github.com//RaisinTen/sokoban-action/issues/233) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
+4. 💪 Opened PR [#30934](https://github.com//firstcontributions/first-contributions/pull/30934) in [firstcontributions/first-contributions](https://github.com//firstcontributions/first-contributions)
+5. ❗️ Opened issue [#230](https://github.com//RaisinTen/sokoban-action/issues/230) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
 <!--END_SECTION:activity-->
