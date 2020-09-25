@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com//DSC-KIIT/project-halide/pull/21) in [DSC-KIIT/project-halide](https://github.com//DSC-KIIT/project-halide)
-2. ❗️ Opened issue [#20](https://github.com//DSC-KIIT/project-halide/issues/20) in [DSC-KIIT/project-halide](https://github.com//DSC-KIIT/project-halide)
-3. ❗️ Opened issue [#19](https://github.com//DSC-KIIT/project-halide/issues/19) in [DSC-KIIT/project-halide](https://github.com//DSC-KIIT/project-halide)
-4. ❗️ Opened issue [#240](https://github.com//RaisinTen/sokoban-action/issues/240) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
-5. ❗️ Opened issue [#239](https://github.com//RaisinTen/sokoban-action/issues/239) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
+1. 💪 Opened PR [#22](https://github.com//DSC-KIIT/project-halide/pull/22) in [DSC-KIIT/project-halide](https://github.com//DSC-KIIT/project-halide)
+2. 💪 Opened PR [#21](https://github.com//DSC-KIIT/project-halide/pull/21) in [DSC-KIIT/project-halide](https://github.com//DSC-KIIT/project-halide)
+3. ❗️ Opened issue [#20](https://github.com//DSC-KIIT/project-halide/issues/20) in [DSC-KIIT/project-halide](https://github.com//DSC-KIIT/project-halide)
+4. ❗️ Opened issue [#19](https://github.com//DSC-KIIT/project-halide/issues/19) in [DSC-KIIT/project-halide](https://github.com//DSC-KIIT/project-halide)
+5. ❗️ Opened issue [#240](https://github.com//RaisinTen/sokoban-action/issues/240) in [RaisinTen/sokoban-action](https://github.com//RaisinTen/sokoban-action)
 <!--END_SECTION:activity-->
