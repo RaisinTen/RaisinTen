@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#94](https://github.com/Ninja-Developers/Tech_Phantoms_website/issues/94) in [Ninja-Developers/Tech_Phantoms_website](https://github.com/Ninja-Developers/Tech_Phantoms_website)
-2. ❗️ Opened issue [#93](https://github.com/Ninja-Developers/Tech_Phantoms_website/issues/93) in [Ninja-Developers/Tech_Phantoms_website](https://github.com/Ninja-Developers/Tech_Phantoms_website)
-3. 🗣 Commented on [#21](https://github.com/DSC-KIIT/project-halide/issues/21) in [DSC-KIIT/project-halide](https://github.com/DSC-KIIT/project-halide)
-4. 🗣 Commented on [#20](https://github.com/DSC-KIIT/project-halide/issues/20) in [DSC-KIIT/project-halide](https://github.com/DSC-KIIT/project-halide)
-5. 💪 Opened PR [#24](https://github.com/DSC-KIIT/project-halide/pull/24) in [DSC-KIIT/project-halide](https://github.com/DSC-KIIT/project-halide)
+1. 💪 Opened PR [#266](https://github.com/EddieJaoudeCommunity/EddieBot/pull/266) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. ❗️ Opened issue [#265](https://github.com/EddieJaoudeCommunity/EddieBot/issues/265) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. ❗️ Opened issue [#94](https://github.com/Ninja-Developers/Tech_Phantoms_website/issues/94) in [Ninja-Developers/Tech_Phantoms_website](https://github.com/Ninja-Developers/Tech_Phantoms_website)
+4. ❗️ Opened issue [#93](https://github.com/Ninja-Developers/Tech_Phantoms_website/issues/93) in [Ninja-Developers/Tech_Phantoms_website](https://github.com/Ninja-Developers/Tech_Phantoms_website)
+5. 🗣 Commented on [#21](https://github.com/DSC-KIIT/project-halide/issues/21) in [DSC-KIIT/project-halide](https://github.com/DSC-KIIT/project-halide)
 <!--END_SECTION:activity-->
