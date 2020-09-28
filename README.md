@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#272](https://github.com/EddieJaoudeCommunity/EddieBot/issues/272) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. ❗️ Opened issue [#243](https://github.com/RaisinTen/sokoban-action/issues/243) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
-3. 💪 Opened PR [#97](https://github.com/Ninja-Developers/Tech_Phantoms_website/pull/97) in [Ninja-Developers/Tech_Phantoms_website](https://github.com/Ninja-Developers/Tech_Phantoms_website)
-4. 💪 Opened PR [#96](https://github.com/Ninja-Developers/Tech_Phantoms_website/pull/96) in [Ninja-Developers/Tech_Phantoms_website](https://github.com/Ninja-Developers/Tech_Phantoms_website)
-5. 💪 Opened PR [#266](https://github.com/EddieJaoudeCommunity/EddieBot/pull/266) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+1. ❗️ Opened issue [#273](https://github.com/EddieJaoudeCommunity/EddieBot/issues/273) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. ❗️ Opened issue [#272](https://github.com/EddieJaoudeCommunity/EddieBot/issues/272) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. ❗️ Opened issue [#243](https://github.com/RaisinTen/sokoban-action/issues/243) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+4. 💪 Opened PR [#97](https://github.com/Ninja-Developers/Tech_Phantoms_website/pull/97) in [Ninja-Developers/Tech_Phantoms_website](https://github.com/Ninja-Developers/Tech_Phantoms_website)
+5. 💪 Opened PR [#96](https://github.com/Ninja-Developers/Tech_Phantoms_website/pull/96) in [Ninja-Developers/Tech_Phantoms_website](https://github.com/Ninja-Developers/Tech_Phantoms_website)
 <!--END_SECTION:activity-->
