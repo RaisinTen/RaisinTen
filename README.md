@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [**Project Halide**](https://github.com/DSC-KIIT/project-halide)
+- 🔭 I’m currently working on [**EddieBot**](https://github.com/EddieJaoudeCommunity/EddieBot)
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **fun Open Source projects**
 - 🤔 I’m looking for help with **testing**
