@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#293](https://github.com/EddieJaoudeCommunity/EddieBot/issues/293) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. 💪 Opened PR [#293](https://github.com/EddieJaoudeCommunity/EddieBot/pull/293) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-3. ❗️ Opened issue [#292](https://github.com/EddieJaoudeCommunity/EddieBot/issues/292) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-4. ❗️ Opened issue [#291](https://github.com/EddieJaoudeCommunity/EddieBot/issues/291) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. ❗️ Closed issue [#19](https://github.com/DSC-KIIT/project-halide/issues/19) in [DSC-KIIT/project-halide](https://github.com/DSC-KIIT/project-halide)
+2. 🗣 Commented on [#293](https://github.com/EddieJaoudeCommunity/EddieBot/issues/293) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. 💪 Opened PR [#293](https://github.com/EddieJaoudeCommunity/EddieBot/pull/293) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. ❗️ Opened issue [#292](https://github.com/EddieJaoudeCommunity/EddieBot/issues/292) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. ❗️ Opened issue [#291](https://github.com/EddieJaoudeCommunity/EddieBot/issues/291) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
