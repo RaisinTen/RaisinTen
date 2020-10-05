@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#19](https://github.com/DSC-KIIT/project-halide/issues/19) in [DSC-KIIT/project-halide](https://github.com/DSC-KIIT/project-halide)
-2. ❌ Closed PR [#22](https://github.com/DSC-KIIT/project-halide/pull/22) in [DSC-KIIT/project-halide](https://github.com/DSC-KIIT/project-halide)
-3. 🗣 Commented on [#289](https://github.com/EddieJaoudeCommunity/EddieBot/issues/289) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-4. 🗣 Commented on [#288](https://github.com/EddieJaoudeCommunity/EddieBot/issues/288) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. 💪 Opened PR [#288](https://github.com/EddieJaoudeCommunity/EddieBot/pull/288) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+1. ❗️ Opened issue [#291](https://github.com/EddieJaoudeCommunity/EddieBot/issues/291) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. ❗️ Closed issue [#19](https://github.com/DSC-KIIT/project-halide/issues/19) in [DSC-KIIT/project-halide](https://github.com/DSC-KIIT/project-halide)
+3. ❌ Closed PR [#22](https://github.com/DSC-KIIT/project-halide/pull/22) in [DSC-KIIT/project-halide](https://github.com/DSC-KIIT/project-halide)
+4. 🗣 Commented on [#289](https://github.com/EddieJaoudeCommunity/EddieBot/issues/289) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#288](https://github.com/EddieJaoudeCommunity/EddieBot/issues/288) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
