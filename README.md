@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#295](https://github.com/EddieJaoudeCommunity/EddieBot/issues/295) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. ❗️ Opened issue [#295](https://github.com/EddieJaoudeCommunity/EddieBot/issues/295) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-3. ❗️ Opened issue [#249](https://github.com/RaisinTen/sokoban-action/issues/249) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
-4. ❗️ Opened issue [#248](https://github.com/RaisinTen/sokoban-action/issues/248) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
-5. ❗️ Opened issue [#247](https://github.com/RaisinTen/sokoban-action/issues/247) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+2. 🗣 Commented on [#295](https://github.com/EddieJaoudeCommunity/EddieBot/issues/295) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. ❗️ Opened issue [#295](https://github.com/EddieJaoudeCommunity/EddieBot/issues/295) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. ❗️ Opened issue [#249](https://github.com/RaisinTen/sokoban-action/issues/249) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+5. ❗️ Opened issue [#248](https://github.com/RaisinTen/sokoban-action/issues/248) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
 <!--END_SECTION:activity-->
