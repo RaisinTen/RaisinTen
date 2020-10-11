@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3016](https://github.com/nodejs/help/issues/3016) in [nodejs/help](https://github.com/nodejs/help)
-2. 🗣 Commented on [#295](https://github.com/EddieJaoudeCommunity/EddieBot/issues/295) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+1. 🗣 Commented on [#3016](https://github.com/nodejs/help/issues/3016) in [nodejs/help](https://github.com/nodejs/help)
+2. ❗️ Opened issue [#3016](https://github.com/nodejs/help/issues/3016) in [nodejs/help](https://github.com/nodejs/help)
 3. 🗣 Commented on [#295](https://github.com/EddieJaoudeCommunity/EddieBot/issues/295) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-4. ❗️ Opened issue [#295](https://github.com/EddieJaoudeCommunity/EddieBot/issues/295) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. ❗️ Opened issue [#249](https://github.com/RaisinTen/sokoban-action/issues/249) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+4. 🗣 Commented on [#295](https://github.com/EddieJaoudeCommunity/EddieBot/issues/295) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. ❗️ Opened issue [#295](https://github.com/EddieJaoudeCommunity/EddieBot/issues/295) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
