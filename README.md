@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [**EddieBot**](https://github.com/EddieJaoudeCommunity/EddieBot)
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **GraphQL**
 - 👯 I’m looking to collaborate on **fun Open Source projects**
 - 🤔 I’m looking for help with **testing**
 - 💬 Ask me about **GitHub Actions**
