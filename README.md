@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3450](https://github.com/nodejs/nodejs.org/pull/3450) in [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org)
-2. 💪 Opened PR [#1](https://github.com/RaisinTen/nodejs.org/pull/1) in [RaisinTen/nodejs.org](https://github.com/RaisinTen/nodejs.org)
-3. ❗️ Opened issue [#35629](https://github.com/nodejs/node/issues/35629) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#9](https://github.com/jazzyarchitects/fasttext-node/issues/9) in [jazzyarchitects/fasttext-node](https://github.com/jazzyarchitects/fasttext-node)
-5. 🗣 Commented on [#35559](https://github.com/nodejs/node/issues/35559) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#35632](https://github.com/nodejs/node/issues/35632) in [nodejs/node](https://github.com/nodejs/node)
+2. 💪 Opened PR [#3450](https://github.com/nodejs/nodejs.org/pull/3450) in [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org)
+3. 💪 Opened PR [#1](https://github.com/RaisinTen/nodejs.org/pull/1) in [RaisinTen/nodejs.org](https://github.com/RaisinTen/nodejs.org)
+4. ❗️ Opened issue [#35629](https://github.com/nodejs/node/issues/35629) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#9](https://github.com/jazzyarchitects/fasttext-node/issues/9) in [jazzyarchitects/fasttext-node](https://github.com/jazzyarchitects/fasttext-node)
 <!--END_SECTION:activity-->
