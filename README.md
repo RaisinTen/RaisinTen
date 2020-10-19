@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#253](https://github.com/RaisinTen/sokoban-action/issues/253) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
-2. ❗️ Opened issue [#252](https://github.com/RaisinTen/sokoban-action/issues/252) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
-3. 🗣 Commented on [#29813](https://github.com/nodejs/node/issues/29813) in [nodejs/node](https://github.com/nodejs/node)
-4. ❗️ Opened issue [#251](https://github.com/RaisinTen/sokoban-action/issues/251) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
-5. 🗣 Commented on [#299](https://github.com/EddieJaoudeCommunity/EddieBot/issues/299) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+1. ❗️ Opened issue [#254](https://github.com/RaisinTen/sokoban-action/issues/254) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+2. ❗️ Opened issue [#253](https://github.com/RaisinTen/sokoban-action/issues/253) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+3. ❗️ Opened issue [#252](https://github.com/RaisinTen/sokoban-action/issues/252) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+4. 🗣 Commented on [#29813](https://github.com/nodejs/node/issues/29813) in [nodejs/node](https://github.com/nodejs/node)
+5. ❗️ Opened issue [#251](https://github.com/RaisinTen/sokoban-action/issues/251) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
 <!--END_SECTION:activity-->
