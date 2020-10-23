@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35755](https://github.com/nodejs/node/pull/35755) in [nodejs/node](https://github.com/nodejs/node)
-2. 🎉 Merged PR [#1](https://github.com/RaisinTen/nodejs-configure-refactor/pull/1) in [RaisinTen/nodejs-configure-refactor](https://github.com/RaisinTen/nodejs-configure-refactor)
-3. 💪 Opened PR [#1](https://github.com/RaisinTen/nodejs-configure-refactor/pull/1) in [RaisinTen/nodejs-configure-refactor](https://github.com/RaisinTen/nodejs-configure-refactor)
-4. ❗️ Opened issue [#254](https://github.com/RaisinTen/sokoban-action/issues/254) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
-5. ❗️ Opened issue [#253](https://github.com/RaisinTen/sokoban-action/issues/253) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+1. 💪 Opened PR [#304](https://github.com/EddieJaoudeCommunity/EddieBot/pull/304) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 💪 Opened PR [#35755](https://github.com/nodejs/node/pull/35755) in [nodejs/node](https://github.com/nodejs/node)
+3. 🎉 Merged PR [#1](https://github.com/RaisinTen/nodejs-configure-refactor/pull/1) in [RaisinTen/nodejs-configure-refactor](https://github.com/RaisinTen/nodejs-configure-refactor)
+4. 💪 Opened PR [#1](https://github.com/RaisinTen/nodejs-configure-refactor/pull/1) in [RaisinTen/nodejs-configure-refactor](https://github.com/RaisinTen/nodejs-configure-refactor)
+5. ❗️ Opened issue [#254](https://github.com/RaisinTen/sokoban-action/issues/254) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
 <!--END_SECTION:activity-->
