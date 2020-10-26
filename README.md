@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35755](https://github.com/nodejs/node/issues/35755) in [nodejs/node](https://github.com/nodejs/node)
-2. ❗️ Opened issue [#256](https://github.com/RaisinTen/sokoban-action/issues/256) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
-3. ❗️ Opened issue [#2465](https://github.com/nodejs/build/issues/2465) in [nodejs/build](https://github.com/nodejs/build)
-4. 💪 Opened PR [#304](https://github.com/EddieJaoudeCommunity/EddieBot/pull/304) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. 💪 Opened PR [#35755](https://github.com/nodejs/node/pull/35755) in [nodejs/node](https://github.com/nodejs/node)
+1. ❗️ Closed issue [#2465](https://github.com/nodejs/build/issues/2465) in [nodejs/build](https://github.com/nodejs/build)
+2. 🗣 Commented on [#35755](https://github.com/nodejs/node/issues/35755) in [nodejs/node](https://github.com/nodejs/node)
+3. ❗️ Opened issue [#256](https://github.com/RaisinTen/sokoban-action/issues/256) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+4. ❗️ Opened issue [#2465](https://github.com/nodejs/build/issues/2465) in [nodejs/build](https://github.com/nodejs/build)
+5. 💪 Opened PR [#304](https://github.com/EddieJaoudeCommunity/EddieBot/pull/304) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
