@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [**Node.js**](https://github.com/nodejs/node)
 - 🌱 I’m currently learning **V8**
 - 👯 I’m looking to collaborate on **fun Open Source projects**
-- 🤔 I’m looking for help with **testing**
 - 💬 Ask me about **GitHub Actions**
 - 📫 How to reach me: **raisinten@gmail.com**
 - 😄 Pronouns: **He/Him**
