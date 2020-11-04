@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#265](https://github.com/RaisinTen/sokoban-action/issues/265) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
-2. ❗️ Closed issue [#24](https://github.com/RaisinTen/fs-make/issues/24) in [RaisinTen/fs-make](https://github.com/RaisinTen/fs-make)
-3. 🎉 Merged PR [#26](https://github.com/RaisinTen/fs-make/pull/26) in [RaisinTen/fs-make](https://github.com/RaisinTen/fs-make)
-4. ❗️ Closed issue [#25](https://github.com/RaisinTen/fs-make/issues/25) in [RaisinTen/fs-make](https://github.com/RaisinTen/fs-make)
-5. 🗣 Commented on [#27](https://github.com/RaisinTen/fs-make/issues/27) in [RaisinTen/fs-make](https://github.com/RaisinTen/fs-make)
+1. ❗️ Opened issue [#266](https://github.com/RaisinTen/sokoban-action/issues/266) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+2. ❗️ Opened issue [#265](https://github.com/RaisinTen/sokoban-action/issues/265) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+3. ❗️ Closed issue [#24](https://github.com/RaisinTen/fs-make/issues/24) in [RaisinTen/fs-make](https://github.com/RaisinTen/fs-make)
+4. 🎉 Merged PR [#26](https://github.com/RaisinTen/fs-make/pull/26) in [RaisinTen/fs-make](https://github.com/RaisinTen/fs-make)
+5. ❗️ Closed issue [#25](https://github.com/RaisinTen/fs-make/issues/25) in [RaisinTen/fs-make](https://github.com/RaisinTen/fs-make)
 <!--END_SECTION:activity-->
