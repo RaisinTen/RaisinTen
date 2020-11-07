@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/RaisinTen/connected-threads/pull/4) in [RaisinTen/connected-threads](https://github.com/RaisinTen/connected-threads)
-2. 💪 Opened PR [#4](https://github.com/RaisinTen/connected-threads/pull/4) in [RaisinTen/connected-threads](https://github.com/RaisinTen/connected-threads)
-3. 🎉 Merged PR [#3](https://github.com/RaisinTen/connected-threads/pull/3) in [RaisinTen/connected-threads](https://github.com/RaisinTen/connected-threads)
-4. ❌ Reopened PR [#3](https://github.com/RaisinTen/connected-threads/pull/3) in [RaisinTen/connected-threads](https://github.com/RaisinTen/connected-threads)
-5. ❌ Closed PR [#3](https://github.com/RaisinTen/connected-threads/pull/3) in [RaisinTen/connected-threads](https://github.com/RaisinTen/connected-threads)
+1. 🎉 Merged PR [#5](https://github.com/RaisinTen/connected-threads/pull/5) in [RaisinTen/connected-threads](https://github.com/RaisinTen/connected-threads)
+2. 💪 Opened PR [#5](https://github.com/RaisinTen/connected-threads/pull/5) in [RaisinTen/connected-threads](https://github.com/RaisinTen/connected-threads)
+3. 🎉 Merged PR [#4](https://github.com/RaisinTen/connected-threads/pull/4) in [RaisinTen/connected-threads](https://github.com/RaisinTen/connected-threads)
+4. 💪 Opened PR [#4](https://github.com/RaisinTen/connected-threads/pull/4) in [RaisinTen/connected-threads](https://github.com/RaisinTen/connected-threads)
+5. 🎉 Merged PR [#3](https://github.com/RaisinTen/connected-threads/pull/3) in [RaisinTen/connected-threads](https://github.com/RaisinTen/connected-threads)
 <!--END_SECTION:activity-->
