@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/RaisinTen/connected-threads/pull/9) in [RaisinTen/connected-threads](https://github.com/RaisinTen/connected-threads)
-2. 💪 Opened PR [#9](https://github.com/RaisinTen/connected-threads/pull/9) in [RaisinTen/connected-threads](https://github.com/RaisinTen/connected-threads)
-3. 💪 Opened PR [#8](https://github.com/RaisinTen/connected-threads/pull/8) in [RaisinTen/connected-threads](https://github.com/RaisinTen/connected-threads)
-4. 🎉 Merged PR [#7](https://github.com/RaisinTen/connected-threads/pull/7) in [RaisinTen/connected-threads](https://github.com/RaisinTen/connected-threads)
-5. 💪 Opened PR [#7](https://github.com/RaisinTen/connected-threads/pull/7) in [RaisinTen/connected-threads](https://github.com/RaisinTen/connected-threads)
+1. ❗️ Opened issue [#36040](https://github.com/nodejs/node/issues/36040) in [nodejs/node](https://github.com/nodejs/node)
+2. ❗️ Opened issue [#3067](https://github.com/nodejs/help/issues/3067) in [nodejs/help](https://github.com/nodejs/help)
+3. 🎉 Merged PR [#9](https://github.com/RaisinTen/connected-threads/pull/9) in [RaisinTen/connected-threads](https://github.com/RaisinTen/connected-threads)
+4. 💪 Opened PR [#9](https://github.com/RaisinTen/connected-threads/pull/9) in [RaisinTen/connected-threads](https://github.com/RaisinTen/connected-threads)
+5. 💪 Opened PR [#8](https://github.com/RaisinTen/connected-threads/pull/8) in [RaisinTen/connected-threads](https://github.com/RaisinTen/connected-threads)
 <!--END_SECTION:activity-->
