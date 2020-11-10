@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36052](https://github.com/nodejs/node/pull/36052) in [nodejs/node](https://github.com/nodejs/node)
-2. ❗️ Opened issue [#270](https://github.com/RaisinTen/sokoban-action/issues/270) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
-3. ❗️ Opened issue [#36040](https://github.com/nodejs/node/issues/36040) in [nodejs/node](https://github.com/nodejs/node)
-4. ❗️ Opened issue [#3067](https://github.com/nodejs/help/issues/3067) in [nodejs/help](https://github.com/nodejs/help)
-5. 🎉 Merged PR [#9](https://github.com/RaisinTen/connected-threads/pull/9) in [RaisinTen/connected-threads](https://github.com/RaisinTen/connected-threads)
+1. ❗️ Closed issue [#3029](https://github.com/nodejs/help/issues/3029) in [nodejs/help](https://github.com/nodejs/help)
+2. 💪 Opened PR [#36052](https://github.com/nodejs/node/pull/36052) in [nodejs/node](https://github.com/nodejs/node)
+3. ❗️ Opened issue [#270](https://github.com/RaisinTen/sokoban-action/issues/270) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+4. ❗️ Opened issue [#36040](https://github.com/nodejs/node/issues/36040) in [nodejs/node](https://github.com/nodejs/node)
+5. ❗️ Opened issue [#3067](https://github.com/nodejs/help/issues/3067) in [nodejs/help](https://github.com/nodejs/help)
 <!--END_SECTION:activity-->
