@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#272](https://github.com/RaisinTen/sokoban-action/issues/272) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
-2. ❗️ Opened issue [#271](https://github.com/RaisinTen/sokoban-action/issues/271) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
-3. 🎉 Merged PR [#8](https://github.com/RaisinTen/connected-threads/pull/8) in [RaisinTen/connected-threads](https://github.com/RaisinTen/connected-threads)
-4. 💪 Opened PR [#36060](https://github.com/nodejs/node/pull/36060) in [nodejs/node](https://github.com/nodejs/node)
-5. ❗️ Closed issue [#3029](https://github.com/nodejs/help/issues/3029) in [nodejs/help](https://github.com/nodejs/help)
+1. ❗️ Opened issue [#273](https://github.com/RaisinTen/sokoban-action/issues/273) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+2. ❗️ Opened issue [#272](https://github.com/RaisinTen/sokoban-action/issues/272) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+3. ❗️ Opened issue [#271](https://github.com/RaisinTen/sokoban-action/issues/271) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+4. 🎉 Merged PR [#8](https://github.com/RaisinTen/connected-threads/pull/8) in [RaisinTen/connected-threads](https://github.com/RaisinTen/connected-threads)
+5. 💪 Opened PR [#36060](https://github.com/nodejs/node/pull/36060) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
