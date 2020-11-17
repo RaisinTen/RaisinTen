@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#165](https://github.com/nodejs/node-addon-examples/pull/165) in [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples)
-2. ❗️ Opened issue [#277](https://github.com/RaisinTen/sokoban-action/issues/277) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
-3. 💪 Opened PR [#36133](https://github.com/nodejs/node/pull/36133) in [nodejs/node](https://github.com/nodejs/node)
-4. 💪 Opened PR [#36128](https://github.com/nodejs/node/pull/36128) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#35520](https://github.com/nodejs/node/issues/35520) in [nodejs/node](https://github.com/nodejs/node)
+1. ❗️ Opened issue [#278](https://github.com/RaisinTen/sokoban-action/issues/278) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+2. 💪 Opened PR [#165](https://github.com/nodejs/node-addon-examples/pull/165) in [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples)
+3. ❗️ Opened issue [#277](https://github.com/RaisinTen/sokoban-action/issues/277) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+4. 💪 Opened PR [#36133](https://github.com/nodejs/node/pull/36133) in [nodejs/node](https://github.com/nodejs/node)
+5. 💪 Opened PR [#36128](https://github.com/nodejs/node/pull/36128) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
