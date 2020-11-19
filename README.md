@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#830](https://github.com/nodejs/node-addon-api/issues/830) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
-2. ❗️ Opened issue [#279](https://github.com/RaisinTen/sokoban-action/issues/279) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
-3. ❗️ Opened issue [#834](https://github.com/nodejs/node-addon-api/issues/834) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
-4. ❗️ Opened issue [#278](https://github.com/RaisinTen/sokoban-action/issues/278) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
-5. 💪 Opened PR [#165](https://github.com/nodejs/node-addon-examples/pull/165) in [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples)
+1. 🗣 Commented on [#834](https://github.com/nodejs/node-addon-api/issues/834) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
+2. 🗣 Commented on [#830](https://github.com/nodejs/node-addon-api/issues/830) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
+3. ❗️ Opened issue [#279](https://github.com/RaisinTen/sokoban-action/issues/279) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+4. ❗️ Opened issue [#834](https://github.com/nodejs/node-addon-api/issues/834) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
+5. ❗️ Opened issue [#278](https://github.com/RaisinTen/sokoban-action/issues/278) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
 <!--END_SECTION:activity-->
