@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36154](https://github.com/nodejs/node/issues/36154) in [nodejs/node](https://github.com/nodejs/node)
-2. 💪 Opened PR [#36190](https://github.com/nodejs/node/pull/36190) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#3087](https://github.com/nodejs/help/issues/3087) in [nodejs/help](https://github.com/nodejs/help)
-4. ❗️ Closed issue [#3087](https://github.com/nodejs/help/issues/3087) in [nodejs/help](https://github.com/nodejs/help)
-5. ❗️ Opened issue [#284](https://github.com/RaisinTen/sokoban-action/issues/284) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+1. 💪 Opened PR [#839](https://github.com/nodejs/node-addon-api/pull/839) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
+2. 🗣 Commented on [#36154](https://github.com/nodejs/node/issues/36154) in [nodejs/node](https://github.com/nodejs/node)
+3. 💪 Opened PR [#36190](https://github.com/nodejs/node/pull/36190) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#3087](https://github.com/nodejs/help/issues/3087) in [nodejs/help](https://github.com/nodejs/help)
+5. ❗️ Closed issue [#3087](https://github.com/nodejs/help/issues/3087) in [nodejs/help](https://github.com/nodejs/help)
 <!--END_SECTION:activity-->
