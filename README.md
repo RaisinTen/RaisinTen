@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36215](https://github.com/nodejs/node/issues/36215) in [nodejs/node](https://github.com/nodejs/node)
-2. ❗️ Opened issue [#285](https://github.com/RaisinTen/sokoban-action/issues/285) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
-3. ❗️ Opened issue [#36215](https://github.com/nodejs/node/issues/36215) in [nodejs/node](https://github.com/nodejs/node)
-4. ❗️ Reopened issue [#3087](https://github.com/nodejs/help/issues/3087) in [nodejs/help](https://github.com/nodejs/help)
-5. 🗣 Commented on [#3087](https://github.com/nodejs/help/issues/3087) in [nodejs/help](https://github.com/nodejs/help)
+1. ❗️ Opened issue [#286](https://github.com/RaisinTen/sokoban-action/issues/286) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+2. 🗣 Commented on [#36215](https://github.com/nodejs/node/issues/36215) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#36215](https://github.com/nodejs/node/issues/36215) in [nodejs/node](https://github.com/nodejs/node)
+4. ❗️ Opened issue [#285](https://github.com/RaisinTen/sokoban-action/issues/285) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+5. ❗️ Opened issue [#36215](https://github.com/nodejs/node/issues/36215) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
