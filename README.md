@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36219](https://github.com/nodejs/node/issues/36219) in [nodejs/node](https://github.com/nodejs/node)
-2. ❗️ Opened issue [#286](https://github.com/RaisinTen/sokoban-action/issues/286) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
-3. 🗣 Commented on [#36215](https://github.com/nodejs/node/issues/36215) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#36215](https://github.com/nodejs/node/issues/36215) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#36219](https://github.com/nodejs/node/issues/36219) in [nodejs/node](https://github.com/nodejs/node)
+3. ❗️ Opened issue [#286](https://github.com/RaisinTen/sokoban-action/issues/286) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
 4. 🗣 Commented on [#36215](https://github.com/nodejs/node/issues/36215) in [nodejs/node](https://github.com/nodejs/node)
-5. ❗️ Opened issue [#285](https://github.com/RaisinTen/sokoban-action/issues/285) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+5. 🗣 Commented on [#36215](https://github.com/nodejs/node/issues/36215) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
