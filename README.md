@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36215](https://github.com/nodejs/node/issues/36215) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#3033](https://github.com/libuv/libuv/issues/3033) in [libuv/libuv](https://github.com/libuv/libuv)
-3. 🗣 Commented on [#3032](https://github.com/libuv/libuv/issues/3032) in [libuv/libuv](https://github.com/libuv/libuv)
-4. 🗣 Commented on [#36040](https://github.com/nodejs/node/issues/36040) in [nodejs/node](https://github.com/nodejs/node)
-5. ❗️ Opened issue [#287](https://github.com/RaisinTen/sokoban-action/issues/287) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+1. 🗣 Commented on [#36190](https://github.com/nodejs/node/issues/36190) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#36215](https://github.com/nodejs/node/issues/36215) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#3033](https://github.com/libuv/libuv/issues/3033) in [libuv/libuv](https://github.com/libuv/libuv)
+4. 🗣 Commented on [#3032](https://github.com/libuv/libuv/issues/3032) in [libuv/libuv](https://github.com/libuv/libuv)
+5. 🗣 Commented on [#36040](https://github.com/nodejs/node/issues/36040) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
