@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#301](https://github.com/RaisinTen/sokoban-action/issues/301) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
-2. 🗣 Commented on [#36190](https://github.com/nodejs/node/issues/36190) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#36364](https://github.com/nodejs/node/issues/36364) in [nodejs/node](https://github.com/nodejs/node)
-4. ❗️ Opened issue [#300](https://github.com/RaisinTen/sokoban-action/issues/300) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
-5. ❗️ Opened issue [#299](https://github.com/RaisinTen/sokoban-action/issues/299) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+1. ❗️ Opened issue [#304](https://github.com/RaisinTen/sokoban-action/issues/304) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+2. ❗️ Opened issue [#303](https://github.com/RaisinTen/sokoban-action/issues/303) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+3. ❗️ Opened issue [#302](https://github.com/RaisinTen/sokoban-action/issues/302) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+4. ❗️ Closed issue [#301](https://github.com/RaisinTen/sokoban-action/issues/301) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
+5. ❗️ Opened issue [#301](https://github.com/RaisinTen/sokoban-action/issues/301) in [RaisinTen/sokoban-action](https://github.com/RaisinTen/sokoban-action)
 <!--END_SECTION:activity-->
