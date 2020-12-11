@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3115](https://github.com/nodejs/help/issues/3115) in [nodejs/help](https://github.com/nodejs/help)
-2. 🗣 Commented on [#295](https://github.com/EddieJaoudeCommunity/EddieBot/issues/295) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-3. 🗣 Commented on [#36404](https://github.com/nodejs/node/issues/36404) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#36444](https://github.com/nodejs/node/issues/36444) in [nodejs/node](https://github.com/nodejs/node)
-5. 💪 Opened PR [#36455](https://github.com/nodejs/node/pull/36455) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#36444](https://github.com/nodejs/node/issues/36444) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#36444](https://github.com/nodejs/node/issues/36444) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#3115](https://github.com/nodejs/help/issues/3115) in [nodejs/help](https://github.com/nodejs/help)
+4. 🗣 Commented on [#295](https://github.com/EddieJaoudeCommunity/EddieBot/issues/295) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#36404](https://github.com/nodejs/node/issues/36404) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
