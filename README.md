@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36480](https://github.com/nodejs/node/pull/36480) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#36444](https://github.com/nodejs/node/issues/36444) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#2037](https://github.com/nodejs/help/issues/2037) in [nodejs/help](https://github.com/nodejs/help)
+2. 💪 Opened PR [#36480](https://github.com/nodejs/node/pull/36480) in [nodejs/node](https://github.com/nodejs/node)
 3. 🗣 Commented on [#36444](https://github.com/nodejs/node/issues/36444) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#3115](https://github.com/nodejs/help/issues/3115) in [nodejs/help](https://github.com/nodejs/help)
-5. 🗣 Commented on [#295](https://github.com/EddieJaoudeCommunity/EddieBot/issues/295) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. 🗣 Commented on [#36444](https://github.com/nodejs/node/issues/36444) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#3115](https://github.com/nodejs/help/issues/3115) in [nodejs/help](https://github.com/nodejs/help)
 <!--END_SECTION:activity-->
