@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36528](https://github.com/nodejs/node/pull/36528) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#36512](https://github.com/nodejs/node/issues/36512) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#3125](https://github.com/nodejs/help/issues/3125) in [nodejs/help](https://github.com/nodejs/help)
-4. 🗣 Commented on [#3065](https://github.com/nodejs/help/issues/3065) in [nodejs/help](https://github.com/nodejs/help)
-5. ❗️ Opened issue [#36512](https://github.com/nodejs/node/issues/36512) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#3125](https://github.com/nodejs/help/issues/3125) in [nodejs/help](https://github.com/nodejs/help)
+2. 💪 Opened PR [#36528](https://github.com/nodejs/node/pull/36528) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#36512](https://github.com/nodejs/node/issues/36512) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#3125](https://github.com/nodejs/help/issues/3125) in [nodejs/help](https://github.com/nodejs/help)
+5. 🗣 Commented on [#3065](https://github.com/nodejs/help/issues/3065) in [nodejs/help](https://github.com/nodejs/help)
 <!--END_SECTION:activity-->
