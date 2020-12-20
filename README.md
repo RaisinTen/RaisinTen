@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#36585](https://github.com/nodejs/node/issues/36585) in [nodejs/node](https://github.com/nodejs/node)
 2. 🗣 Commented on [#36585](https://github.com/nodejs/node/issues/36585) in [nodejs/node](https://github.com/nodejs/node)
 3. 🗣 Commented on [#36585](https://github.com/nodejs/node/issues/36585) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#3131](https://github.com/nodejs/help/issues/3131) in [nodejs/help](https://github.com/nodejs/help)
-5. ❌ Closed PR [#36583](https://github.com/nodejs/node/pull/36583) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#36585](https://github.com/nodejs/node/issues/36585) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#3131](https://github.com/nodejs/help/issues/3131) in [nodejs/help](https://github.com/nodejs/help)
 <!--END_SECTION:activity-->
