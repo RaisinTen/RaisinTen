@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36701](https://github.com/nodejs/node/issues/36701) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#36693](https://github.com/nodejs/node/issues/36693) in [nodejs/node](https://github.com/nodejs/node)
-3. ❗️ Opened issue [#36708](https://github.com/nodejs/node/issues/36708) in [nodejs/node](https://github.com/nodejs/node)
-4. ❗️ Closed issue [#36707](https://github.com/nodejs/node/issues/36707) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#36693](https://github.com/nodejs/node/issues/36693) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#36693](https://github.com/nodejs/node/issues/36693) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#36701](https://github.com/nodejs/node/issues/36701) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#36693](https://github.com/nodejs/node/issues/36693) in [nodejs/node](https://github.com/nodejs/node)
+4. ❗️ Opened issue [#36708](https://github.com/nodejs/node/issues/36708) in [nodejs/node](https://github.com/nodejs/node)
+5. ❗️ Closed issue [#36707](https://github.com/nodejs/node/issues/36707) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
