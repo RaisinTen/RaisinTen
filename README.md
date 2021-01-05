@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36190](https://github.com/nodejs/node/issues/36190) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#839](https://github.com/nodejs/node-addon-api/issues/839) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
-3. 🗣 Commented on [#36759](https://github.com/nodejs/node/issues/36759) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#839](https://github.com/nodejs/node-addon-api/issues/839) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
+2. 🗣 Commented on [#36190](https://github.com/nodejs/node/issues/36190) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#839](https://github.com/nodejs/node-addon-api/issues/839) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
 4. 🗣 Commented on [#36759](https://github.com/nodejs/node/issues/36759) in [nodejs/node](https://github.com/nodejs/node)
 5. 🗣 Commented on [#36759](https://github.com/nodejs/node/issues/36759) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
