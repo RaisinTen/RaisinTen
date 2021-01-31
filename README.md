@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#895](https://github.com/nodejs/node-addon-api/issues/895) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
-2. 💪 Opened PR [#895](https://github.com/nodejs/node-addon-api/pull/895) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
-3. 🗣 Commented on [#37146](https://github.com/nodejs/node/issues/37146) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#37101](https://github.com/nodejs/node/issues/37101) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#895](https://github.com/nodejs/node-addon-api/issues/895) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
+3. 💪 Opened PR [#895](https://github.com/nodejs/node-addon-api/pull/895) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
 4. 🗣 Commented on [#37146](https://github.com/nodejs/node/issues/37146) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#36660](https://github.com/nodejs/node/issues/36660) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#37146](https://github.com/nodejs/node/issues/37146) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
