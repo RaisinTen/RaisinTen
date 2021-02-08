@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8573](https://github.com/yarnpkg/yarn/issues/8573) in [yarnpkg/yarn](https://github.com/yarnpkg/yarn)
-2. ❗️ Opened issue [#2451](https://github.com/yarnpkg/berry/issues/2451) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
-3. ❗️ Opened issue [#37266](https://github.com/nodejs/node/issues/37266) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#37262](https://github.com/nodejs/node/issues/37262) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#37262](https://github.com/nodejs/node/issues/37262) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#3216](https://github.com/nodejs/help/issues/3216) in [nodejs/help](https://github.com/nodejs/help)
+2. 🗣 Commented on [#37221](https://github.com/nodejs/node/issues/37221) in [nodejs/node](https://github.com/nodejs/node)
+3. ❗️ Opened issue [#8573](https://github.com/yarnpkg/yarn/issues/8573) in [yarnpkg/yarn](https://github.com/yarnpkg/yarn)
+4. ❗️ Opened issue [#2451](https://github.com/yarnpkg/berry/issues/2451) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
+5. ❗️ Opened issue [#37266](https://github.com/nodejs/node/issues/37266) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
