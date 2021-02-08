@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37221](https://github.com/nodejs/node/issues/37221) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#3216](https://github.com/nodejs/help/issues/3216) in [nodejs/help](https://github.com/nodejs/help)
+1. 🗣 Commented on [#37275](https://github.com/nodejs/node/issues/37275) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#3215](https://github.com/nodejs/help/issues/3215) in [nodejs/help](https://github.com/nodejs/help)
 3. 🗣 Commented on [#37221](https://github.com/nodejs/node/issues/37221) in [nodejs/node](https://github.com/nodejs/node)
-4. ❗️ Opened issue [#8573](https://github.com/yarnpkg/yarn/issues/8573) in [yarnpkg/yarn](https://github.com/yarnpkg/yarn)
-5. ❗️ Opened issue [#2451](https://github.com/yarnpkg/berry/issues/2451) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
+4. 🗣 Commented on [#3216](https://github.com/nodejs/help/issues/3216) in [nodejs/help](https://github.com/nodejs/help)
+5. 🗣 Commented on [#37221](https://github.com/nodejs/node/issues/37221) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
