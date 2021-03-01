@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#101](https://github.com/nodejs/node-inspect/issues/101) in [nodejs/node-inspect](https://github.com/nodejs/node-inspect)
-2. 🗣 Commented on [#37524](https://github.com/nodejs/node/issues/37524) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#37528](https://github.com/nodejs/node/issues/37528) in [nodejs/node](https://github.com/nodejs/node)
+1. 💪 Opened PR [#3124](https://github.com/libuv/libuv/pull/3124) in [libuv/libuv](https://github.com/libuv/libuv)
+2. ❗️ Opened issue [#101](https://github.com/nodejs/node-inspect/issues/101) in [nodejs/node-inspect](https://github.com/nodejs/node-inspect)
+3. 🗣 Commented on [#37524](https://github.com/nodejs/node/issues/37524) in [nodejs/node](https://github.com/nodejs/node)
 4. 🗣 Commented on [#37528](https://github.com/nodejs/node/issues/37528) in [nodejs/node](https://github.com/nodejs/node)
 5. 🗣 Commented on [#37528](https://github.com/nodejs/node/issues/37528) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
