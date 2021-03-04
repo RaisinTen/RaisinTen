@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/RaisinTen/tests/pull/2) in [RaisinTen/tests](https://github.com/RaisinTen/tests)
-2. 💪 Opened PR [#2](https://github.com/RaisinTen/tests/pull/2) in [RaisinTen/tests](https://github.com/RaisinTen/tests)
-3. 🎉 Merged PR [#1](https://github.com/RaisinTen/tests/pull/1) in [RaisinTen/tests](https://github.com/RaisinTen/tests)
-4. 💪 Opened PR [#1](https://github.com/RaisinTen/tests/pull/1) in [RaisinTen/tests](https://github.com/RaisinTen/tests)
-5. 🗣 Commented on [#3247](https://github.com/nodejs/help/issues/3247) in [nodejs/help](https://github.com/nodejs/help)
+1. ❌ Closed PR [#37528](https://github.com/nodejs/node/pull/37528) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#37528](https://github.com/nodejs/node/issues/37528) in [nodejs/node](https://github.com/nodejs/node)
+3. 🎉 Merged PR [#2](https://github.com/RaisinTen/tests/pull/2) in [RaisinTen/tests](https://github.com/RaisinTen/tests)
+4. 💪 Opened PR [#2](https://github.com/RaisinTen/tests/pull/2) in [RaisinTen/tests](https://github.com/RaisinTen/tests)
+5. 🎉 Merged PR [#1](https://github.com/RaisinTen/tests/pull/1) in [RaisinTen/tests](https://github.com/RaisinTen/tests)
 <!--END_SECTION:activity-->
