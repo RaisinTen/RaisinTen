@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#37763](https://github.com/nodejs/node/issues/37763) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#37763](https://github.com/nodejs/node/issues/37763) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#3123](https://github.com/libuv/libuv/issues/3123) in [libuv/libuv](https://github.com/libuv/libuv)
-4. 🗣 Commented on [#3271](https://github.com/nodejs/help/issues/3271) in [nodejs/help](https://github.com/nodejs/help)
-5. 🗣 Commented on [#37757](https://github.com/nodejs/node/issues/37757) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#930](https://github.com/nodejs/node-addon-api/issues/930) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
+2. 🗣 Commented on [#3123](https://github.com/libuv/libuv/issues/3123) in [libuv/libuv](https://github.com/libuv/libuv)
+3. ❗️ Closed issue [#37763](https://github.com/nodejs/node/issues/37763) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#37763](https://github.com/nodejs/node/issues/37763) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#3123](https://github.com/libuv/libuv/issues/3123) in [libuv/libuv](https://github.com/libuv/libuv)
 <!--END_SECTION:activity-->
