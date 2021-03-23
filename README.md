@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3242](https://github.com/nodejs/help/pull/3242) in [nodejs/help](https://github.com/nodejs/help)
-2. 🗣 Commented on [#3135](https://github.com/libuv/libuv/issues/3135) in [libuv/libuv](https://github.com/libuv/libuv)
-3. 🗣 Commented on [#3116](https://github.com/libuv/libuv/issues/3116) in [libuv/libuv](https://github.com/libuv/libuv)
-4. 💪 Opened PR [#3135](https://github.com/libuv/libuv/pull/3135) in [libuv/libuv](https://github.com/libuv/libuv)
-5. 🗣 Commented on [#930](https://github.com/nodejs/node-addon-api/issues/930) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
+1. 🗣 Commented on [#37874](https://github.com/nodejs/node/issues/37874) in [nodejs/node](https://github.com/nodejs/node)
+2. 💪 Opened PR [#3138](https://github.com/libuv/libuv/pull/3138) in [libuv/libuv](https://github.com/libuv/libuv)
+3. 🗣 Commented on [#37874](https://github.com/nodejs/node/issues/37874) in [nodejs/node](https://github.com/nodejs/node)
+4. ❌ Closed PR [#3242](https://github.com/nodejs/help/pull/3242) in [nodejs/help](https://github.com/nodejs/help)
+5. 🗣 Commented on [#3135](https://github.com/libuv/libuv/issues/3135) in [libuv/libuv](https://github.com/libuv/libuv)
 <!--END_SECTION:activity-->
