@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#930](https://github.com/nodejs/node-addon-api/issues/930) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
-2. ❌ Closed PR [#38144](https://github.com/nodejs/node/pull/38144) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#38144](https://github.com/nodejs/node/issues/38144) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#38183](https://github.com/nodejs/node/issues/38183) in [nodejs/node](https://github.com/nodejs/node)
-5. 💪 Opened PR [#3145](https://github.com/libuv/libuv/pull/3145) in [libuv/libuv](https://github.com/libuv/libuv)
+1. 🗣 Commented on [#38171](https://github.com/nodejs/node/issues/38171) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#38199](https://github.com/nodejs/node/issues/38199) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#930](https://github.com/nodejs/node-addon-api/issues/930) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
+4. ❌ Closed PR [#38144](https://github.com/nodejs/node/pull/38144) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#38144](https://github.com/nodejs/node/issues/38144) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
