@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3164](https://github.com/libuv/libuv/issues/3164) in [libuv/libuv](https://github.com/libuv/libuv)
-2. 💪 Opened PR [#3165](https://github.com/libuv/libuv/pull/3165) in [libuv/libuv](https://github.com/libuv/libuv)
+2. 🗣 Commented on [#38580](https://github.com/nodejs/node/issues/38580) in [nodejs/node](https://github.com/nodejs/node)
 3. 🗣 Commented on [#3164](https://github.com/libuv/libuv/issues/3164) in [libuv/libuv](https://github.com/libuv/libuv)
-4. 🗣 Commented on [#38490](https://github.com/nodejs/node/issues/38490) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#3354](https://github.com/nodejs/help/issues/3354) in [nodejs/help](https://github.com/nodejs/help)
+4. 💪 Opened PR [#3165](https://github.com/libuv/libuv/pull/3165) in [libuv/libuv](https://github.com/libuv/libuv)
+5. 🗣 Commented on [#3164](https://github.com/libuv/libuv/issues/3164) in [libuv/libuv](https://github.com/libuv/libuv)
 <!--END_SECTION:activity-->
