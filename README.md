@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3165](https://github.com/libuv/libuv/issues/3165) in [libuv/libuv](https://github.com/libuv/libuv)
-2. 🗣 Commented on [#3164](https://github.com/libuv/libuv/issues/3164) in [libuv/libuv](https://github.com/libuv/libuv)
-3. 🗣 Commented on [#38580](https://github.com/nodejs/node/issues/38580) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#3164](https://github.com/libuv/libuv/issues/3164) in [libuv/libuv](https://github.com/libuv/libuv)
-5. 💪 Opened PR [#3165](https://github.com/libuv/libuv/pull/3165) in [libuv/libuv](https://github.com/libuv/libuv)
+1. ❌ Closed PR [#3165](https://github.com/libuv/libuv/pull/3165) in [libuv/libuv](https://github.com/libuv/libuv)
+2. 🗣 Commented on [#3165](https://github.com/libuv/libuv/issues/3165) in [libuv/libuv](https://github.com/libuv/libuv)
+3. 💪 Opened PR [#3168](https://github.com/libuv/libuv/pull/3168) in [libuv/libuv](https://github.com/libuv/libuv)
+4. 🗣 Commented on [#3165](https://github.com/libuv/libuv/issues/3165) in [libuv/libuv](https://github.com/libuv/libuv)
+5. 🗣 Commented on [#3164](https://github.com/libuv/libuv/issues/3164) in [libuv/libuv](https://github.com/libuv/libuv)
 <!--END_SECTION:activity-->
