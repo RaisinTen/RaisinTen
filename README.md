@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#38810](https://github.com/nodejs/node/issues/38810) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#3188](https://github.com/libuv/libuv/issues/3188) in [libuv/libuv](https://github.com/libuv/libuv)
-3. 🗣 Commented on [#38810](https://github.com/nodejs/node/issues/38810) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#38810](https://github.com/nodejs/node/issues/38810) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#3188](https://github.com/libuv/libuv/issues/3188) in [libuv/libuv](https://github.com/libuv/libuv)
 4. 🗣 Commented on [#38810](https://github.com/nodejs/node/issues/38810) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#38569](https://github.com/nodejs/node/issues/38569) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#38810](https://github.com/nodejs/node/issues/38810) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
