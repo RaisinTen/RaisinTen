@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-profile-trophy.vercel.app/?username=RaisinTen&theme=onedark" width="100%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaisinTen&show_icons=true&theme=tokyonight" width="54.4%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaisinTen&layout=compact&theme=tokyonight" width="45.6%">
+<img src="https://github-readme-stats-plum-eta.vercel.app/api?username=RaisinTen&show_icons=true&theme=tokyonight" width="54.4%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaisinTen&layout=compact&theme=tokyonight" width="45.6%">
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
