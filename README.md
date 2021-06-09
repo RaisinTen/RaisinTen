@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29592](https://github.com/electron/electron/issues/29592) in [electron/electron](https://github.com/electron/electron)
-2. 🗣 Commented on [#38810](https://github.com/nodejs/node/issues/38810) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#29580](https://github.com/electron/electron/issues/29580) in [electron/electron](https://github.com/electron/electron)
-4. 💪 Opened PR [#29592](https://github.com/electron/electron/pull/29592) in [electron/electron](https://github.com/electron/electron)
-5. 🗣 Commented on [#3087](https://github.com/nodejs/help/issues/3087) in [nodejs/help](https://github.com/nodejs/help)
+1. 💪 Opened PR [#29609](https://github.com/electron/electron/pull/29609) in [electron/electron](https://github.com/electron/electron)
+2. 🗣 Commented on [#29592](https://github.com/electron/electron/issues/29592) in [electron/electron](https://github.com/electron/electron)
+3. 🗣 Commented on [#38810](https://github.com/nodejs/node/issues/38810) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#29580](https://github.com/electron/electron/issues/29580) in [electron/electron](https://github.com/electron/electron)
+5. 💪 Opened PR [#29592](https://github.com/electron/electron/pull/29592) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
