@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38810](https://github.com/nodejs/node/issues/38810) in [nodejs/node](https://github.com/nodejs/node)
-2. 💪 Opened PR [#29609](https://github.com/electron/electron/pull/29609) in [electron/electron](https://github.com/electron/electron)
-3. 🗣 Commented on [#29592](https://github.com/electron/electron/issues/29592) in [electron/electron](https://github.com/electron/electron)
+1. 🗣 Commented on [#3205](https://github.com/libuv/libuv/issues/3205) in [libuv/libuv](https://github.com/libuv/libuv)
+2. 🗣 Commented on [#3180](https://github.com/libuv/libuv/issues/3180) in [libuv/libuv](https://github.com/libuv/libuv)
+3. 💪 Opened PR [#3205](https://github.com/libuv/libuv/pull/3205) in [libuv/libuv](https://github.com/libuv/libuv)
 4. 🗣 Commented on [#38810](https://github.com/nodejs/node/issues/38810) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#29580](https://github.com/electron/electron/issues/29580) in [electron/electron](https://github.com/electron/electron)
+5. 💪 Opened PR [#29609](https://github.com/electron/electron/pull/29609) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
