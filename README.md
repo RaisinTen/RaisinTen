@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39592](https://github.com/nodejs/node/issues/39592) in [nodejs/node](https://github.com/nodejs/node)
-2. 💪 Opened PR [#39603](https://github.com/nodejs/node/pull/39603) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#38468](https://github.com/nodejs/node/issues/38468) in [nodejs/node](https://github.com/nodejs/node)
+1. 💪 Opened PR [#30414](https://github.com/electron/electron/pull/30414) in [electron/electron](https://github.com/electron/electron)
+2. 🗣 Commented on [#39592](https://github.com/nodejs/node/issues/39592) in [nodejs/node](https://github.com/nodejs/node)
+3. 💪 Opened PR [#39603](https://github.com/nodejs/node/pull/39603) in [nodejs/node](https://github.com/nodejs/node)
 4. 🗣 Commented on [#38468](https://github.com/nodejs/node/issues/38468) in [nodejs/node](https://github.com/nodejs/node)
-5. 💪 Opened PR [#509](https://github.com/electron/electron-quick-start/pull/509) in [electron/electron-quick-start](https://github.com/electron/electron-quick-start)
+5. 🗣 Commented on [#38468](https://github.com/nodejs/node/issues/38468) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
