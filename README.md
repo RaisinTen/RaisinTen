@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/angular/clang-format/issues/70) in [angular/clang-format](https://github.com/angular/clang-format)
-2. ❗️ Closed issue [#39769](https://github.com/nodejs/node/issues/39769) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#39768](https://github.com/nodejs/node/issues/39768) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#38675](https://github.com/nodejs/node/issues/38675) in [nodejs/node](https://github.com/nodejs/node)
+1. 💪 Opened PR [#39829](https://github.com/nodejs/node/pull/39829) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#70](https://github.com/angular/clang-format/issues/70) in [angular/clang-format](https://github.com/angular/clang-format)
+3. ❗️ Closed issue [#39769](https://github.com/nodejs/node/issues/39769) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#39768](https://github.com/nodejs/node/issues/39768) in [nodejs/node](https://github.com/nodejs/node)
 5. 🗣 Commented on [#38675](https://github.com/nodejs/node/issues/38675) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
