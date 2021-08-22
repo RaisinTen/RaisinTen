@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#37877](https://github.com/nodejs/node/issues/37877) in [nodejs/node](https://github.com/nodejs/node)
-2. 💪 Opened PR [#39834](https://github.com/nodejs/node/pull/39834) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#39798](https://github.com/nodejs/node/issues/39798) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#39829](https://github.com/nodejs/node/issues/39829) in [nodejs/node](https://github.com/nodejs/node)
-5. 💪 Opened PR [#39829](https://github.com/nodejs/node/pull/39829) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#37877](https://github.com/nodejs/node/issues/37877) in [nodejs/node](https://github.com/nodejs/node)
+3. 💪 Opened PR [#39834](https://github.com/nodejs/node/pull/39834) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#39798](https://github.com/nodejs/node/issues/39798) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#39829](https://github.com/nodejs/node/issues/39829) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
