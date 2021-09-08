@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39991](https://github.com/nodejs/node/pull/39991) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#3286](https://github.com/libuv/libuv/issues/3286) in [libuv/libuv](https://github.com/libuv/libuv)
-3. 💪 Opened PR [#3286](https://github.com/libuv/libuv/pull/3286) in [libuv/libuv](https://github.com/libuv/libuv)
-4. 💪 Opened PR [#39941](https://github.com/nodejs/node/pull/39941) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#930](https://github.com/nodejs/node-addon-api/issues/930) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
+1. 🗣 Commented on [#3286](https://github.com/libuv/libuv/issues/3286) in [libuv/libuv](https://github.com/libuv/libuv)
+2. 💪 Opened PR [#39991](https://github.com/nodejs/node/pull/39991) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#3286](https://github.com/libuv/libuv/issues/3286) in [libuv/libuv](https://github.com/libuv/libuv)
+4. 💪 Opened PR [#3286](https://github.com/libuv/libuv/pull/3286) in [libuv/libuv](https://github.com/libuv/libuv)
+5. 💪 Opened PR [#39941](https://github.com/nodejs/node/pull/39941) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
