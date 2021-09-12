@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3303](https://github.com/libuv/libuv/issues/3303) in [libuv/libuv](https://github.com/libuv/libuv)
-2. 💪 Opened PR [#3303](https://github.com/libuv/libuv/pull/3303) in [libuv/libuv](https://github.com/libuv/libuv)
-3. 💪 Opened PR [#30920](https://github.com/electron/electron/pull/30920) in [electron/electron](https://github.com/electron/electron)
-4. 💪 Opened PR [#40084](https://github.com/nodejs/node/pull/40084) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#930](https://github.com/nodejs/node-addon-api/issues/930) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
+1. 🗣 Commented on [#3212](https://github.com/libuv/libuv/issues/3212) in [libuv/libuv](https://github.com/libuv/libuv)
+2. ❗️ Opened issue [#3304](https://github.com/libuv/libuv/issues/3304) in [libuv/libuv](https://github.com/libuv/libuv)
+3. 🗣 Commented on [#3303](https://github.com/libuv/libuv/issues/3303) in [libuv/libuv](https://github.com/libuv/libuv)
+4. 💪 Opened PR [#3303](https://github.com/libuv/libuv/pull/3303) in [libuv/libuv](https://github.com/libuv/libuv)
+5. 💪 Opened PR [#30920](https://github.com/electron/electron/pull/30920) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
