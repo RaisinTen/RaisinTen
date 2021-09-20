@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31023](https://github.com/electron/electron/pull/31023) in [electron/electron](https://github.com/electron/electron)
-2. 💪 Opened PR [#3313](https://github.com/libuv/libuv/pull/3313) in [libuv/libuv](https://github.com/libuv/libuv)
-3. 💪 Opened PR [#40151](https://github.com/nodejs/node/pull/40151) in [nodejs/node](https://github.com/nodejs/node)
-4. ❌ Closed PR [#30929](https://github.com/electron/electron/pull/30929) in [electron/electron](https://github.com/electron/electron)
-5. 🗣 Commented on [#30929](https://github.com/electron/electron/issues/30929) in [electron/electron](https://github.com/electron/electron)
+1. ❗️ Opened issue [#31024](https://github.com/electron/electron/issues/31024) in [electron/electron](https://github.com/electron/electron)
+2. 💪 Opened PR [#31023](https://github.com/electron/electron/pull/31023) in [electron/electron](https://github.com/electron/electron)
+3. 💪 Opened PR [#3313](https://github.com/libuv/libuv/pull/3313) in [libuv/libuv](https://github.com/libuv/libuv)
+4. 💪 Opened PR [#40151](https://github.com/nodejs/node/pull/40151) in [nodejs/node](https://github.com/nodejs/node)
+5. ❌ Closed PR [#30929](https://github.com/electron/electron/pull/30929) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
