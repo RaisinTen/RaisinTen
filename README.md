@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31023](https://github.com/electron/electron/issues/31023) in [electron/electron](https://github.com/electron/electron)
-2. 💪 Opened PR [#40457](https://github.com/nodejs/node/pull/40457) in [nodejs/node](https://github.com/nodejs/node)
-3. 💪 Opened PR [#40425](https://github.com/nodejs/node/pull/40425) in [nodejs/node](https://github.com/nodejs/node)
-4. ❌ Closed PR [#40293](https://github.com/nodejs/node/pull/40293) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#40293](https://github.com/nodejs/node/issues/40293) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#1090](https://github.com/nodejs/node-addon-api/issues/1090) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
+2. 🗣 Commented on [#31023](https://github.com/electron/electron/issues/31023) in [electron/electron](https://github.com/electron/electron)
+3. 💪 Opened PR [#40457](https://github.com/nodejs/node/pull/40457) in [nodejs/node](https://github.com/nodejs/node)
+4. 💪 Opened PR [#40425](https://github.com/nodejs/node/pull/40425) in [nodejs/node](https://github.com/nodejs/node)
+5. ❌ Closed PR [#40293](https://github.com/nodejs/node/pull/40293) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
