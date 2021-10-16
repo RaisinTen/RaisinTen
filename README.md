@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40481](https://github.com/nodejs/node/pull/40481) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#1090](https://github.com/nodejs/node-addon-api/issues/1090) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
-3. 🗣 Commented on [#31023](https://github.com/electron/electron/issues/31023) in [electron/electron](https://github.com/electron/electron)
-4. 💪 Opened PR [#40457](https://github.com/nodejs/node/pull/40457) in [nodejs/node](https://github.com/nodejs/node)
-5. 💪 Opened PR [#40425](https://github.com/nodejs/node/pull/40425) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#3303](https://github.com/libuv/libuv/issues/3303) in [libuv/libuv](https://github.com/libuv/libuv)
+2. 💪 Opened PR [#40481](https://github.com/nodejs/node/pull/40481) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#1090](https://github.com/nodejs/node-addon-api/issues/1090) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
+4. 🗣 Commented on [#31023](https://github.com/electron/electron/issues/31023) in [electron/electron](https://github.com/electron/electron)
+5. 💪 Opened PR [#40457](https://github.com/nodejs/node/pull/40457) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
