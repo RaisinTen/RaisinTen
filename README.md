@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1089](https://github.com/nodejs/node-addon-api/issues/1089) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
-2. 💪 Opened PR [#1092](https://github.com/nodejs/node-addon-api/pull/1092) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
-3. 🗣 Commented on [#40481](https://github.com/nodejs/node/issues/40481) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#3303](https://github.com/libuv/libuv/issues/3303) in [libuv/libuv](https://github.com/libuv/libuv)
-5. 💪 Opened PR [#40481](https://github.com/nodejs/node/pull/40481) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#3193](https://github.com/libuv/libuv/issues/3193) in [libuv/libuv](https://github.com/libuv/libuv)
+2. 🗣 Commented on [#70](https://github.com/angular/clang-format/issues/70) in [angular/clang-format](https://github.com/angular/clang-format)
+3. 🗣 Commented on [#1089](https://github.com/nodejs/node-addon-api/issues/1089) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
+4. 💪 Opened PR [#1092](https://github.com/nodejs/node-addon-api/pull/1092) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
+5. 🗣 Commented on [#40481](https://github.com/nodejs/node/issues/40481) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
