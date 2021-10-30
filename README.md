@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3193](https://github.com/libuv/libuv/issues/3193) in [libuv/libuv](https://github.com/libuv/libuv)
-2. 🗣 Commented on [#70](https://github.com/angular/clang-format/issues/70) in [angular/clang-format](https://github.com/angular/clang-format)
-3. 💪 Opened PR [#40584](https://github.com/nodejs/node/pull/40584) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#3193](https://github.com/libuv/libuv/issues/3193) in [libuv/libuv](https://github.com/libuv/libuv)
-5. 🗣 Commented on [#70](https://github.com/angular/clang-format/issues/70) in [angular/clang-format](https://github.com/angular/clang-format)
+1. 💪 Opened PR [#40665](https://github.com/nodejs/node/pull/40665) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#3193](https://github.com/libuv/libuv/issues/3193) in [libuv/libuv](https://github.com/libuv/libuv)
+3. 🗣 Commented on [#70](https://github.com/angular/clang-format/issues/70) in [angular/clang-format](https://github.com/angular/clang-format)
+4. 💪 Opened PR [#40584](https://github.com/nodejs/node/pull/40584) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#3193](https://github.com/libuv/libuv/issues/3193) in [libuv/libuv](https://github.com/libuv/libuv)
 <!--END_SECTION:activity-->
