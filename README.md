@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40665](https://github.com/nodejs/node/pull/40665) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#3193](https://github.com/libuv/libuv/issues/3193) in [libuv/libuv](https://github.com/libuv/libuv)
-3. 🗣 Commented on [#70](https://github.com/angular/clang-format/issues/70) in [angular/clang-format](https://github.com/angular/clang-format)
-4. 💪 Opened PR [#40584](https://github.com/nodejs/node/pull/40584) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#3193](https://github.com/libuv/libuv/issues/3193) in [libuv/libuv](https://github.com/libuv/libuv)
+1. 💪 Opened PR [#40675](https://github.com/nodejs/node/pull/40675) in [nodejs/node](https://github.com/nodejs/node)
+2. 💪 Opened PR [#40665](https://github.com/nodejs/node/pull/40665) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#3193](https://github.com/libuv/libuv/issues/3193) in [libuv/libuv](https://github.com/libuv/libuv)
+4. 🗣 Commented on [#70](https://github.com/angular/clang-format/issues/70) in [angular/clang-format](https://github.com/angular/clang-format)
+5. 💪 Opened PR [#40584](https://github.com/nodejs/node/pull/40584) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
