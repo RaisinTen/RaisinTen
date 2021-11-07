@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#40741](https://github.com/nodejs/node/issues/40741) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#40693](https://github.com/nodejs/node/issues/40693) in [nodejs/node](https://github.com/nodejs/node)
-3. 💪 Opened PR [#40741](https://github.com/nodejs/node/pull/40741) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#3193](https://github.com/libuv/libuv/issues/3193) in [libuv/libuv](https://github.com/libuv/libuv)
-5. 💪 Opened PR [#40675](https://github.com/nodejs/node/pull/40675) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#40741](https://github.com/nodejs/node/issues/40741) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#40693](https://github.com/nodejs/node/issues/40693) in [nodejs/node](https://github.com/nodejs/node)
+4. 💪 Opened PR [#40741](https://github.com/nodejs/node/pull/40741) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#3193](https://github.com/libuv/libuv/issues/3193) in [libuv/libuv](https://github.com/libuv/libuv)
 <!--END_SECTION:activity-->
