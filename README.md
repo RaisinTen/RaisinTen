@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3577](https://github.com/nodejs/help/issues/3577) in [nodejs/help](https://github.com/nodejs/help)
-2. ❌ Closed PR [#70](https://github.com/angular/clang-format/pull/70) in [angular/clang-format](https://github.com/angular/clang-format)
-3. 🗣 Commented on [#70](https://github.com/angular/clang-format/issues/70) in [angular/clang-format](https://github.com/angular/clang-format)
-4. 🗣 Commented on [#3590](https://github.com/nodejs/help/issues/3590) in [nodejs/help](https://github.com/nodejs/help)
-5. 🗣 Commented on [#31024](https://github.com/electron/electron/issues/31024) in [electron/electron](https://github.com/electron/electron)
+1. 🗣 Commented on [#40741](https://github.com/nodejs/node/issues/40741) in [nodejs/node](https://github.com/nodejs/node)
+2. ❗️ Closed issue [#3577](https://github.com/nodejs/help/issues/3577) in [nodejs/help](https://github.com/nodejs/help)
+3. ❌ Closed PR [#70](https://github.com/angular/clang-format/pull/70) in [angular/clang-format](https://github.com/angular/clang-format)
+4. 🗣 Commented on [#70](https://github.com/angular/clang-format/issues/70) in [angular/clang-format](https://github.com/angular/clang-format)
+5. 🗣 Commented on [#3590](https://github.com/nodejs/help/issues/3590) in [nodejs/help](https://github.com/nodejs/help)
 <!--END_SECTION:activity-->
