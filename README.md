@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#40810](https://github.com/nodejs/node/issues/40810) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#40813](https://github.com/nodejs/node/issues/40813) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#31933](https://github.com/electron/electron/issues/31933) in [electron/electron](https://github.com/electron/electron)
-4. 💪 Opened PR [#40903](https://github.com/nodejs/node/pull/40903) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#40813](https://github.com/nodejs/node/issues/40813) in [nodejs/node](https://github.com/nodejs/node)
+2. ❌ Closed PR [#40810](https://github.com/nodejs/node/pull/40810) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#40810](https://github.com/nodejs/node/issues/40810) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#40813](https://github.com/nodejs/node/issues/40813) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#31933](https://github.com/electron/electron/issues/31933) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
