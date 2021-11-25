@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#37262](https://github.com/nodejs/node/pull/37262) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#37262](https://github.com/nodejs/node/issues/37262) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#40813](https://github.com/nodejs/node/issues/40813) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#54](https://github.com/browserify/commonjs-assert/issues/54) in [browserify/commonjs-assert](https://github.com/browserify/commonjs-assert)
-5. 💪 Opened PR [#54](https://github.com/browserify/commonjs-assert/pull/54) in [browserify/commonjs-assert](https://github.com/browserify/commonjs-assert)
+1. 🗣 Commented on [#40961](https://github.com/nodejs/node/issues/40961) in [nodejs/node](https://github.com/nodejs/node)
+2. ❌ Closed PR [#37262](https://github.com/nodejs/node/pull/37262) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#37262](https://github.com/nodejs/node/issues/37262) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#40813](https://github.com/nodejs/node/issues/40813) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#54](https://github.com/browserify/commonjs-assert/issues/54) in [browserify/commonjs-assert](https://github.com/browserify/commonjs-assert)
 <!--END_SECTION:activity-->
