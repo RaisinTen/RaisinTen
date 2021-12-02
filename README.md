@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/browserify/commonjs-assert/issues/54) in [browserify/commonjs-assert](https://github.com/browserify/commonjs-assert)
-2. 🗣 Commented on [#40813](https://github.com/nodejs/node/issues/40813) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#40813](https://github.com/nodejs/node/issues/40813) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#54](https://github.com/browserify/commonjs-assert/issues/54) in [browserify/commonjs-assert](https://github.com/browserify/commonjs-assert)
 3. 🗣 Commented on [#40813](https://github.com/nodejs/node/issues/40813) in [nodejs/node](https://github.com/nodejs/node)
 4. 🗣 Commented on [#40813](https://github.com/nodejs/node/issues/40813) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#32050](https://github.com/electron/electron/issues/32050) in [electron/electron](https://github.com/electron/electron)
+5. 🗣 Commented on [#40813](https://github.com/nodejs/node/issues/40813) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
