@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41294](https://github.com/nodejs/node/issues/41294) in [nodejs/node](https://github.com/nodejs/node)
-2. 💪 Opened PR [#41329](https://github.com/nodejs/node/pull/41329) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#25](https://github.com/boostorg/lambda/issues/25) in [boostorg/lambda](https://github.com/boostorg/lambda)
-4. 💪 Opened PR [#25](https://github.com/boostorg/lambda/pull/25) in [boostorg/lambda](https://github.com/boostorg/lambda)
-5. 💪 Opened PR [#485](https://github.com/siimon/prom-client/pull/485) in [siimon/prom-client](https://github.com/siimon/prom-client)
+1. 🗣 Commented on [#25](https://github.com/boostorg/lambda/issues/25) in [boostorg/lambda](https://github.com/boostorg/lambda)
+2. 🗣 Commented on [#41294](https://github.com/nodejs/node/issues/41294) in [nodejs/node](https://github.com/nodejs/node)
+3. 💪 Opened PR [#41329](https://github.com/nodejs/node/pull/41329) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#25](https://github.com/boostorg/lambda/issues/25) in [boostorg/lambda](https://github.com/boostorg/lambda)
+5. 💪 Opened PR [#25](https://github.com/boostorg/lambda/pull/25) in [boostorg/lambda](https://github.com/boostorg/lambda)
 <!--END_SECTION:activity-->
