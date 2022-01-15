@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17507](https://github.com/openssl/openssl/issues/17507) in [openssl/openssl](https://github.com/openssl/openssl)
-2. 🗣 Commented on [#41428](https://github.com/nodejs/node/issues/41428) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#41529](https://github.com/nodejs/node/issues/41529) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#17507](https://github.com/openssl/openssl/issues/17507) in [openssl/openssl](https://github.com/openssl/openssl)
 3. 🗣 Commented on [#41428](https://github.com/nodejs/node/issues/41428) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#17506](https://github.com/openssl/openssl/issues/17506) in [openssl/openssl](https://github.com/openssl/openssl)
-5. 💪 Opened PR [#17507](https://github.com/openssl/openssl/pull/17507) in [openssl/openssl](https://github.com/openssl/openssl)
+4. 🗣 Commented on [#41428](https://github.com/nodejs/node/issues/41428) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#17506](https://github.com/openssl/openssl/issues/17506) in [openssl/openssl](https://github.com/openssl/openssl)
 <!--END_SECTION:activity-->
