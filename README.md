@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#485](https://github.com/siimon/prom-client/issues/485) in [siimon/prom-client](https://github.com/siimon/prom-client)
-2. 💪 Opened PR [#488](https://github.com/siimon/prom-client/pull/488) in [siimon/prom-client](https://github.com/siimon/prom-client)
-3. 🗣 Commented on [#32480](https://github.com/electron/electron/issues/32480) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#41529](https://github.com/nodejs/node/issues/41529) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#17507](https://github.com/openssl/openssl/issues/17507) in [openssl/openssl](https://github.com/openssl/openssl)
+1. ❗️ Reopened issue [#41380](https://github.com/nodejs/node/issues/41380) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#41380](https://github.com/nodejs/node/issues/41380) in [nodejs/node](https://github.com/nodejs/node)
+3. 💪 Opened PR [#41555](https://github.com/nodejs/node/pull/41555) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#485](https://github.com/siimon/prom-client/issues/485) in [siimon/prom-client](https://github.com/siimon/prom-client)
+5. 💪 Opened PR [#488](https://github.com/siimon/prom-client/pull/488) in [siimon/prom-client](https://github.com/siimon/prom-client)
 <!--END_SECTION:activity-->
