@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#17507](https://github.com/openssl/openssl/issues/17507) in [openssl/openssl](https://github.com/openssl/openssl)
-2. 🗣 Commented on [#32515](https://github.com/electron/electron/issues/32515) in [electron/electron](https://github.com/electron/electron)
-3. 🗣 Commented on [#32515](https://github.com/electron/electron/issues/32515) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#32480](https://github.com/electron/electron/issues/32480) in [electron/electron](https://github.com/electron/electron)
-5. 🗣 Commented on [#41587](https://github.com/nodejs/node/issues/41587) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#17507](https://github.com/openssl/openssl/issues/17507) in [openssl/openssl](https://github.com/openssl/openssl)
+3. 🗣 Commented on [#17507](https://github.com/openssl/openssl/issues/17507) in [openssl/openssl](https://github.com/openssl/openssl)
+4. 🗣 Commented on [#32515](https://github.com/electron/electron/issues/32515) in [electron/electron](https://github.com/electron/electron)
+5. 🗣 Commented on [#32515](https://github.com/electron/electron/issues/32515) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
