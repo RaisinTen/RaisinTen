@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17507](https://github.com/openssl/openssl/issues/17507) in [openssl/openssl](https://github.com/openssl/openssl)
-2. 🗣 Commented on [#17507](https://github.com/openssl/openssl/issues/17507) in [openssl/openssl](https://github.com/openssl/openssl)
+1. 🗣 Commented on [#491](https://github.com/siimon/prom-client/issues/491) in [siimon/prom-client](https://github.com/siimon/prom-client)
+2. 💪 Opened PR [#491](https://github.com/siimon/prom-client/pull/491) in [siimon/prom-client](https://github.com/siimon/prom-client)
 3. 🗣 Commented on [#17507](https://github.com/openssl/openssl/issues/17507) in [openssl/openssl](https://github.com/openssl/openssl)
 4. 🗣 Commented on [#17507](https://github.com/openssl/openssl/issues/17507) in [openssl/openssl](https://github.com/openssl/openssl)
-5. 🗣 Commented on [#32515](https://github.com/electron/electron/issues/32515) in [electron/electron](https://github.com/electron/electron)
+5. 🗣 Commented on [#17507](https://github.com/openssl/openssl/issues/17507) in [openssl/openssl](https://github.com/openssl/openssl)
 <!--END_SECTION:activity-->
