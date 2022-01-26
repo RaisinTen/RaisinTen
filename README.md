@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41678](https://github.com/nodejs/node/issues/41678) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#41587](https://github.com/nodejs/node/issues/41587) in [nodejs/node](https://github.com/nodejs/node)
 2. 🗣 Commented on [#41678](https://github.com/nodejs/node/issues/41678) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#322](https://github.com/electron/build-tools/issues/322) in [electron/build-tools](https://github.com/electron/build-tools)
-4. 🗣 Commented on [#32548](https://github.com/electron/electron/issues/32548) in [electron/electron](https://github.com/electron/electron)
-5. 🗣 Commented on [#41661](https://github.com/nodejs/node/issues/41661) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#41678](https://github.com/nodejs/node/issues/41678) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#322](https://github.com/electron/build-tools/issues/322) in [electron/build-tools](https://github.com/electron/build-tools)
+5. 🗣 Commented on [#32548](https://github.com/electron/electron/issues/32548) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
