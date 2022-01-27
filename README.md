@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17507](https://github.com/openssl/openssl/issues/17507) in [openssl/openssl](https://github.com/openssl/openssl)
-2. 🗣 Commented on [#41633](https://github.com/nodejs/node/issues/41633) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#41697](https://github.com/nodejs/node/issues/41697) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#41587](https://github.com/nodejs/node/issues/41587) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#41678](https://github.com/nodejs/node/issues/41678) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#5856](https://github.com/MicrosoftDocs/windowsserverdocs/issues/5856) in [MicrosoftDocs/windowsserverdocs](https://github.com/MicrosoftDocs/windowsserverdocs)
+2. 💪 Opened PR [#6233](https://github.com/MicrosoftDocs/windowsserverdocs/pull/6233) in [MicrosoftDocs/windowsserverdocs](https://github.com/MicrosoftDocs/windowsserverdocs)
+3. 🗣 Commented on [#17507](https://github.com/openssl/openssl/issues/17507) in [openssl/openssl](https://github.com/openssl/openssl)
+4. 🗣 Commented on [#41633](https://github.com/nodejs/node/issues/41633) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#41697](https://github.com/nodejs/node/issues/41697) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
