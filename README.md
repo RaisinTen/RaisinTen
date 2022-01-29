@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 2. 🗣 Commented on [#41610](https://github.com/nodejs/node/issues/41610) in [nodejs/node](https://github.com/nodejs/node)
 3. 🗣 Commented on [#41610](https://github.com/nodejs/node/issues/41610) in [nodejs/node](https://github.com/nodejs/node)
 4. 🗣 Commented on [#41610](https://github.com/nodejs/node/issues/41610) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#41428](https://github.com/nodejs/node/issues/41428) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#41610](https://github.com/nodejs/node/issues/41610) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
