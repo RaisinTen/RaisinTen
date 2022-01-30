@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41749](https://github.com/nodejs/node/issues/41749) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#41745](https://github.com/nodejs/node/issues/41745) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#41759](https://github.com/nodejs/node/issues/41759) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#41749](https://github.com/nodejs/node/issues/41749) in [nodejs/node](https://github.com/nodejs/node)
 3. 🗣 Commented on [#41745](https://github.com/nodejs/node/issues/41745) in [nodejs/node](https://github.com/nodejs/node)
-4. 💪 Opened PR [#75](https://github.com/quictls/openssl/pull/75) in [quictls/openssl](https://github.com/quictls/openssl)
-5. 🗣 Commented on [#41610](https://github.com/nodejs/node/issues/41610) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#41745](https://github.com/nodejs/node/issues/41745) in [nodejs/node](https://github.com/nodejs/node)
+5. 💪 Opened PR [#75](https://github.com/quictls/openssl/pull/75) in [quictls/openssl](https://github.com/quictls/openssl)
 <!--END_SECTION:activity-->
