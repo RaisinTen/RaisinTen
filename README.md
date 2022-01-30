@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#41745](https://github.com/nodejs/node/issues/41745) in [nodejs/node](https://github.com/nodejs/node)
-2. 💪 Opened PR [#75](https://github.com/quictls/openssl/pull/75) in [quictls/openssl](https://github.com/quictls/openssl)
-3. 🗣 Commented on [#41610](https://github.com/nodejs/node/issues/41610) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#41745](https://github.com/nodejs/node/issues/41745) in [nodejs/node](https://github.com/nodejs/node)
+3. 💪 Opened PR [#75](https://github.com/quictls/openssl/pull/75) in [quictls/openssl](https://github.com/quictls/openssl)
 4. 🗣 Commented on [#41610](https://github.com/nodejs/node/issues/41610) in [nodejs/node](https://github.com/nodejs/node)
 5. 🗣 Commented on [#41610](https://github.com/nodejs/node/issues/41610) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
