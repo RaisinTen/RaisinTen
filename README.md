@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41745](https://github.com/nodejs/node/issues/41745) in [nodejs/node](https://github.com/nodejs/node)
-2. 💪 Opened PR [#32713](https://github.com/electron/electron/pull/32713) in [electron/electron](https://github.com/electron/electron)
-3. 💪 Opened PR [#1](https://github.com/RaisinTen/gn-action-rerun/pull/1) in [RaisinTen/gn-action-rerun](https://github.com/RaisinTen/gn-action-rerun)
-4. 🗣 Commented on [#10619](https://github.com/postmanlabs/postman-app-support/issues/10619) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
-5. ❗️ Closed issue [#10619](https://github.com/postmanlabs/postman-app-support/issues/10619) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+1. 🗣 Commented on [#32713](https://github.com/electron/electron/issues/32713) in [electron/electron](https://github.com/electron/electron)
+2. 🗣 Commented on [#32713](https://github.com/electron/electron/issues/32713) in [electron/electron](https://github.com/electron/electron)
+3. 🗣 Commented on [#41745](https://github.com/nodejs/node/issues/41745) in [nodejs/node](https://github.com/nodejs/node)
+4. 💪 Opened PR [#32713](https://github.com/electron/electron/pull/32713) in [electron/electron](https://github.com/electron/electron)
+5. 💪 Opened PR [#1](https://github.com/RaisinTen/gn-action-rerun/pull/1) in [RaisinTen/gn-action-rerun](https://github.com/RaisinTen/gn-action-rerun)
 <!--END_SECTION:activity-->
