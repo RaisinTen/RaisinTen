@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#940](https://github.com/nodejs/undici/issues/940) in [nodejs/undici](https://github.com/nodejs/undici)
-2. 🗣 Commented on [#991](https://github.com/nodejs/undici/issues/991) in [nodejs/undici](https://github.com/nodejs/undici)
-3. 💪 Opened PR [#1207](https://github.com/nodejs/undici/pull/1207) in [nodejs/undici](https://github.com/nodejs/undici)
-4. 🗣 Commented on [#951](https://github.com/nodejs/undici/issues/951) in [nodejs/undici](https://github.com/nodejs/undici)
-5. 💪 Opened PR [#1206](https://github.com/nodejs/undici/pull/1206) in [nodejs/undici](https://github.com/nodejs/undici)
+1. 🗣 Commented on [#842](https://github.com/nodejs/undici/issues/842) in [nodejs/undici](https://github.com/nodejs/undici)
+2. 🗣 Commented on [#940](https://github.com/nodejs/undici/issues/940) in [nodejs/undici](https://github.com/nodejs/undici)
+3. 🗣 Commented on [#991](https://github.com/nodejs/undici/issues/991) in [nodejs/undici](https://github.com/nodejs/undici)
+4. 💪 Opened PR [#1207](https://github.com/nodejs/undici/pull/1207) in [nodejs/undici](https://github.com/nodejs/undici)
+5. 🗣 Commented on [#951](https://github.com/nodejs/undici/issues/951) in [nodejs/undici](https://github.com/nodejs/undici)
 <!--END_SECTION:activity-->
