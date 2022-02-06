@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41804](https://github.com/nodejs/node/issues/41804) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#4](https://github.com/stduhpf/caritat/issues/4) in [stduhpf/caritat](https://github.com/stduhpf/caritat)
-3. 🗣 Commented on [#5](https://github.com/stduhpf/caritat/issues/5) in [stduhpf/caritat](https://github.com/stduhpf/caritat)
-4. ❗️ Opened issue [#5](https://github.com/stduhpf/caritat/issues/5) in [stduhpf/caritat](https://github.com/stduhpf/caritat)
-5. ❗️ Opened issue [#4](https://github.com/stduhpf/caritat/issues/4) in [stduhpf/caritat](https://github.com/stduhpf/caritat)
+1. 🗣 Commented on [#951](https://github.com/nodejs/undici/issues/951) in [nodejs/undici](https://github.com/nodejs/undici)
+2. 💪 Opened PR [#1206](https://github.com/nodejs/undici/pull/1206) in [nodejs/undici](https://github.com/nodejs/undici)
+3. 🗣 Commented on [#41804](https://github.com/nodejs/node/issues/41804) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#4](https://github.com/stduhpf/caritat/issues/4) in [stduhpf/caritat](https://github.com/stduhpf/caritat)
+5. 🗣 Commented on [#5](https://github.com/stduhpf/caritat/issues/5) in [stduhpf/caritat](https://github.com/stduhpf/caritat)
 <!--END_SECTION:activity-->
