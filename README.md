@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1158](https://github.com/nodejs/TSC/issues/1158) in [nodejs/TSC](https://github.com/nodejs/TSC)
-2. 🗣 Commented on [#1](https://github.com/bavulapati/electron/issues/1) in [bavulapati/electron](https://github.com/bavulapati/electron)
-3. 🗣 Commented on [#32853](https://github.com/electron/electron/issues/32853) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#28006](https://github.com/electron/electron/issues/28006) in [electron/electron](https://github.com/electron/electron)
-5. 🗣 Commented on [#41958](https://github.com/nodejs/node/issues/41958) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#1158](https://github.com/nodejs/TSC/issues/1158) in [nodejs/TSC](https://github.com/nodejs/TSC)
+3. 🗣 Commented on [#1](https://github.com/bavulapati/electron/issues/1) in [bavulapati/electron](https://github.com/bavulapati/electron)
+4. 🗣 Commented on [#32853](https://github.com/electron/electron/issues/32853) in [electron/electron](https://github.com/electron/electron)
+5. 🗣 Commented on [#28006](https://github.com/electron/electron/issues/28006) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
