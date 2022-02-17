@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32853](https://github.com/electron/electron/issues/32853) in [electron/electron](https://github.com/electron/electron)
-2. ❗️ Opened issue [#32951](https://github.com/electron/electron/issues/32951) in [electron/electron](https://github.com/electron/electron)
-3. 🗣 Commented on [#32831](https://github.com/electron/electron/issues/32831) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#1158](https://github.com/nodejs/TSC/issues/1158) in [nodejs/TSC](https://github.com/nodejs/TSC)
+1. 🗣 Commented on [#32951](https://github.com/electron/electron/issues/32951) in [electron/electron](https://github.com/electron/electron)
+2. 🗣 Commented on [#32853](https://github.com/electron/electron/issues/32853) in [electron/electron](https://github.com/electron/electron)
+3. ❗️ Opened issue [#32951](https://github.com/electron/electron/issues/32951) in [electron/electron](https://github.com/electron/electron)
+4. 🗣 Commented on [#32831](https://github.com/electron/electron/issues/32831) in [electron/electron](https://github.com/electron/electron)
 5. 🗣 Commented on [#1158](https://github.com/nodejs/TSC/issues/1158) in [nodejs/TSC](https://github.com/nodejs/TSC)
 <!--END_SECTION:activity-->
