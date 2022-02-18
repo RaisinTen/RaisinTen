@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32831](https://github.com/electron/electron/issues/32831) in [electron/electron](https://github.com/electron/electron)
-2. 🗣 Commented on [#32951](https://github.com/electron/electron/issues/32951) in [electron/electron](https://github.com/electron/electron)
-3. 🗣 Commented on [#32853](https://github.com/electron/electron/issues/32853) in [electron/electron](https://github.com/electron/electron)
-4. ❗️ Opened issue [#32951](https://github.com/electron/electron/issues/32951) in [electron/electron](https://github.com/electron/electron)
-5. 🗣 Commented on [#32831](https://github.com/electron/electron/issues/32831) in [electron/electron](https://github.com/electron/electron)
+1. 🗣 Commented on [#9044](https://github.com/postmanlabs/postman-app-support/issues/9044) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+2. ❗️ Closed issue [#9177](https://github.com/postmanlabs/postman-app-support/issues/9177) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+3. 🗣 Commented on [#9177](https://github.com/postmanlabs/postman-app-support/issues/9177) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+4. 🗣 Commented on [#32831](https://github.com/electron/electron/issues/32831) in [electron/electron](https://github.com/electron/electron)
+5. 🗣 Commented on [#32951](https://github.com/electron/electron/issues/32951) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
