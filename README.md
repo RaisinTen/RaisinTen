@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#40965](https://github.com/nodejs/node/pull/40965) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#40965](https://github.com/nodejs/node/issues/40965) in [nodejs/node](https://github.com/nodejs/node)
-3. 💪 Opened PR [#1171](https://github.com/nodejs/TSC/pull/1171) in [nodejs/TSC](https://github.com/nodejs/TSC)
-4. 🗣 Commented on [#9044](https://github.com/postmanlabs/postman-app-support/issues/9044) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
-5. ❗️ Closed issue [#9044](https://github.com/postmanlabs/postman-app-support/issues/9044) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+1. 💪 Opened PR [#42054](https://github.com/nodejs/node/pull/42054) in [nodejs/node](https://github.com/nodejs/node)
+2. ❌ Closed PR [#40965](https://github.com/nodejs/node/pull/40965) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#40965](https://github.com/nodejs/node/issues/40965) in [nodejs/node](https://github.com/nodejs/node)
+4. 💪 Opened PR [#1171](https://github.com/nodejs/TSC/pull/1171) in [nodejs/TSC](https://github.com/nodejs/TSC)
+5. 🗣 Commented on [#9044](https://github.com/postmanlabs/postman-app-support/issues/9044) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
 <!--END_SECTION:activity-->
