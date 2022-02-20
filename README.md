@@ -5,13 +5,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [**Node.js**](https://github.com/nodejs/node)
-- 🌱 I’m currently learning **V8**
-- 👯 I’m looking to collaborate on **fun Open Source projects**
-- 💬 Ask me about **GitHub Actions**
+- 🔭 I’m currently working on [**Node.js**](https://github.com/nodejs/node), [**Electron**](https://github.com/electron/electron) and [**Chromium**](https://chromium.googlesource.com/chromium/src.git).
 - 📫 How to reach me: **raisinten@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I'm not an ML simp! :slightly_smiling_face:**
 
 <img src="https://github-profile-trophy.vercel.app/?username=RaisinTen&theme=onedark" width="100%">
 
