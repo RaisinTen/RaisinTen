@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1175](https://github.com/nodejs/TSC/issues/1175) in [nodejs/TSC](https://github.com/nodejs/TSC)
-2. 🗣 Commented on [#41148](https://github.com/nodejs/node/issues/41148) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#9910](https://github.com/postmanlabs/postman-app-support/issues/9910) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
-4. 🗣 Commented on [#32951](https://github.com/electron/electron/issues/32951) in [electron/electron](https://github.com/electron/electron)
-5. ❗️ Opened issue [#33014](https://github.com/electron/electron/issues/33014) in [electron/electron](https://github.com/electron/electron)
+1. 🗣 Commented on [#9371](https://github.com/postmanlabs/postman-app-support/issues/9371) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+2. ❗️ Closed issue [#1175](https://github.com/nodejs/TSC/issues/1175) in [nodejs/TSC](https://github.com/nodejs/TSC)
+3. 🗣 Commented on [#41148](https://github.com/nodejs/node/issues/41148) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#9910](https://github.com/postmanlabs/postman-app-support/issues/9910) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+5. 🗣 Commented on [#32951](https://github.com/electron/electron/issues/32951) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
