@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10688](https://github.com/postmanlabs/postman-app-support/issues/10688) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
-2. 🗣 Commented on [#10688](https://github.com/postmanlabs/postman-app-support/issues/10688) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
-3. 🗣 Commented on [#10688](https://github.com/postmanlabs/postman-app-support/issues/10688) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
-4. 🗣 Commented on [#7349](https://github.com/postmanlabs/postman-app-support/issues/7349) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
-5. 🗣 Commented on [#7349](https://github.com/postmanlabs/postman-app-support/issues/7349) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+1. 🗣 Commented on [#8604](https://github.com/postmanlabs/postman-app-support/issues/8604) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+2. ❗️ Closed issue [#8604](https://github.com/postmanlabs/postman-app-support/issues/8604) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+3. ❗️ Closed issue [#10688](https://github.com/postmanlabs/postman-app-support/issues/10688) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+4. 🗣 Commented on [#10688](https://github.com/postmanlabs/postman-app-support/issues/10688) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+5. 🗣 Commented on [#10688](https://github.com/postmanlabs/postman-app-support/issues/10688) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
 <!--END_SECTION:activity-->
