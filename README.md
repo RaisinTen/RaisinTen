@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42112](https://github.com/nodejs/node/issues/42112) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#42136](https://github.com/nodejs/node/issues/42136) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#42112](https://github.com/nodejs/node/issues/42112) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#42136](https://github.com/nodejs/node/issues/42136) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#8604](https://github.com/postmanlabs/postman-app-support/issues/8604) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+1. 🗣 Commented on [#42136](https://github.com/nodejs/node/issues/42136) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#42112](https://github.com/nodejs/node/issues/42112) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#42136](https://github.com/nodejs/node/issues/42136) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#42112](https://github.com/nodejs/node/issues/42112) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#42136](https://github.com/nodejs/node/issues/42136) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
