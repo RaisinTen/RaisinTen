@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#42230](https://github.com/nodejs/node/issues/42230) in [nodejs/node](https://github.com/nodejs/node)
 2. 🗣 Commented on [#42230](https://github.com/nodejs/node/issues/42230) in [nodejs/node](https://github.com/nodejs/node)
-3. ❗️ Opened issue [#42230](https://github.com/nodejs/node/issues/42230) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#30956](https://github.com/nodejs/node/issues/30956) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#42229](https://github.com/nodejs/node/issues/42229) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#42230](https://github.com/nodejs/node/issues/42230) in [nodejs/node](https://github.com/nodejs/node)
+4. ❗️ Opened issue [#42230](https://github.com/nodejs/node/issues/42230) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#30956](https://github.com/nodejs/node/issues/30956) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
