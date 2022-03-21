@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1154](https://github.com/nodejs/node-addon-api/issues/1154) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
-2. ❌ Closed PR [#1154](https://github.com/nodejs/node-addon-api/pull/1154) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
-3. 🗣 Commented on [#33338](https://github.com/electron/electron/issues/33338) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#42412](https://github.com/nodejs/node/issues/42412) in [nodejs/node](https://github.com/nodejs/node)
-5. ❗️ Opened issue [#42412](https://github.com/nodejs/node/issues/42412) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#42412](https://github.com/nodejs/node/issues/42412) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#42412](https://github.com/nodejs/node/issues/42412) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#1154](https://github.com/nodejs/node-addon-api/issues/1154) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
+4. ❌ Closed PR [#1154](https://github.com/nodejs/node-addon-api/pull/1154) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
+5. 🗣 Commented on [#33338](https://github.com/electron/electron/issues/33338) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
