@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1194](https://github.com/nodejs/TSC/issues/1194) in [nodejs/TSC](https://github.com/nodejs/TSC)
-2. 🗣 Commented on [#1194](https://github.com/nodejs/TSC/issues/1194) in [nodejs/TSC](https://github.com/nodejs/TSC)
-3. 🗣 Commented on [#42412](https://github.com/nodejs/node/issues/42412) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#42412](https://github.com/nodejs/node/issues/42412) in [nodejs/node](https://github.com/nodejs/node)
+1. ❗️ Closed issue [#10449](https://github.com/postmanlabs/postman-app-support/issues/10449) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+2. 🗣 Commented on [#10449](https://github.com/postmanlabs/postman-app-support/issues/10449) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+3. 🗣 Commented on [#1194](https://github.com/nodejs/TSC/issues/1194) in [nodejs/TSC](https://github.com/nodejs/TSC)
+4. 🗣 Commented on [#1194](https://github.com/nodejs/TSC/issues/1194) in [nodejs/TSC](https://github.com/nodejs/TSC)
 5. 🗣 Commented on [#42412](https://github.com/nodejs/node/issues/42412) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
