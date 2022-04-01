@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42563](https://github.com/nodejs/node/issues/42563) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#32452](https://github.com/electron/electron/issues/32452) in [electron/electron](https://github.com/electron/electron)
+1. 🗣 Commented on [#1199](https://github.com/nodejs/TSC/issues/1199) in [nodejs/TSC](https://github.com/nodejs/TSC)
+2. 🗣 Commented on [#42563](https://github.com/nodejs/node/issues/42563) in [nodejs/node](https://github.com/nodejs/node)
 3. 🗣 Commented on [#32452](https://github.com/electron/electron/issues/32452) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#42545](https://github.com/nodejs/node/issues/42545) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#32452](https://github.com/electron/electron/issues/32452) in [electron/electron](https://github.com/electron/electron)
+4. 🗣 Commented on [#32452](https://github.com/electron/electron/issues/32452) in [electron/electron](https://github.com/electron/electron)
+5. 🗣 Commented on [#42545](https://github.com/nodejs/node/issues/42545) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
