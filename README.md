@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#32452](https://github.com/electron/electron/issues/32452) in [electron/electron](https://github.com/electron/electron)
-2. 🗣 Commented on [#42545](https://github.com/nodejs/node/issues/42545) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#32452](https://github.com/electron/electron/issues/32452) in [electron/electron](https://github.com/electron/electron)
+2. 🗣 Commented on [#32452](https://github.com/electron/electron/issues/32452) in [electron/electron](https://github.com/electron/electron)
+3. 🗣 Commented on [#42545](https://github.com/nodejs/node/issues/42545) in [nodejs/node](https://github.com/nodejs/node)
 4. 🗣 Commented on [#32452](https://github.com/electron/electron/issues/32452) in [electron/electron](https://github.com/electron/electron)
 5. 🗣 Commented on [#32452](https://github.com/electron/electron/issues/32452) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
