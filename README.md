@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#42430](https://github.com/nodejs/node/issues/42430) in [nodejs/node](https://github.com/nodejs/node)
 2. 🗣 Commented on [#42430](https://github.com/nodejs/node/issues/42430) in [nodejs/node](https://github.com/nodejs/node)
 3. 🗣 Commented on [#42430](https://github.com/nodejs/node/issues/42430) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#1199](https://github.com/nodejs/TSC/issues/1199) in [nodejs/TSC](https://github.com/nodejs/TSC)
-5. 🗣 Commented on [#42563](https://github.com/nodejs/node/issues/42563) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#42430](https://github.com/nodejs/node/issues/42430) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#1199](https://github.com/nodejs/TSC/issues/1199) in [nodejs/TSC](https://github.com/nodejs/TSC)
 <!--END_SECTION:activity-->
