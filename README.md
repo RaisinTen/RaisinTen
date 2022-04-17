@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42091](https://github.com/nodejs/node/issues/42091) in [nodejs/node](https://github.com/nodejs/node)
-2. 💪 Opened PR [#42756](https://github.com/nodejs/node/pull/42756) in [nodejs/node](https://github.com/nodejs/node)
-3. ❗️ Opened issue [#59](https://github.com/mafintosh/why-is-node-running/issues/59) in [mafintosh/why-is-node-running](https://github.com/mafintosh/why-is-node-running)
-4. 🗣 Commented on [#3822](https://github.com/nodejs/help/issues/3822) in [nodejs/help](https://github.com/nodejs/help)
-5. 🗣 Commented on [#42709](https://github.com/nodejs/node/issues/42709) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#42756](https://github.com/nodejs/node/issues/42756) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#42731](https://github.com/nodejs/node/issues/42731) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#42091](https://github.com/nodejs/node/issues/42091) in [nodejs/node](https://github.com/nodejs/node)
+4. 💪 Opened PR [#42756](https://github.com/nodejs/node/pull/42756) in [nodejs/node](https://github.com/nodejs/node)
+5. ❗️ Opened issue [#59](https://github.com/mafintosh/why-is-node-running/issues/59) in [mafintosh/why-is-node-running](https://github.com/mafintosh/why-is-node-running)
 <!--END_SECTION:activity-->
