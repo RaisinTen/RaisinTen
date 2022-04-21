@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32206](https://github.com/electron/electron/issues/32206) in [electron/electron](https://github.com/electron/electron)
+1. 🗣 Commented on [#791](https://github.com/nodejs/security-wg/issues/791) in [nodejs/security-wg](https://github.com/nodejs/security-wg)
 2. 🗣 Commented on [#32206](https://github.com/electron/electron/issues/32206) in [electron/electron](https://github.com/electron/electron)
-3. 🗣 Commented on [#42789](https://github.com/nodejs/node/issues/42789) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#1212](https://github.com/nodejs/TSC/issues/1212) in [nodejs/TSC](https://github.com/nodejs/TSC)
-5. 🗣 Commented on [#2908](https://github.com/postmanlabs/newman/issues/2908) in [postmanlabs/newman](https://github.com/postmanlabs/newman)
+3. 🗣 Commented on [#32206](https://github.com/electron/electron/issues/32206) in [electron/electron](https://github.com/electron/electron)
+4. 🗣 Commented on [#42789](https://github.com/nodejs/node/issues/42789) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#1212](https://github.com/nodejs/TSC/issues/1212) in [nodejs/TSC](https://github.com/nodejs/TSC)
 <!--END_SECTION:activity-->
