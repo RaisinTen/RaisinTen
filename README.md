@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42868](https://github.com/nodejs/node/issues/42868) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#33913](https://github.com/electron/electron/issues/33913) in [electron/electron](https://github.com/electron/electron)
 2. 🗣 Commented on [#42868](https://github.com/nodejs/node/issues/42868) in [nodejs/node](https://github.com/nodejs/node)
 3. 🗣 Commented on [#42868](https://github.com/nodejs/node/issues/42868) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#42818](https://github.com/nodejs/node/issues/42818) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#32206](https://github.com/electron/electron/issues/32206) in [electron/electron](https://github.com/electron/electron)
+4. 🗣 Commented on [#42868](https://github.com/nodejs/node/issues/42868) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#42818](https://github.com/nodejs/node/issues/42818) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
