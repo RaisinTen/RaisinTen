@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#42868](https://github.com/nodejs/node/issues/42868) in [nodejs/node](https://github.com/nodejs/node)
 2. 🗣 Commented on [#42868](https://github.com/nodejs/node/issues/42868) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#42818](https://github.com/nodejs/node/issues/42818) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#32206](https://github.com/electron/electron/issues/32206) in [electron/electron](https://github.com/electron/electron)
-5. 💪 Opened PR [#33913](https://github.com/electron/electron/pull/33913) in [electron/electron](https://github.com/electron/electron)
+3. 🗣 Commented on [#42868](https://github.com/nodejs/node/issues/42868) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#42818](https://github.com/nodejs/node/issues/42818) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#32206](https://github.com/electron/electron/issues/32206) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
