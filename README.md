@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#42590](https://github.com/nodejs/node/issues/42590) in [nodejs/node](https://github.com/nodejs/node)
 2. 🗣 Commented on [#42590](https://github.com/nodejs/node/issues/42590) in [nodejs/node](https://github.com/nodejs/node)
-3. ❗️ Closed issue [#6347](https://github.com/postmanlabs/postman-app-support/issues/6347) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
-4. 🗣 Commented on [#6347](https://github.com/postmanlabs/postman-app-support/issues/6347) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
-5. 🗣 Commented on [#42869](https://github.com/nodejs/node/issues/42869) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#42590](https://github.com/nodejs/node/issues/42590) in [nodejs/node](https://github.com/nodejs/node)
+4. ❗️ Closed issue [#6347](https://github.com/postmanlabs/postman-app-support/issues/6347) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+5. 🗣 Commented on [#6347](https://github.com/postmanlabs/postman-app-support/issues/6347) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
 <!--END_SECTION:activity-->
