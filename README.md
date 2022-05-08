@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/nodejs/build-toolchain-next/issues/13) in [nodejs/build-toolchain-next](https://github.com/nodejs/build-toolchain-next)
-2. ❌ Closed PR [#42998](https://github.com/nodejs/node/pull/42998) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#42910](https://github.com/nodejs/node/issues/42910) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#42990](https://github.com/nodejs/node/issues/42990) in [nodejs/node](https://github.com/nodejs/node)
+1. 💪 Opened PR [#43008](https://github.com/nodejs/node/pull/43008) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#13](https://github.com/nodejs/build-toolchain-next/issues/13) in [nodejs/build-toolchain-next](https://github.com/nodejs/build-toolchain-next)
+3. ❌ Closed PR [#42998](https://github.com/nodejs/node/pull/42998) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#42910](https://github.com/nodejs/node/issues/42910) in [nodejs/node](https://github.com/nodejs/node)
 5. 🗣 Commented on [#42990](https://github.com/nodejs/node/issues/42990) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
