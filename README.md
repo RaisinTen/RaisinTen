@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2099](https://github.com/electron/i18n/issues/2099) in [electron/i18n](https://github.com/electron/i18n)
-2. 🗣 Commented on [#34248](https://github.com/electron/electron/issues/34248) in [electron/electron](https://github.com/electron/electron)
+1. 🗣 Commented on [#42545](https://github.com/nodejs/node/issues/42545) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#38708](https://github.com/nodejs/node/issues/38708) in [nodejs/node](https://github.com/nodejs/node)
 3. 🗣 Commented on [#43099](https://github.com/nodejs/node/issues/43099) in [nodejs/node](https://github.com/nodejs/node)
-4. ❗️ Opened issue [#43084](https://github.com/nodejs/node/issues/43084) in [nodejs/node](https://github.com/nodejs/node)
-5. 💪 Opened PR [#34220](https://github.com/electron/electron/pull/34220) in [electron/electron](https://github.com/electron/electron)
+4. 🗣 Commented on [#1228](https://github.com/nodejs/TSC/issues/1228) in [nodejs/TSC](https://github.com/nodejs/TSC)
+5. 🗣 Commented on [#2099](https://github.com/electron/i18n/issues/2099) in [electron/i18n](https://github.com/electron/i18n)
 <!--END_SECTION:activity-->
