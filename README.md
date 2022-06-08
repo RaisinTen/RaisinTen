@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43333](https://github.com/nodejs/node/issues/43333) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#34448](https://github.com/electron/electron/issues/34448) in [electron/electron](https://github.com/electron/electron)
-3. 🗣 Commented on [#34448](https://github.com/electron/electron/issues/34448) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#42931](https://github.com/nodejs/node/issues/42931) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#42931](https://github.com/nodejs/node/issues/42931) in [nodejs/node](https://github.com/nodejs/node)
+1. ❗️ Closed issue [#40350](https://github.com/nodejs/node/issues/40350) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#40350](https://github.com/nodejs/node/issues/40350) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#43333](https://github.com/nodejs/node/issues/43333) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#34448](https://github.com/electron/electron/issues/34448) in [electron/electron](https://github.com/electron/electron)
+5. 🗣 Commented on [#34448](https://github.com/electron/electron/issues/34448) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
