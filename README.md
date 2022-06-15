@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10992](https://github.com/postmanlabs/postman-app-support/issues/10992) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
 2. 🗣 Commented on [#10992](https://github.com/postmanlabs/postman-app-support/issues/10992) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
-3. 🗣 Commented on [#43084](https://github.com/nodejs/node/issues/43084) in [nodejs/node](https://github.com/nodejs/node)
-4. 💪 Opened PR [#43425](https://github.com/nodejs/node/pull/43425) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#43361](https://github.com/nodejs/node/issues/43361) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#10992](https://github.com/postmanlabs/postman-app-support/issues/10992) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+4. 🗣 Commented on [#10992](https://github.com/postmanlabs/postman-app-support/issues/10992) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+5. 🗣 Commented on [#43084](https://github.com/nodejs/node/issues/43084) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
