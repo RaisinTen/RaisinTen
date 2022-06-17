@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/RaisinTen/node/pull/1) in [RaisinTen/node](https://github.com/RaisinTen/node)
-2. 🗣 Commented on [#43425](https://github.com/nodejs/node/issues/43425) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#43425](https://github.com/nodejs/node/issues/43425) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#42334](https://github.com/nodejs/node/issues/42334) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#10992](https://github.com/postmanlabs/postman-app-support/issues/10992) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+1. 🗣 Commented on [#34321](https://github.com/electron/electron/issues/34321) in [electron/electron](https://github.com/electron/electron)
+2. 💪 Opened PR [#34609](https://github.com/electron/electron/pull/34609) in [electron/electron](https://github.com/electron/electron)
+3. ❌ Closed PR [#1](https://github.com/RaisinTen/node/pull/1) in [RaisinTen/node](https://github.com/RaisinTen/node)
+4. 🗣 Commented on [#43425](https://github.com/nodejs/node/issues/43425) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#43425](https://github.com/nodejs/node/issues/43425) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
