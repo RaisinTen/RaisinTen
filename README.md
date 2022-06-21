@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34614](https://github.com/electron/electron/issues/34614) in [electron/electron](https://github.com/electron/electron)
-2. 🗣 Commented on [#34321](https://github.com/electron/electron/issues/34321) in [electron/electron](https://github.com/electron/electron)
-3. 💪 Opened PR [#34609](https://github.com/electron/electron/pull/34609) in [electron/electron](https://github.com/electron/electron)
-4. ❌ Closed PR [#1](https://github.com/RaisinTen/node/pull/1) in [RaisinTen/node](https://github.com/RaisinTen/node)
-5. 🗣 Commented on [#43425](https://github.com/nodejs/node/issues/43425) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#34671](https://github.com/electron/electron/issues/34671) in [electron/electron](https://github.com/electron/electron)
+2. 🗣 Commented on [#34614](https://github.com/electron/electron/issues/34614) in [electron/electron](https://github.com/electron/electron)
+3. 🗣 Commented on [#34321](https://github.com/electron/electron/issues/34321) in [electron/electron](https://github.com/electron/electron)
+4. 💪 Opened PR [#34609](https://github.com/electron/electron/pull/34609) in [electron/electron](https://github.com/electron/electron)
+5. ❌ Closed PR [#1](https://github.com/RaisinTen/node/pull/1) in [RaisinTen/node](https://github.com/RaisinTen/node)
 <!--END_SECTION:activity-->
