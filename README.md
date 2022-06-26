@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/nodejs/core-validate-commit/issues/97) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
-2. 💪 Opened PR [#99](https://github.com/nodejs/core-validate-commit/pull/99) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
-3. 🗣 Commented on [#43017](https://github.com/nodejs/node/issues/43017) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#43531](https://github.com/nodejs/node/issues/43531) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#11022](https://github.com/postmanlabs/postman-app-support/issues/11022) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+1. 🗣 Commented on [#43577](https://github.com/nodejs/node/issues/43577) in [nodejs/node](https://github.com/nodejs/node)
+2. 💪 Opened PR [#43579](https://github.com/nodejs/node/pull/43579) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#97](https://github.com/nodejs/core-validate-commit/issues/97) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
+4. 💪 Opened PR [#99](https://github.com/nodejs/core-validate-commit/pull/99) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
+5. 🗣 Commented on [#43017](https://github.com/nodejs/node/issues/43017) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
