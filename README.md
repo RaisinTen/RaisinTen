@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#30656](https://github.com/electron/electron/issues/30656) in [electron/electron](https://github.com/electron/electron)
-2. 🗣 Commented on [#30656](https://github.com/electron/electron/issues/30656) in [electron/electron](https://github.com/electron/electron)
-3. ❗️ Closed issue [#29926](https://github.com/electron/electron/issues/29926) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#43577](https://github.com/nodejs/node/issues/43577) in [nodejs/node](https://github.com/nodejs/node)
-5. 💪 Opened PR [#43579](https://github.com/nodejs/node/pull/43579) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#99](https://github.com/nodejs/core-validate-commit/issues/99) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
+2. ❗️ Closed issue [#30670](https://github.com/electron/electron/issues/30670) in [electron/electron](https://github.com/electron/electron)
+3. 🗣 Commented on [#30670](https://github.com/electron/electron/issues/30670) in [electron/electron](https://github.com/electron/electron)
+4. ❗️ Closed issue [#30656](https://github.com/electron/electron/issues/30656) in [electron/electron](https://github.com/electron/electron)
+5. 🗣 Commented on [#30656](https://github.com/electron/electron/issues/30656) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
