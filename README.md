@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43575](https://github.com/nodejs/node/issues/43575) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#34737](https://github.com/electron/electron/issues/34737) in [electron/electron](https://github.com/electron/electron)
-3. 🗣 Commented on [#43584](https://github.com/nodejs/node/issues/43584) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#99](https://github.com/nodejs/core-validate-commit/issues/99) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
-5. ❗️ Closed issue [#30670](https://github.com/electron/electron/issues/30670) in [electron/electron](https://github.com/electron/electron)
+1. 🗣 Commented on [#43533](https://github.com/nodejs/node/issues/43533) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#43575](https://github.com/nodejs/node/issues/43575) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#34737](https://github.com/electron/electron/issues/34737) in [electron/electron](https://github.com/electron/electron)
+4. 🗣 Commented on [#43584](https://github.com/nodejs/node/issues/43584) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#99](https://github.com/nodejs/core-validate-commit/issues/99) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
 <!--END_SECTION:activity-->
