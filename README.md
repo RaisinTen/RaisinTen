@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#126756](https://github.com/Homebrew/homebrew-cask/pull/126756) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-2. 🗣 Commented on [#34783](https://github.com/electron/electron/issues/34783) in [electron/electron](https://github.com/electron/electron)
-3. 💪 Opened PR [#34787](https://github.com/electron/electron/pull/34787) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#34783](https://github.com/electron/electron/issues/34783) in [electron/electron](https://github.com/electron/electron)
-5. 🗣 Commented on [#34783](https://github.com/electron/electron/issues/34783) in [electron/electron](https://github.com/electron/electron)
+1. 🗣 Commented on [#1249](https://github.com/nodejs/TSC/issues/1249) in [nodejs/TSC](https://github.com/nodejs/TSC)
+2. 🗣 Commented on [#43017](https://github.com/nodejs/node/issues/43017) in [nodejs/node](https://github.com/nodejs/node)
+3. ❌ Closed PR [#43017](https://github.com/nodejs/node/pull/43017) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#34787](https://github.com/electron/electron/issues/34787) in [electron/electron](https://github.com/electron/electron)
+5. 💪 Opened PR [#126756](https://github.com/Homebrew/homebrew-cask/pull/126756) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 <!--END_SECTION:activity-->
