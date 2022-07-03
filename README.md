@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1252](https://github.com/nodejs/TSC/issues/1252) in [nodejs/TSC](https://github.com/nodejs/TSC)
-2. 🗣 Commented on [#43190](https://github.com/nodejs/node/issues/43190) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#43594](https://github.com/nodejs/node/issues/43594) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#43084](https://github.com/nodejs/node/issues/43084) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#1249](https://github.com/nodejs/TSC/issues/1249) in [nodejs/TSC](https://github.com/nodejs/TSC)
+1. 🎉 Merged PR [#99](https://github.com/nodejs/core-validate-commit/pull/99) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
+2. ❗️ Closed issue [#97](https://github.com/nodejs/core-validate-commit/issues/97) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
+3. 🗣 Commented on [#1252](https://github.com/nodejs/TSC/issues/1252) in [nodejs/TSC](https://github.com/nodejs/TSC)
+4. 🗣 Commented on [#43190](https://github.com/nodejs/node/issues/43190) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#43594](https://github.com/nodejs/node/issues/43594) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
