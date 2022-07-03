@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/nodejs/core-validate-commit/issues/99) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
-2. 🎉 Merged PR [#99](https://github.com/nodejs/core-validate-commit/pull/99) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
-3. ❗️ Closed issue [#97](https://github.com/nodejs/core-validate-commit/issues/97) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
-4. 🗣 Commented on [#1252](https://github.com/nodejs/TSC/issues/1252) in [nodejs/TSC](https://github.com/nodejs/TSC)
-5. 🗣 Commented on [#43190](https://github.com/nodejs/node/issues/43190) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#701](https://github.com/nodejs/admin/issues/701) in [nodejs/admin](https://github.com/nodejs/admin)
+2. 🗣 Commented on [#99](https://github.com/nodejs/core-validate-commit/issues/99) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
+3. 🎉 Merged PR [#99](https://github.com/nodejs/core-validate-commit/pull/99) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
+4. ❗️ Closed issue [#97](https://github.com/nodejs/core-validate-commit/issues/97) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
+5. 🗣 Commented on [#1252](https://github.com/nodejs/TSC/issues/1252) in [nodejs/TSC](https://github.com/nodejs/TSC)
 <!--END_SECTION:activity-->
