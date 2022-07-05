@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/nodejs/core-validate-commit/issues/99) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
-2. 💪 Opened PR [#43668](https://github.com/nodejs/node/pull/43668) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#701](https://github.com/nodejs/admin/issues/701) in [nodejs/admin](https://github.com/nodejs/admin)
-4. 🗣 Commented on [#99](https://github.com/nodejs/core-validate-commit/issues/99) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
-5. 🎉 Merged PR [#99](https://github.com/nodejs/core-validate-commit/pull/99) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
+1. 🗣 Commented on [#42334](https://github.com/nodejs/node/issues/42334) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#99](https://github.com/nodejs/core-validate-commit/issues/99) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
+3. 💪 Opened PR [#43668](https://github.com/nodejs/node/pull/43668) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#701](https://github.com/nodejs/admin/issues/701) in [nodejs/admin](https://github.com/nodejs/admin)
+5. 🗣 Commented on [#99](https://github.com/nodejs/core-validate-commit/issues/99) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
 <!--END_SECTION:activity-->
