@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34898](https://github.com/electron/electron/issues/34898) in [electron/electron](https://github.com/electron/electron)
-2. ❗️ Closed issue [#34898](https://github.com/electron/electron/issues/34898) in [electron/electron](https://github.com/electron/electron)
-3. 🗣 Commented on [#1259](https://github.com/nodejs/TSC/issues/1259) in [nodejs/TSC](https://github.com/nodejs/TSC)
-4. ❗️ Opened issue [#1](https://github.com/postmanlabs/postject/issues/1) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-5. 🗣 Commented on [#43775](https://github.com/nodejs/node/issues/43775) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#34829](https://github.com/electron/electron/issues/34829) in [electron/electron](https://github.com/electron/electron)
+2. 🗣 Commented on [#34898](https://github.com/electron/electron/issues/34898) in [electron/electron](https://github.com/electron/electron)
+3. ❗️ Closed issue [#34898](https://github.com/electron/electron/issues/34898) in [electron/electron](https://github.com/electron/electron)
+4. 🗣 Commented on [#1259](https://github.com/nodejs/TSC/issues/1259) in [nodejs/TSC](https://github.com/nodejs/TSC)
+5. ❗️ Opened issue [#1](https://github.com/postmanlabs/postject/issues/1) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
 <!--END_SECTION:activity-->
