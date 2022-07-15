@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/postmanlabs/postject/issues/2) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-2. 🗣 Commented on [#42334](https://github.com/nodejs/node/issues/42334) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#42334](https://github.com/nodejs/node/issues/42334) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#34927](https://github.com/electron/electron/issues/34927) in [electron/electron](https://github.com/electron/electron)
-5. 🗣 Commented on [#34467](https://github.com/electron/electron/issues/34467) in [electron/electron](https://github.com/electron/electron)
+1. ❗️ Closed issue [#29523](https://github.com/electron/electron/issues/29523) in [electron/electron](https://github.com/electron/electron)
+2. 🗣 Commented on [#29523](https://github.com/electron/electron/issues/29523) in [electron/electron](https://github.com/electron/electron)
+3. ❗️ Opened issue [#2](https://github.com/postmanlabs/postject/issues/2) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+4. 🗣 Commented on [#42334](https://github.com/nodejs/node/issues/42334) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#42334](https://github.com/nodejs/node/issues/42334) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
