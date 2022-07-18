@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34928](https://github.com/electron/electron/issues/34928) in [electron/electron](https://github.com/electron/electron)
-2. 🗣 Commented on [#34946](https://github.com/electron/electron/issues/34946) in [electron/electron](https://github.com/electron/electron)
-3. ❌ Closed PR [#34946](https://github.com/electron/electron/pull/34946) in [electron/electron](https://github.com/electron/electron)
-4. 💪 Opened PR [#34950](https://github.com/electron/electron/pull/34950) in [electron/electron](https://github.com/electron/electron)
-5. 🗣 Commented on [#571](https://github.com/nodejs/diagnostics/issues/571) in [nodejs/diagnostics](https://github.com/nodejs/diagnostics)
+1. ❗️ Closed issue [#11907](https://github.com/electron/electron/issues/11907) in [electron/electron](https://github.com/electron/electron)
+2. 🗣 Commented on [#11907](https://github.com/electron/electron/issues/11907) in [electron/electron](https://github.com/electron/electron)
+3. 🗣 Commented on [#34928](https://github.com/electron/electron/issues/34928) in [electron/electron](https://github.com/electron/electron)
+4. 🗣 Commented on [#34946](https://github.com/electron/electron/issues/34946) in [electron/electron](https://github.com/electron/electron)
+5. ❌ Closed PR [#34946](https://github.com/electron/electron/pull/34946) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
