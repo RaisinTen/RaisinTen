@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42334](https://github.com/nodejs/node/issues/42334) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#43970](https://github.com/nodejs/node/issues/43970) in [nodejs/node](https://github.com/nodejs/node)
-3. ❗️ Opened issue [#3003](https://github.com/nodejs/build/issues/3003) in [nodejs/build](https://github.com/nodejs/build)
-4. 🗣 Commented on [#42334](https://github.com/nodejs/node/issues/42334) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#43839](https://github.com/nodejs/node/issues/43839) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#44001](https://github.com/nodejs/node/issues/44001) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#42334](https://github.com/nodejs/node/issues/42334) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#43970](https://github.com/nodejs/node/issues/43970) in [nodejs/node](https://github.com/nodejs/node)
+4. ❗️ Opened issue [#3003](https://github.com/nodejs/build/issues/3003) in [nodejs/build](https://github.com/nodejs/build)
+5. 🗣 Commented on [#42334](https://github.com/nodejs/node/issues/42334) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
