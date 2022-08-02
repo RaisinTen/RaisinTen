@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#35095](https://github.com/electron/electron/issues/35095) in [electron/electron](https://github.com/electron/electron)
-2. 🗣 Commented on [#35095](https://github.com/electron/electron/issues/35095) in [electron/electron](https://github.com/electron/electron)
-3. ❗️ Closed issue [#35150](https://github.com/electron/electron/issues/35150) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#35150](https://github.com/electron/electron/issues/35150) in [electron/electron](https://github.com/electron/electron)
-5. 🗣 Commented on [#35153](https://github.com/electron/electron/issues/35153) in [electron/electron](https://github.com/electron/electron)
+1. 🗣 Commented on [#35153](https://github.com/electron/electron/issues/35153) in [electron/electron](https://github.com/electron/electron)
+2. ❗️ Reopened issue [#35095](https://github.com/electron/electron/issues/35095) in [electron/electron](https://github.com/electron/electron)
+3. 🗣 Commented on [#35095](https://github.com/electron/electron/issues/35095) in [electron/electron](https://github.com/electron/electron)
+4. ❗️ Closed issue [#35150](https://github.com/electron/electron/issues/35150) in [electron/electron](https://github.com/electron/electron)
+5. 🗣 Commented on [#35150](https://github.com/electron/electron/issues/35150) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
