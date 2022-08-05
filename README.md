@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#708](https://github.com/nodejs/admin/issues/708) in [nodejs/admin](https://github.com/nodejs/admin)
-2. ❗️ Closed issue [#708](https://github.com/nodejs/admin/issues/708) in [nodejs/admin](https://github.com/nodejs/admin)
-3. 🗣 Commented on [#708](https://github.com/nodejs/admin/issues/708) in [nodejs/admin](https://github.com/nodejs/admin)
-4. ❗️ Closed issue [#2](https://github.com/postmanlabs/postject/issues/2) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-5. 🗣 Commented on [#2](https://github.com/postmanlabs/postject/issues/2) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+1. 🗣 Commented on [#1](https://github.com/nodejs/single-executable/issues/1) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+2. 🗣 Commented on [#708](https://github.com/nodejs/admin/issues/708) in [nodejs/admin](https://github.com/nodejs/admin)
+3. ❗️ Closed issue [#708](https://github.com/nodejs/admin/issues/708) in [nodejs/admin](https://github.com/nodejs/admin)
+4. 🗣 Commented on [#708](https://github.com/nodejs/admin/issues/708) in [nodejs/admin](https://github.com/nodejs/admin)
+5. ❗️ Closed issue [#2](https://github.com/postmanlabs/postject/issues/2) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
 <!--END_SECTION:activity-->
