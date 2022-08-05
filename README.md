@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5980](https://github.com/postmanlabs/postman-app-support/issues/5980) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+1. 🗣 Commented on [#4](https://github.com/nodejs/single-executable/issues/4) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
 2. 🗣 Commented on [#5980](https://github.com/postmanlabs/postman-app-support/issues/5980) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
 3. 🗣 Commented on [#5980](https://github.com/postmanlabs/postman-app-support/issues/5980) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
 4. 🗣 Commented on [#5980](https://github.com/postmanlabs/postman-app-support/issues/5980) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
