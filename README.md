@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/nodejs/single-executable/issues/1) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-2. 🎉 Merged PR [#3](https://github.com/nodejs/single-executable/pull/3) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-3. 🎉 Merged PR [#2](https://github.com/nodejs/single-executable/pull/2) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-4. 🗣 Commented on [#1](https://github.com/nodejs/single-executable/issues/1) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-5. 🗣 Commented on [#708](https://github.com/nodejs/admin/issues/708) in [nodejs/admin](https://github.com/nodejs/admin)
+1. 🗣 Commented on [#4](https://github.com/nodejs/single-executable/issues/4) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+2. 🗣 Commented on [#1](https://github.com/nodejs/single-executable/issues/1) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+3. 🎉 Merged PR [#3](https://github.com/nodejs/single-executable/pull/3) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+4. 🎉 Merged PR [#2](https://github.com/nodejs/single-executable/pull/2) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+5. 🗣 Commented on [#1](https://github.com/nodejs/single-executable/issues/1) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
 <!--END_SECTION:activity-->
