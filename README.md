@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/nodejs/single-executable/issues/4) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-2. 🗣 Commented on [#5980](https://github.com/postmanlabs/postman-app-support/issues/5980) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+1. ❗️ Closed issue [#18110](https://github.com/openssl/openssl/issues/18110) in [openssl/openssl](https://github.com/openssl/openssl)
+2. 🗣 Commented on [#4](https://github.com/nodejs/single-executable/issues/4) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
 3. 🗣 Commented on [#5980](https://github.com/postmanlabs/postman-app-support/issues/5980) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
 4. 🗣 Commented on [#5980](https://github.com/postmanlabs/postman-app-support/issues/5980) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
 5. 🗣 Commented on [#5980](https://github.com/postmanlabs/postman-app-support/issues/5980) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
