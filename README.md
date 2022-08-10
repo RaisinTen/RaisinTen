@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35290](https://github.com/electron/electron/issues/35290) in [electron/electron](https://github.com/electron/electron)
-2. 🗣 Commented on [#33101](https://github.com/electron/electron/issues/33101) in [electron/electron](https://github.com/electron/electron)
-3. 💪 Opened PR [#35258](https://github.com/electron/electron/pull/35258) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#35241](https://github.com/electron/electron/issues/35241) in [electron/electron](https://github.com/electron/electron)
-5. 🗣 Commented on [#5980](https://github.com/postmanlabs/postman-app-support/issues/5980) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+1. 🎉 Merged PR [#10](https://github.com/nodejs/single-executable/pull/10) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+2. 🗣 Commented on [#35290](https://github.com/electron/electron/issues/35290) in [electron/electron](https://github.com/electron/electron)
+3. 🗣 Commented on [#33101](https://github.com/electron/electron/issues/33101) in [electron/electron](https://github.com/electron/electron)
+4. 💪 Opened PR [#35258](https://github.com/electron/electron/pull/35258) in [electron/electron](https://github.com/electron/electron)
+5. 🗣 Commented on [#35241](https://github.com/electron/electron/issues/35241) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
