@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#35313](https://github.com/electron/electron/issues/35313) in [electron/electron](https://github.com/electron/electron)
-2. 🗣 Commented on [#35313](https://github.com/electron/electron/issues/35313) in [electron/electron](https://github.com/electron/electron)
-3. 🗣 Commented on [#35305](https://github.com/electron/electron/issues/35305) in [electron/electron](https://github.com/electron/electron)
-4. 💪 Opened PR [#35317](https://github.com/electron/electron/pull/35317) in [electron/electron](https://github.com/electron/electron)
-5. ❌ Closed PR [#35316](https://github.com/electron/electron/pull/35316) in [electron/electron](https://github.com/electron/electron)
+1. 💪 Opened PR [#3719](https://github.com/libuv/libuv/pull/3719) in [libuv/libuv](https://github.com/libuv/libuv)
+2. ❗️ Closed issue [#35313](https://github.com/electron/electron/issues/35313) in [electron/electron](https://github.com/electron/electron)
+3. 🗣 Commented on [#35313](https://github.com/electron/electron/issues/35313) in [electron/electron](https://github.com/electron/electron)
+4. 🗣 Commented on [#35305](https://github.com/electron/electron/issues/35305) in [electron/electron](https://github.com/electron/electron)
+5. 💪 Opened PR [#35317](https://github.com/electron/electron/pull/35317) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
