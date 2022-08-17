@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43253](https://github.com/nodejs/node/issues/43253) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#35325](https://github.com/electron/electron/issues/35325) in [electron/electron](https://github.com/electron/electron)
 2. 🗣 Commented on [#43253](https://github.com/nodejs/node/issues/43253) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#740](https://github.com/denoland/rusty_v8/issues/740) in [denoland/rusty_v8](https://github.com/denoland/rusty_v8)
-4. 💪 Opened PR [#1049](https://github.com/denoland/rusty_v8/pull/1049) in [denoland/rusty_v8](https://github.com/denoland/rusty_v8)
-5. 💪 Opened PR [#3719](https://github.com/libuv/libuv/pull/3719) in [libuv/libuv](https://github.com/libuv/libuv)
+3. 🗣 Commented on [#43253](https://github.com/nodejs/node/issues/43253) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#740](https://github.com/denoland/rusty_v8/issues/740) in [denoland/rusty_v8](https://github.com/denoland/rusty_v8)
+5. 💪 Opened PR [#1049](https://github.com/denoland/rusty_v8/pull/1049) in [denoland/rusty_v8](https://github.com/denoland/rusty_v8)
 <!--END_SECTION:activity-->
