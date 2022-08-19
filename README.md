@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/nodejs/single-executable/pull/4) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-2. 🗣 Commented on [#942](https://github.com/nodejs/nan/issues/942) in [nodejs/nan](https://github.com/nodejs/nan)
-3. 🗣 Commented on [#34885](https://github.com/electron/electron/issues/34885) in [electron/electron](https://github.com/electron/electron)
-4. 💪 Opened PR [#4](https://github.com/postmanlabs/postject/pull/4) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-5. 🗣 Commented on [#35325](https://github.com/electron/electron/issues/35325) in [electron/electron](https://github.com/electron/electron)
+1. 🗣 Commented on [#35355](https://github.com/electron/electron/issues/35355) in [electron/electron](https://github.com/electron/electron)
+2. 🎉 Merged PR [#4](https://github.com/nodejs/single-executable/pull/4) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+3. 🗣 Commented on [#942](https://github.com/nodejs/nan/issues/942) in [nodejs/nan](https://github.com/nodejs/nan)
+4. 🗣 Commented on [#34885](https://github.com/electron/electron/issues/34885) in [electron/electron](https://github.com/electron/electron)
+5. 💪 Opened PR [#4](https://github.com/postmanlabs/postject/pull/4) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
 <!--END_SECTION:activity-->
