@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1273](https://github.com/nodejs/TSC/issues/1273) in [nodejs/TSC](https://github.com/nodejs/TSC)
-2. ❗️ Closed issue [#5](https://github.com/RaisinTen/tests/issues/5) in [RaisinTen/tests](https://github.com/RaisinTen/tests)
-3. ❗️ Opened issue [#5](https://github.com/RaisinTen/tests/issues/5) in [RaisinTen/tests](https://github.com/RaisinTen/tests)
-4. 🗣 Commented on [#11115](https://github.com/postmanlabs/postman-app-support/issues/11115) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
-5. 💪 Opened PR [#44393](https://github.com/nodejs/node/pull/44393) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#1273](https://github.com/nodejs/TSC/issues/1273) in [nodejs/TSC](https://github.com/nodejs/TSC)
+3. ❗️ Closed issue [#5](https://github.com/RaisinTen/tests/issues/5) in [RaisinTen/tests](https://github.com/RaisinTen/tests)
+4. ❗️ Opened issue [#5](https://github.com/RaisinTen/tests/issues/5) in [RaisinTen/tests](https://github.com/RaisinTen/tests)
+5. 🗣 Commented on [#11115](https://github.com/postmanlabs/postman-app-support/issues/11115) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
 <!--END_SECTION:activity-->
