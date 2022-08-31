@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1275](https://github.com/nodejs/TSC/issues/1275) in [nodejs/TSC](https://github.com/nodejs/TSC)
-2. 🗣 Commented on [#1274](https://github.com/nodejs/TSC/issues/1274) in [nodejs/TSC](https://github.com/nodejs/TSC)
-3. 🗣 Commented on [#1273](https://github.com/nodejs/TSC/issues/1273) in [nodejs/TSC](https://github.com/nodejs/TSC)
+1. 🗣 Commented on [#44427](https://github.com/nodejs/node/issues/44427) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#1275](https://github.com/nodejs/TSC/issues/1275) in [nodejs/TSC](https://github.com/nodejs/TSC)
+3. 🗣 Commented on [#1274](https://github.com/nodejs/TSC/issues/1274) in [nodejs/TSC](https://github.com/nodejs/TSC)
 4. 🗣 Commented on [#1273](https://github.com/nodejs/TSC/issues/1273) in [nodejs/TSC](https://github.com/nodejs/TSC)
-5. ❗️ Closed issue [#5](https://github.com/RaisinTen/tests/issues/5) in [RaisinTen/tests](https://github.com/RaisinTen/tests)
+5. 🗣 Commented on [#1273](https://github.com/nodejs/TSC/issues/1273) in [nodejs/TSC](https://github.com/nodejs/TSC)
 <!--END_SECTION:activity-->
