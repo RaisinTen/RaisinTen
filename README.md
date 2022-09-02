@@ -1,13 +1,17 @@
-### Hi there, I'm Darshan 👋
+### Hi there 👋
 
-<!--
-**RaisinTen/RaisinTen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
+- I build [**Starship**](http://github.com/postmanlabs/starship) which is a comprehensive framework to develop cross-platform applications using web technologies and it's gonna be Open Source soon! 😉
+- As a member of the [**Node.js**](https://github.com/nodejs/node) **Technical Steering Committee**, I help out in taking decisions, sending and reviewing PRs and onboarding new collaborators. I'm also actively working on adding [**Single-Executable**](https://github.com/nodejs/single-executable) support to Node.js.
+- I'm an [**Electron**](https://github.com/electron/electron) **Governance Member** and I create PRs, review PRs from other contributors and participate in really interesting issues.
+- I try to get involved in any Open Source project that catches my interest!
 
-- 🔭 I’m currently working on [**Node.js**](https://github.com/nodejs/node), [**Electron**](https://github.com/electron/electron) and [**Chromium**](https://chromium.googlesource.com/chromium/src.git)
-- 📫 How to reach me: **raisinten@gmail.com**
-- 😄 Pronouns: **He/Him**
+If you find any of these topics interesting, feel free to reach out to me. :)
+
+- **raisinten@gmail.com**
+- **https://twitter.com/@RaisinTen**
+- **https://linkedin.com/in/DarshanSen**
+
+Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 <img src="https://github-profile-trophy.vercel.app/?username=RaisinTen&theme=onedark" width="100%">
 
