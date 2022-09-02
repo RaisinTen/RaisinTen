@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35355](https://github.com/electron/electron/issues/35355) in [electron/electron](https://github.com/electron/electron)
-2. 🗣 Commented on [#35538](https://github.com/electron/electron/issues/35538) in [electron/electron](https://github.com/electron/electron)
-3. 🗣 Commented on [#28](https://github.com/nodejs/single-executable/issues/28) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-4. 🗣 Commented on [#44427](https://github.com/nodejs/node/issues/44427) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#1275](https://github.com/nodejs/TSC/issues/1275) in [nodejs/TSC](https://github.com/nodejs/TSC)
+1. 🗣 Commented on [#44485](https://github.com/nodejs/node/issues/44485) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#44485](https://github.com/nodejs/node/issues/44485) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#35355](https://github.com/electron/electron/issues/35355) in [electron/electron](https://github.com/electron/electron)
+4. 🗣 Commented on [#35538](https://github.com/electron/electron/issues/35538) in [electron/electron](https://github.com/electron/electron)
+5. 🗣 Commented on [#28](https://github.com/nodejs/single-executable/issues/28) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
 <!--END_SECTION:activity-->
