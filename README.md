@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1049](https://github.com/denoland/rusty_v8/issues/1049) in [denoland/rusty_v8](https://github.com/denoland/rusty_v8)
-2. 💪 Opened PR [#15762](https://github.com/denoland/deno/pull/15762) in [denoland/deno](https://github.com/denoland/deno)
-3. 🗣 Commented on [#1049](https://github.com/denoland/rusty_v8/issues/1049) in [denoland/rusty_v8](https://github.com/denoland/rusty_v8)
-4. 🗣 Commented on [#44485](https://github.com/nodejs/node/issues/44485) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#1278](https://github.com/nodejs/TSC/issues/1278) in [nodejs/TSC](https://github.com/nodejs/TSC)
+2. 🗣 Commented on [#1049](https://github.com/denoland/rusty_v8/issues/1049) in [denoland/rusty_v8](https://github.com/denoland/rusty_v8)
+3. 💪 Opened PR [#15762](https://github.com/denoland/deno/pull/15762) in [denoland/deno](https://github.com/denoland/deno)
+4. 🗣 Commented on [#1049](https://github.com/denoland/rusty_v8/issues/1049) in [denoland/rusty_v8](https://github.com/denoland/rusty_v8)
 5. 🗣 Commented on [#44485](https://github.com/nodejs/node/issues/44485) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
