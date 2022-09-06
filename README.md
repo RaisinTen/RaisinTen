@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5816](https://github.com/postmanlabs/postman-app-support/issues/5816) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
-2. 💪 Opened PR [#31](https://github.com/nodejs/single-executable/pull/31) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-3. 🗣 Commented on [#1278](https://github.com/nodejs/TSC/issues/1278) in [nodejs/TSC](https://github.com/nodejs/TSC)
-4. 🗣 Commented on [#1049](https://github.com/denoland/rusty_v8/issues/1049) in [denoland/rusty_v8](https://github.com/denoland/rusty_v8)
-5. 💪 Opened PR [#15762](https://github.com/denoland/deno/pull/15762) in [denoland/deno](https://github.com/denoland/deno)
+1. 🗣 Commented on [#130580](https://github.com/Homebrew/homebrew-cask/issues/130580) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+2. 🗣 Commented on [#5816](https://github.com/postmanlabs/postman-app-support/issues/5816) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+3. 💪 Opened PR [#31](https://github.com/nodejs/single-executable/pull/31) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+4. 🗣 Commented on [#1278](https://github.com/nodejs/TSC/issues/1278) in [nodejs/TSC](https://github.com/nodejs/TSC)
+5. 🗣 Commented on [#1049](https://github.com/denoland/rusty_v8/issues/1049) in [denoland/rusty_v8](https://github.com/denoland/rusty_v8)
 <!--END_SECTION:activity-->
