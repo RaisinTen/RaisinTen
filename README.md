@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/nodejs/single-executable/issues/32) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-2. 🗣 Commented on [#130580](https://github.com/Homebrew/homebrew-cask/issues/130580) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-3. 🗣 Commented on [#5816](https://github.com/postmanlabs/postman-app-support/issues/5816) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
-4. 💪 Opened PR [#31](https://github.com/nodejs/single-executable/pull/31) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-5. 🗣 Commented on [#1278](https://github.com/nodejs/TSC/issues/1278) in [nodejs/TSC](https://github.com/nodejs/TSC)
+1. 🗣 Commented on [#34609](https://github.com/electron/electron/issues/34609) in [electron/electron](https://github.com/electron/electron)
+2. 🗣 Commented on [#34609](https://github.com/electron/electron/issues/34609) in [electron/electron](https://github.com/electron/electron)
+3. 🗣 Commented on [#35592](https://github.com/electron/electron/issues/35592) in [electron/electron](https://github.com/electron/electron)
+4. ❗️ Closed issue [#35592](https://github.com/electron/electron/issues/35592) in [electron/electron](https://github.com/electron/electron)
+5. 🗣 Commented on [#32](https://github.com/nodejs/single-executable/issues/32) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
 <!--END_SECTION:activity-->
