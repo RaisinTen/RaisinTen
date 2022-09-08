@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/nodejs/single-executable/issues/28) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+1. 🎉 Merged PR [#5](https://github.com/postmanlabs/postject/pull/5) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
 2. 🗣 Commented on [#28](https://github.com/nodejs/single-executable/issues/28) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-3. 🗣 Commented on [#34609](https://github.com/electron/electron/issues/34609) in [electron/electron](https://github.com/electron/electron)
+3. 🗣 Commented on [#28](https://github.com/nodejs/single-executable/issues/28) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
 4. 🗣 Commented on [#34609](https://github.com/electron/electron/issues/34609) in [electron/electron](https://github.com/electron/electron)
-5. 🗣 Commented on [#35592](https://github.com/electron/electron/issues/35592) in [electron/electron](https://github.com/electron/electron)
+5. 🗣 Commented on [#34609](https://github.com/electron/electron/issues/34609) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
