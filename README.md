@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1282](https://github.com/nodejs/TSC/issues/1282) in [nodejs/TSC](https://github.com/nodejs/TSC)
-2. 🎉 Merged PR [#5](https://github.com/postmanlabs/postject/pull/5) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-3. 🗣 Commented on [#28](https://github.com/nodejs/single-executable/issues/28) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-4. 🗣 Commented on [#28](https://github.com/nodejs/single-executable/issues/28) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-5. 🗣 Commented on [#34609](https://github.com/electron/electron/issues/34609) in [electron/electron](https://github.com/electron/electron)
+1. 💪 Opened PR [#7](https://github.com/postmanlabs/postject/pull/7) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+2. 💪 Opened PR [#6](https://github.com/postmanlabs/postject/pull/6) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+3. 🗣 Commented on [#1282](https://github.com/nodejs/TSC/issues/1282) in [nodejs/TSC](https://github.com/nodejs/TSC)
+4. 🎉 Merged PR [#5](https://github.com/postmanlabs/postject/pull/5) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+5. 🗣 Commented on [#28](https://github.com/nodejs/single-executable/issues/28) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
 <!--END_SECTION:activity-->
