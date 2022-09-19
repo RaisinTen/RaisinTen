@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/nodejs/single-executable/issues/37) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-2. 🗣 Commented on [#37](https://github.com/nodejs/single-executable/issues/37) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-3. 🗣 Commented on [#44532](https://github.com/nodejs/node/issues/44532) in [nodejs/node](https://github.com/nodejs/node)
-4. ❗️ Closed issue [#35153](https://github.com/electron/electron/issues/35153) in [electron/electron](https://github.com/electron/electron)
-5. 🗣 Commented on [#35153](https://github.com/electron/electron/issues/35153) in [electron/electron](https://github.com/electron/electron)
+1. 🗣 Commented on [#38](https://github.com/nodejs/single-executable/issues/38) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+2. 🗣 Commented on [#23](https://github.com/nodejs/single-executable/issues/23) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+3. 🗣 Commented on [#37](https://github.com/nodejs/single-executable/issues/37) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+4. 🗣 Commented on [#37](https://github.com/nodejs/single-executable/issues/37) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+5. 🗣 Commented on [#44532](https://github.com/nodejs/node/issues/44532) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
