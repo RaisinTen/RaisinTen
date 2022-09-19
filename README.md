@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#35153](https://github.com/electron/electron/issues/35153) in [electron/electron](https://github.com/electron/electron)
-2. 🗣 Commented on [#35153](https://github.com/electron/electron/issues/35153) in [electron/electron](https://github.com/electron/electron)
-3. 🗣 Commented on [#11502](https://github.com/denoland/deno/issues/11502) in [denoland/deno](https://github.com/denoland/deno)
-4. 💪 Opened PR [#15946](https://github.com/denoland/deno/pull/15946) in [denoland/deno](https://github.com/denoland/deno)
-5. 🗣 Commented on [#44713](https://github.com/nodejs/node/issues/44713) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#44532](https://github.com/nodejs/node/issues/44532) in [nodejs/node](https://github.com/nodejs/node)
+2. ❗️ Closed issue [#35153](https://github.com/electron/electron/issues/35153) in [electron/electron](https://github.com/electron/electron)
+3. 🗣 Commented on [#35153](https://github.com/electron/electron/issues/35153) in [electron/electron](https://github.com/electron/electron)
+4. 🗣 Commented on [#11502](https://github.com/denoland/deno/issues/11502) in [denoland/deno](https://github.com/denoland/deno)
+5. 💪 Opened PR [#15946](https://github.com/denoland/deno/pull/15946) in [denoland/deno](https://github.com/denoland/deno)
 <!--END_SECTION:activity-->
