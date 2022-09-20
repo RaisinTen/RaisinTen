@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44725](https://github.com/nodejs/node/issues/44725) in [nodejs/node](https://github.com/nodejs/node)
-2. 🎉 Merged PR [#23](https://github.com/postmanlabs/postject/pull/23) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-3. 🎉 Merged PR [#22](https://github.com/postmanlabs/postject/pull/22) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-4. 🎉 Merged PR [#21](https://github.com/postmanlabs/postject/pull/21) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-5. 🗣 Commented on [#37](https://github.com/nodejs/single-executable/issues/37) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+1. 🗣 Commented on [#23](https://github.com/nodejs/single-executable/issues/23) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+2. 🗣 Commented on [#44725](https://github.com/nodejs/node/issues/44725) in [nodejs/node](https://github.com/nodejs/node)
+3. 🎉 Merged PR [#23](https://github.com/postmanlabs/postject/pull/23) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+4. 🎉 Merged PR [#22](https://github.com/postmanlabs/postject/pull/22) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+5. 🎉 Merged PR [#21](https://github.com/postmanlabs/postject/pull/21) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
 <!--END_SECTION:activity-->
