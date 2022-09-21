@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/nodejs/single-executable/issues/38) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-2. 🗣 Commented on [#23](https://github.com/nodejs/single-executable/issues/23) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-3. 🗣 Commented on [#44725](https://github.com/nodejs/node/issues/44725) in [nodejs/node](https://github.com/nodejs/node)
-4. 🎉 Merged PR [#23](https://github.com/postmanlabs/postject/pull/23) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-5. 🎉 Merged PR [#22](https://github.com/postmanlabs/postject/pull/22) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+1. 💪 Opened PR [#25](https://github.com/postmanlabs/postject/pull/25) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+2. 🗣 Commented on [#23](https://github.com/postmanlabs/postject/issues/23) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+3. 🗣 Commented on [#334](https://github.com/openjs-foundation/summit/issues/334) in [openjs-foundation/summit](https://github.com/openjs-foundation/summit)
+4. 🗣 Commented on [#38](https://github.com/nodejs/single-executable/issues/38) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+5. 🗣 Commented on [#23](https://github.com/nodejs/single-executable/issues/23) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
 <!--END_SECTION:activity-->
