@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/nodejs/single-executable/issues/37) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-2. 🗣 Commented on [#23](https://github.com/nodejs/single-executable/issues/23) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-3. 🗣 Commented on [#26](https://github.com/postmanlabs/postject/issues/26) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-4. 🗣 Commented on [#26](https://github.com/postmanlabs/postject/issues/26) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+1. ❗️ Closed issue [#38](https://github.com/nodejs/single-executable/issues/38) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+2. 🗣 Commented on [#38](https://github.com/nodejs/single-executable/issues/38) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+3. 🗣 Commented on [#37](https://github.com/nodejs/single-executable/issues/37) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+4. 🗣 Commented on [#23](https://github.com/nodejs/single-executable/issues/23) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
 5. 🗣 Commented on [#26](https://github.com/postmanlabs/postject/issues/26) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
 <!--END_SECTION:activity-->
