@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/postmanlabs/postject/issues/23) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-2. 🗣 Commented on [#26](https://github.com/postmanlabs/postject/issues/26) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-3. 🗣 Commented on [#7](https://github.com/postmanlabs/postject/issues/7) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-4. 🗣 Commented on [#8](https://github.com/postmanlabs/postject/issues/8) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-5. 🗣 Commented on [#334](https://github.com/openjs-foundation/summit/issues/334) in [openjs-foundation/summit](https://github.com/openjs-foundation/summit)
+1. 💪 Opened PR [#43](https://github.com/nodejs/single-executable/pull/43) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+2. 🗣 Commented on [#23](https://github.com/postmanlabs/postject/issues/23) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+3. 🗣 Commented on [#26](https://github.com/postmanlabs/postject/issues/26) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+4. 🗣 Commented on [#7](https://github.com/postmanlabs/postject/issues/7) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+5. 🗣 Commented on [#8](https://github.com/postmanlabs/postject/issues/8) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
 <!--END_SECTION:activity-->
