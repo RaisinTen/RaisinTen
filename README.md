@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/postmanlabs/postject/issues/14) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-2. 💪 Opened PR [#41](https://github.com/postmanlabs/postject/pull/41) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-3. 🎉 Merged PR [#40](https://github.com/postmanlabs/postject/pull/40) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-4. ❌ Closed PR [#33](https://github.com/postmanlabs/postject/pull/33) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-5. 🗣 Commented on [#33](https://github.com/postmanlabs/postject/issues/33) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+1. ❗️ Closed issue [#14](https://github.com/postmanlabs/postject/issues/14) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+2. 🗣 Commented on [#14](https://github.com/postmanlabs/postject/issues/14) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+3. 🗣 Commented on [#14](https://github.com/postmanlabs/postject/issues/14) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+4. 💪 Opened PR [#41](https://github.com/postmanlabs/postject/pull/41) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+5. 🎉 Merged PR [#40](https://github.com/postmanlabs/postject/pull/40) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
 <!--END_SECTION:activity-->
