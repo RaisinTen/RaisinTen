@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/postmanlabs/postject/issues/33) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-2. 💪 Opened PR [#800](https://github.com/lief-project/LIEF/pull/800) in [lief-project/LIEF](https://github.com/lief-project/LIEF)
-3. 💪 Opened PR [#33](https://github.com/postmanlabs/postject/pull/33) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-4. 🎉 Merged PR [#32](https://github.com/postmanlabs/postject/pull/32) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-5. 🗣 Commented on [#8](https://github.com/postmanlabs/postject/issues/8) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+1. 💪 Opened PR [#39](https://github.com/postmanlabs/postject/pull/39) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+2. 🎉 Merged PR [#38](https://github.com/postmanlabs/postject/pull/38) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+3. 💪 Opened PR [#38](https://github.com/postmanlabs/postject/pull/38) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+4. 🎉 Merged PR [#37](https://github.com/postmanlabs/postject/pull/37) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+5. 🎉 Merged PR [#36](https://github.com/postmanlabs/postject/pull/36) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
 <!--END_SECTION:activity-->
