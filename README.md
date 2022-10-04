@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44711](https://github.com/nodejs/node/issues/44711) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#31624](https://github.com/electron/electron/issues/31624) in [electron/electron](https://github.com/electron/electron)
-3. 🗣 Commented on [#44870](https://github.com/nodejs/node/issues/44870) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#44865](https://github.com/nodejs/node/issues/44865) in [nodejs/node](https://github.com/nodejs/node)
-5. 💪 Opened PR [#44870](https://github.com/nodejs/node/pull/44870) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#32](https://github.com/nodejs/single-executable/issues/32) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+2. 🗣 Commented on [#44711](https://github.com/nodejs/node/issues/44711) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#31624](https://github.com/electron/electron/issues/31624) in [electron/electron](https://github.com/electron/electron)
+4. 🗣 Commented on [#44870](https://github.com/nodejs/node/issues/44870) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#44865](https://github.com/nodejs/node/issues/44865) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
