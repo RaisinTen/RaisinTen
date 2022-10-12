@@ -20,8 +20,8 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#50](https://github.com/postmanlabs/postject/issues/50) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-2. 🗣 Commented on [#44967](https://github.com/nodejs/node/issues/44967) in [nodejs/node](https://github.com/nodejs/node)
-3. ❗️ Opened issue [#50](https://github.com/postmanlabs/postject/issues/50) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-4. 🗣 Commented on [#35193](https://github.com/electron/electron/issues/35193) in [electron/electron](https://github.com/electron/electron)
-5. ❗️ Closed issue [#35193](https://github.com/electron/electron/issues/35193) in [electron/electron](https://github.com/electron/electron)
+2. 🗣 Commented on [#50](https://github.com/postmanlabs/postject/issues/50) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+3. 🗣 Commented on [#44967](https://github.com/nodejs/node/issues/44967) in [nodejs/node](https://github.com/nodejs/node)
+4. ❗️ Opened issue [#50](https://github.com/postmanlabs/postject/issues/50) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+5. 🗣 Commented on [#35193](https://github.com/electron/electron/issues/35193) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
