@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#50](https://github.com/postmanlabs/postject/issues/50) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-2. 🗣 Commented on [#35193](https://github.com/electron/electron/issues/35193) in [electron/electron](https://github.com/electron/electron)
-3. ❗️ Closed issue [#35193](https://github.com/electron/electron/issues/35193) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#943](https://github.com/nodejs/nan/issues/943) in [nodejs/nan](https://github.com/nodejs/nan)
-5. 💪 Opened PR [#49](https://github.com/postmanlabs/postject/pull/49) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+1. 🗣 Commented on [#44967](https://github.com/nodejs/node/issues/44967) in [nodejs/node](https://github.com/nodejs/node)
+2. ❗️ Opened issue [#50](https://github.com/postmanlabs/postject/issues/50) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+3. 🗣 Commented on [#35193](https://github.com/electron/electron/issues/35193) in [electron/electron](https://github.com/electron/electron)
+4. ❗️ Closed issue [#35193](https://github.com/electron/electron/issues/35193) in [electron/electron](https://github.com/electron/electron)
+5. 🗣 Commented on [#943](https://github.com/nodejs/nan/issues/943) in [nodejs/nan](https://github.com/nodejs/nan)
 <!--END_SECTION:activity-->
