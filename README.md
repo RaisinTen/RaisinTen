@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36003](https://github.com/electron/electron/issues/36003) in [electron/electron](https://github.com/electron/electron)
-2. 🗣 Commented on [#44782](https://github.com/nodejs/node/issues/44782) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#22105](https://github.com/electron/electron/issues/22105) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#22105](https://github.com/electron/electron/issues/22105) in [electron/electron](https://github.com/electron/electron)
-5. 💪 Opened PR [#51](https://github.com/postmanlabs/postject/pull/51) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+1. ❗️ Closed issue [#50](https://github.com/postmanlabs/postject/issues/50) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+2. 🎉 Merged PR [#51](https://github.com/postmanlabs/postject/pull/51) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+3. 🗣 Commented on [#36003](https://github.com/electron/electron/issues/36003) in [electron/electron](https://github.com/electron/electron)
+4. 🗣 Commented on [#44782](https://github.com/nodejs/node/issues/44782) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#22105](https://github.com/electron/electron/issues/22105) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
