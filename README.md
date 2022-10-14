@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/postmanlabs/postject/issues/1) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-2. ❗️ Closed issue [#50](https://github.com/postmanlabs/postject/issues/50) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-3. 🎉 Merged PR [#51](https://github.com/postmanlabs/postject/pull/51) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-4. 🗣 Commented on [#36003](https://github.com/electron/electron/issues/36003) in [electron/electron](https://github.com/electron/electron)
-5. 🗣 Commented on [#44782](https://github.com/nodejs/node/issues/44782) in [nodejs/node](https://github.com/nodejs/node)
+1. 💪 Opened PR [#53](https://github.com/postmanlabs/postject/pull/53) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+2. 💪 Opened PR [#52](https://github.com/postmanlabs/postject/pull/52) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+3. 🗣 Commented on [#1](https://github.com/postmanlabs/postject/issues/1) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+4. ❗️ Closed issue [#50](https://github.com/postmanlabs/postject/issues/50) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+5. 🎉 Merged PR [#51](https://github.com/postmanlabs/postject/pull/51) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
 <!--END_SECTION:activity-->
