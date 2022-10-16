@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/nodejs/single-executable/pull/51) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-2. 🗣 Commented on [#45018](https://github.com/nodejs/node/issues/45018) in [nodejs/node](https://github.com/nodejs/node)
-3. 💪 Opened PR [#53](https://github.com/postmanlabs/postject/pull/53) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-4. 💪 Opened PR [#52](https://github.com/postmanlabs/postject/pull/52) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-5. 🗣 Commented on [#1](https://github.com/postmanlabs/postject/issues/1) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+1. 💪 Opened PR [#45021](https://github.com/nodejs/node/pull/45021) in [nodejs/node](https://github.com/nodejs/node)
+2. ❌ Closed PR [#3](https://github.com/RaisinTen/node/pull/3) in [RaisinTen/node](https://github.com/RaisinTen/node)
+3. 🎉 Merged PR [#51](https://github.com/nodejs/single-executable/pull/51) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+4. 🗣 Commented on [#45018](https://github.com/nodejs/node/issues/45018) in [nodejs/node](https://github.com/nodejs/node)
+5. 💪 Opened PR [#53](https://github.com/postmanlabs/postject/pull/53) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
 <!--END_SECTION:activity-->
