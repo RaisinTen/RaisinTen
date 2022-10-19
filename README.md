@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#52](https://github.com/nodejs/single-executable/pull/52) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-2. 🗣 Commented on [#42334](https://github.com/nodejs/node/issues/42334) in [nodejs/node](https://github.com/nodejs/node)
-3. 💪 Opened PR [#45038](https://github.com/nodejs/node/pull/45038) in [nodejs/node](https://github.com/nodejs/node)
-4. 🎉 Merged PR [#53](https://github.com/postmanlabs/postject/pull/53) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-5. 💪 Opened PR [#45021](https://github.com/nodejs/node/pull/45021) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#34977](https://github.com/electron/electron/issues/34977) in [electron/electron](https://github.com/electron/electron)
+2. ❗️ Reopened issue [#34923](https://github.com/electron/electron/issues/34923) in [electron/electron](https://github.com/electron/electron)
+3. 🗣 Commented on [#34923](https://github.com/electron/electron/issues/34923) in [electron/electron](https://github.com/electron/electron)
+4. 💪 Opened PR [#52](https://github.com/nodejs/single-executable/pull/52) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+5. 🗣 Commented on [#42334](https://github.com/nodejs/node/issues/42334) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
