@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45066](https://github.com/nodejs/node/issues/45066) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#45038](https://github.com/nodejs/node/issues/45038) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#45038](https://github.com/nodejs/node/issues/45038) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#45038](https://github.com/nodejs/node/issues/45038) in [nodejs/node](https://github.com/nodejs/node)
-5. 💪 Opened PR [#45066](https://github.com/nodejs/node/pull/45066) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#45038](https://github.com/nodejs/node/issues/45038) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#45066](https://github.com/nodejs/node/issues/45066) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#45066](https://github.com/nodejs/node/issues/45066) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#45066](https://github.com/nodejs/node/issues/45066) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#45066](https://github.com/nodejs/node/issues/45066) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
