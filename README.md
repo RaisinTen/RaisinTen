@@ -20,8 +20,8 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#44942](https://github.com/nodejs/node/issues/44942) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#44713](https://github.com/nodejs/node/issues/44713) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#56](https://github.com/postmanlabs/postject/issues/56) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-4. 🗣 Commented on [#45119](https://github.com/nodejs/node/issues/45119) in [nodejs/node](https://github.com/nodejs/node)
-5. 💪 Opened PR [#102](https://github.com/nodejs/core-validate-commit/pull/102) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
+2. 🗣 Commented on [#44942](https://github.com/nodejs/node/issues/44942) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#44713](https://github.com/nodejs/node/issues/44713) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#56](https://github.com/postmanlabs/postject/issues/56) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+5. 🗣 Commented on [#45119](https://github.com/nodejs/node/issues/45119) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
