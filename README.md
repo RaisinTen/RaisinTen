@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#102](https://github.com/nodejs/core-validate-commit/issues/102) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
-2. 🎉 Merged PR [#102](https://github.com/nodejs/core-validate-commit/pull/102) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
-3. 🗣 Commented on [#36003](https://github.com/electron/electron/issues/36003) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#44942](https://github.com/nodejs/node/issues/44942) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#44942](https://github.com/nodejs/node/issues/44942) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#102](https://github.com/nodejs/core-validate-commit/issues/102) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
+3. 🎉 Merged PR [#102](https://github.com/nodejs/core-validate-commit/pull/102) in [nodejs/core-validate-commit](https://github.com/nodejs/core-validate-commit)
+4. 🗣 Commented on [#36003](https://github.com/electron/electron/issues/36003) in [electron/electron](https://github.com/electron/electron)
 5. 🗣 Commented on [#44942](https://github.com/nodejs/node/issues/44942) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
