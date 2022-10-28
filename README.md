@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/postmanlabs/postject/issues/57) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-2. ❗️ Closed issue [#739](https://github.com/nodejs/admin/issues/739) in [nodejs/admin](https://github.com/nodejs/admin)
-3. 🗣 Commented on [#739](https://github.com/nodejs/admin/issues/739) in [nodejs/admin](https://github.com/nodejs/admin)
-4. 💪 Opened PR [#60](https://github.com/postmanlabs/postject/pull/60) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
-5. 🗣 Commented on [#58](https://github.com/postmanlabs/postject/issues/58) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+1. 💪 Opened PR [#61](https://github.com/postmanlabs/postject/pull/61) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+2. 🎉 Merged PR [#60](https://github.com/postmanlabs/postject/pull/60) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+3. 🎉 Merged PR [#52](https://github.com/postmanlabs/postject/pull/52) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+4. 🗣 Commented on [#57](https://github.com/postmanlabs/postject/issues/57) in [postmanlabs/postject](https://github.com/postmanlabs/postject)
+5. ❗️ Closed issue [#739](https://github.com/nodejs/admin/issues/739) in [nodejs/admin](https://github.com/nodejs/admin)
 <!--END_SECTION:activity-->
