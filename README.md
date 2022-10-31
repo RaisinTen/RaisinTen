@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#739](https://github.com/nodejs/admin/issues/739) in [nodejs/admin](https://github.com/nodejs/admin)
-2. 🗣 Commented on [#62](https://github.com/nodejs/postject/issues/62) in [nodejs/postject](https://github.com/nodejs/postject)
-3. ❗️ Opened issue [#62](https://github.com/nodejs/postject/issues/62) in [nodejs/postject](https://github.com/nodejs/postject)
-4. 🗣 Commented on [#739](https://github.com/nodejs/admin/issues/739) in [nodejs/admin](https://github.com/nodejs/admin)
-5. 🎉 Merged PR [#61](https://github.com/nodejs/postject/pull/61) in [nodejs/postject](https://github.com/nodejs/postject)
+1. ❗️ Opened issue [#63](https://github.com/nodejs/postject/issues/63) in [nodejs/postject](https://github.com/nodejs/postject)
+2. 🗣 Commented on [#739](https://github.com/nodejs/admin/issues/739) in [nodejs/admin](https://github.com/nodejs/admin)
+3. 🗣 Commented on [#62](https://github.com/nodejs/postject/issues/62) in [nodejs/postject](https://github.com/nodejs/postject)
+4. ❗️ Opened issue [#62](https://github.com/nodejs/postject/issues/62) in [nodejs/postject](https://github.com/nodejs/postject)
+5. 🗣 Commented on [#739](https://github.com/nodejs/admin/issues/739) in [nodejs/admin](https://github.com/nodejs/admin)
 <!--END_SECTION:activity-->
