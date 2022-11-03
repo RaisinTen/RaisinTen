@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/nodejs/postject/issues/63) in [nodejs/postject](https://github.com/nodejs/postject)
-2. 💪 Opened PR [#55](https://github.com/nodejs/single-executable/pull/55) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+1. ❗️ Closed issue [#54](https://github.com/nodejs/single-executable/issues/54) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+2. 🎉 Merged PR [#55](https://github.com/nodejs/single-executable/pull/55) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
 3. 🗣 Commented on [#63](https://github.com/nodejs/postject/issues/63) in [nodejs/postject](https://github.com/nodejs/postject)
-4. ❗️ Opened issue [#63](https://github.com/nodejs/postject/issues/63) in [nodejs/postject](https://github.com/nodejs/postject)
-5. 🗣 Commented on [#739](https://github.com/nodejs/admin/issues/739) in [nodejs/admin](https://github.com/nodejs/admin)
+4. 💪 Opened PR [#55](https://github.com/nodejs/single-executable/pull/55) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+5. 🗣 Commented on [#63](https://github.com/nodejs/postject/issues/63) in [nodejs/postject](https://github.com/nodejs/postject)
 <!--END_SECTION:activity-->
