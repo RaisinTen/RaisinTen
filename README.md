@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1308](https://github.com/nodejs/TSC/issues/1308) in [nodejs/TSC](https://github.com/nodejs/TSC)
-2. 🗣 Commented on [#45289](https://github.com/nodejs/node/issues/45289) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#45387](https://github.com/nodejs/node/issues/45387) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#11431](https://github.com/postmanlabs/postman-app-support/issues/11431) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
-5. ❌ Closed PR [#64](https://github.com/nodejs/postject/pull/64) in [nodejs/postject](https://github.com/nodejs/postject)
+1. 🗣 Commented on [#33101](https://github.com/electron/electron/issues/33101) in [electron/electron](https://github.com/electron/electron)
+2. 🗣 Commented on [#1308](https://github.com/nodejs/TSC/issues/1308) in [nodejs/TSC](https://github.com/nodejs/TSC)
+3. 🗣 Commented on [#45289](https://github.com/nodejs/node/issues/45289) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#45387](https://github.com/nodejs/node/issues/45387) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#11431](https://github.com/postmanlabs/postman-app-support/issues/11431) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
 <!--END_SECTION:activity-->
