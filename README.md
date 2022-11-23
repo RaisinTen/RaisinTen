@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7349](https://github.com/postmanlabs/postman-app-support/issues/7349) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
-2. ❗️ Closed issue [#7349](https://github.com/postmanlabs/postman-app-support/issues/7349) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
-3. ❗️ Opened issue [#82](https://github.com/loeffel-io/ls-lint/issues/82) in [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint)
-4. 🗣 Commented on [#33101](https://github.com/electron/electron/issues/33101) in [electron/electron](https://github.com/electron/electron)
-5. 🗣 Commented on [#1308](https://github.com/nodejs/TSC/issues/1308) in [nodejs/TSC](https://github.com/nodejs/TSC)
+1. 🗣 Commented on [#44126](https://github.com/nodejs/node/issues/44126) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#7349](https://github.com/postmanlabs/postman-app-support/issues/7349) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+3. ❗️ Closed issue [#7349](https://github.com/postmanlabs/postman-app-support/issues/7349) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+4. ❗️ Opened issue [#82](https://github.com/loeffel-io/ls-lint/issues/82) in [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint)
+5. 🗣 Commented on [#33101](https://github.com/electron/electron/issues/33101) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
