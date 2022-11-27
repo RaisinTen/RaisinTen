@@ -19,8 +19,8 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7064](https://github.com/tensorflow/tfjs/issues/7064) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
-2. 🗣 Commented on [#7064](https://github.com/tensorflow/tfjs/issues/7064) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
+1. 🗣 Commented on [#59](https://github.com/nodejs/postject/issues/59) in [nodejs/postject](https://github.com/nodejs/postject)
+2. 🗣 Commented on [#755](https://github.com/nodejs/admin/issues/755) in [nodejs/admin](https://github.com/nodejs/admin)
 3. 🗣 Commented on [#7064](https://github.com/tensorflow/tfjs/issues/7064) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
 4. 🗣 Commented on [#7064](https://github.com/tensorflow/tfjs/issues/7064) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
 5. 🗣 Commented on [#7064](https://github.com/tensorflow/tfjs/issues/7064) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
