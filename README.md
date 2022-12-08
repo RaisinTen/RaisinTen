@@ -22,6 +22,6 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 1. 🗣 Commented on [#36600](https://github.com/electron/electron/issues/36600) in [electron/electron](https://github.com/electron/electron)
 2. 🗣 Commented on [#36600](https://github.com/electron/electron/issues/36600) in [electron/electron](https://github.com/electron/electron)
 3. 🗣 Commented on [#36600](https://github.com/electron/electron/issues/36600) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#45298](https://github.com/nodejs/node/issues/45298) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#45303](https://github.com/nodejs/node/issues/45303) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#36600](https://github.com/electron/electron/issues/36600) in [electron/electron](https://github.com/electron/electron)
+5. 🗣 Commented on [#45298](https://github.com/nodejs/node/issues/45298) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
