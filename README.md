@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1319](https://github.com/nodejs/TSC/issues/1319) in [nodejs/TSC](https://github.com/nodejs/TSC)
-2. 🗣 Commented on [#45847](https://github.com/nodejs/node/issues/45847) in [nodejs/node](https://github.com/nodejs/node)
-3. ❗️ Opened issue [#56](https://github.com/nodejs/single-executable/issues/56) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-4. ❗️ Opened issue [#66](https://github.com/nodejs/postject/issues/66) in [nodejs/postject](https://github.com/nodejs/postject)
-5. 🗣 Commented on [#45298](https://github.com/nodejs/node/issues/45298) in [nodejs/node](https://github.com/nodejs/node)
+1. 💪 Opened PR [#5](https://github.com/gluon-framework/gluon/pull/5) in [gluon-framework/gluon](https://github.com/gluon-framework/gluon)
+2. 🗣 Commented on [#1319](https://github.com/nodejs/TSC/issues/1319) in [nodejs/TSC](https://github.com/nodejs/TSC)
+3. 🗣 Commented on [#45847](https://github.com/nodejs/node/issues/45847) in [nodejs/node](https://github.com/nodejs/node)
+4. ❗️ Opened issue [#56](https://github.com/nodejs/single-executable/issues/56) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+5. ❗️ Opened issue [#66](https://github.com/nodejs/postject/issues/66) in [nodejs/postject](https://github.com/nodejs/postject)
 <!--END_SECTION:activity-->
