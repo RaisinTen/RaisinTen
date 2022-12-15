@@ -20,8 +20,8 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#45847](https://github.com/nodejs/node/issues/45847) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#49](https://github.com/nodejs/single-executable/issues/49) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-3. 💪 Opened PR [#5](https://github.com/gluon-framework/gluon/pull/5) in [gluon-framework/gluon](https://github.com/gluon-framework/gluon)
-4. 🗣 Commented on [#1319](https://github.com/nodejs/TSC/issues/1319) in [nodejs/TSC](https://github.com/nodejs/TSC)
-5. 🗣 Commented on [#45847](https://github.com/nodejs/node/issues/45847) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#45847](https://github.com/nodejs/node/issues/45847) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#49](https://github.com/nodejs/single-executable/issues/49) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+4. 💪 Opened PR [#5](https://github.com/gluon-framework/gluon/pull/5) in [gluon-framework/gluon](https://github.com/gluon-framework/gluon)
+5. 🗣 Commented on [#1319](https://github.com/nodejs/TSC/issues/1319) in [nodejs/TSC](https://github.com/nodejs/TSC)
 <!--END_SECTION:activity-->
