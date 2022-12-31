@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46014](https://github.com/nodejs/node/pull/46014) in [nodejs/node](https://github.com/nodejs/node)
-2. 💪 Opened PR [#45956](https://github.com/nodejs/node/pull/45956) in [nodejs/node](https://github.com/nodejs/node)
-3. ❌ Closed PR [#3114](https://github.com/nodejs/build/pull/3114) in [nodejs/build](https://github.com/nodejs/build)
-4. 🗣 Commented on [#3114](https://github.com/nodejs/build/issues/3114) in [nodejs/build](https://github.com/nodejs/build)
-5. 🗣 Commented on [#68](https://github.com/nodejs/postject/issues/68) in [nodejs/postject](https://github.com/nodejs/postject)
+1. 🗣 Commented on [#373](https://github.com/clinicjs/node-clinic-doctor/issues/373) in [clinicjs/node-clinic-doctor](https://github.com/clinicjs/node-clinic-doctor)
+2. 💪 Opened PR [#46014](https://github.com/nodejs/node/pull/46014) in [nodejs/node](https://github.com/nodejs/node)
+3. 💪 Opened PR [#45956](https://github.com/nodejs/node/pull/45956) in [nodejs/node](https://github.com/nodejs/node)
+4. ❌ Closed PR [#3114](https://github.com/nodejs/build/pull/3114) in [nodejs/build](https://github.com/nodejs/build)
+5. 🗣 Commented on [#3114](https://github.com/nodejs/build/issues/3114) in [nodejs/build](https://github.com/nodejs/build)
 <!--END_SECTION:activity-->
