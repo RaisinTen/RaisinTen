@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#491](https://github.com/siimon/prom-client/issues/491) in [siimon/prom-client](https://github.com/siimon/prom-client)
+1. 🗣 Commented on [#46085](https://github.com/nodejs/node/issues/46085) in [nodejs/node](https://github.com/nodejs/node)
 2. 🗣 Commented on [#491](https://github.com/siimon/prom-client/issues/491) in [siimon/prom-client](https://github.com/siimon/prom-client)
-3. 🗣 Commented on [#373](https://github.com/clinicjs/node-clinic-doctor/issues/373) in [clinicjs/node-clinic-doctor](https://github.com/clinicjs/node-clinic-doctor)
-4. 🗣 Commented on [#1168](https://github.com/artsy/metaphysics/issues/1168) in [artsy/metaphysics](https://github.com/artsy/metaphysics)
-5. 💪 Opened PR [#4664](https://github.com/artsy/metaphysics/pull/4664) in [artsy/metaphysics](https://github.com/artsy/metaphysics)
+3. 🗣 Commented on [#491](https://github.com/siimon/prom-client/issues/491) in [siimon/prom-client](https://github.com/siimon/prom-client)
+4. 🗣 Commented on [#373](https://github.com/clinicjs/node-clinic-doctor/issues/373) in [clinicjs/node-clinic-doctor](https://github.com/clinicjs/node-clinic-doctor)
+5. 🗣 Commented on [#1168](https://github.com/artsy/metaphysics/issues/1168) in [artsy/metaphysics](https://github.com/artsy/metaphysics)
 <!--END_SECTION:activity-->
