@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4123](https://github.com/google/googletest/issues/4123) in [google/googletest](https://github.com/google/googletest)
-2. 💪 Opened PR [#44](https://github.com/sourcemeta/vendorpull/pull/44) in [sourcemeta/vendorpull](https://github.com/sourcemeta/vendorpull)
-3. 💪 Opened PR [#4123](https://github.com/google/googletest/pull/4123) in [google/googletest](https://github.com/google/googletest)
-4. 🗣 Commented on [#46218](https://github.com/nodejs/node/issues/46218) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#3126](https://github.com/nodejs/build/issues/3126) in [nodejs/build](https://github.com/nodejs/build)
+1. ❌ Closed PR [#46212](https://github.com/nodejs/node/pull/46212) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#46212](https://github.com/nodejs/node/issues/46212) in [nodejs/node](https://github.com/nodejs/node)
+3. 🎉 Merged PR [#6](https://github.com/RaisinTen/tests/pull/6) in [RaisinTen/tests](https://github.com/RaisinTen/tests)
+4. 💪 Opened PR [#6](https://github.com/RaisinTen/tests/pull/6) in [RaisinTen/tests](https://github.com/RaisinTen/tests)
+5. 🗣 Commented on [#4123](https://github.com/google/googletest/issues/4123) in [google/googletest](https://github.com/google/googletest)
 <!--END_SECTION:activity-->
