@@ -20,8 +20,8 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#45038](https://github.com/nodejs/node/issues/45038) in [nodejs/node](https://github.com/nodejs/node)
-2. ❌ Closed PR [#46582](https://github.com/nodejs/node/pull/46582) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#46582](https://github.com/nodejs/node/issues/46582) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#45038](https://github.com/nodejs/node/issues/45038) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#45038](https://github.com/nodejs/node/issues/45038) in [nodejs/node](https://github.com/nodejs/node)
+3. ❌ Closed PR [#46582](https://github.com/nodejs/node/pull/46582) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#46582](https://github.com/nodejs/node/issues/46582) in [nodejs/node](https://github.com/nodejs/node)
 5. 🗣 Commented on [#45038](https://github.com/nodejs/node/issues/45038) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
