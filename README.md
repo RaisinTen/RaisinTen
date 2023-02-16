@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1341](https://github.com/nodejs/TSC/issues/1341) in [nodejs/TSC](https://github.com/nodejs/TSC)
-2. 🗣 Commented on [#46608](https://github.com/nodejs/node/issues/46608) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#3903](https://github.com/nodejs/help/issues/3903) in [nodejs/help](https://github.com/nodejs/help)
-4. 🗣 Commented on [#46526](https://github.com/nodejs/node/issues/46526) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#46672](https://github.com/nodejs/node/issues/46672) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#1341](https://github.com/nodejs/TSC/issues/1341) in [nodejs/TSC](https://github.com/nodejs/TSC)
+3. 🗣 Commented on [#46608](https://github.com/nodejs/node/issues/46608) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#3903](https://github.com/nodejs/help/issues/3903) in [nodejs/help](https://github.com/nodejs/help)
 5. 🗣 Commented on [#46526](https://github.com/nodejs/node/issues/46526) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
