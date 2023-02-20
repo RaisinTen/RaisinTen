@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#47](https://github.com/nodejs/single-executable/issues/47) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-2. 🗣 Commented on [#47](https://github.com/nodejs/single-executable/issues/47) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-3. 🗣 Commented on [#46716](https://github.com/nodejs/node/issues/46716) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#879](https://github.com/nodejs/security-wg/issues/879) in [nodejs/security-wg](https://github.com/nodejs/security-wg)
-5. ❌ Closed PR [#74](https://github.com/nodejs/postject/pull/74) in [nodejs/postject](https://github.com/nodejs/postject)
+1. 🗣 Commented on [#46736](https://github.com/nodejs/node/issues/46736) in [nodejs/node](https://github.com/nodejs/node)
+2. ❗️ Closed issue [#47](https://github.com/nodejs/single-executable/issues/47) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+3. 🗣 Commented on [#47](https://github.com/nodejs/single-executable/issues/47) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+4. 🗣 Commented on [#46716](https://github.com/nodejs/node/issues/46716) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#879](https://github.com/nodejs/security-wg/issues/879) in [nodejs/security-wg](https://github.com/nodejs/security-wg)
 <!--END_SECTION:activity-->
