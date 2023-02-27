@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46824](https://github.com/nodejs/node/issues/46824) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#1179](https://github.com/Homebrew/homebrew-bundle/issues/1179) in [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle)
-3. ❗️ Closed issue [#1179](https://github.com/Homebrew/homebrew-bundle/issues/1179) in [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle)
-4. ❗️ Opened issue [#1179](https://github.com/Homebrew/homebrew-bundle/issues/1179) in [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle)
-5. 🗣 Commented on [#70](https://github.com/nodejs/postject/issues/70) in [nodejs/postject](https://github.com/nodejs/postject)
+1. 💪 Opened PR [#46868](https://github.com/nodejs/node/pull/46868) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#46824](https://github.com/nodejs/node/issues/46824) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#1179](https://github.com/Homebrew/homebrew-bundle/issues/1179) in [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle)
+4. ❗️ Closed issue [#1179](https://github.com/Homebrew/homebrew-bundle/issues/1179) in [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle)
+5. ❗️ Opened issue [#1179](https://github.com/Homebrew/homebrew-bundle/issues/1179) in [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle)
 <!--END_SECTION:activity-->
