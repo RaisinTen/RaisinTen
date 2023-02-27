@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#46764](https://github.com/nodejs/node/pull/46764) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#46764](https://github.com/nodejs/node/issues/46764) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#46832](https://github.com/nodejs/node/issues/46832) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#3207](https://github.com/nodejs/build/issues/3207) in [nodejs/build](https://github.com/nodejs/build)
-5. 🗣 Commented on [#76](https://github.com/nodejs/postject/issues/76) in [nodejs/postject](https://github.com/nodejs/postject)
+1. 🗣 Commented on [#70](https://github.com/nodejs/postject/issues/70) in [nodejs/postject](https://github.com/nodejs/postject)
+2. 🗣 Commented on [#76](https://github.com/nodejs/postject/issues/76) in [nodejs/postject](https://github.com/nodejs/postject)
+3. 🗣 Commented on [#3207](https://github.com/nodejs/build/issues/3207) in [nodejs/build](https://github.com/nodejs/build)
+4. 💪 Opened PR [#77](https://github.com/nodejs/postject/pull/77) in [nodejs/postject](https://github.com/nodejs/postject)
+5. ❌ Closed PR [#46764](https://github.com/nodejs/node/pull/46764) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
