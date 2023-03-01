@@ -20,8 +20,8 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4117](https://github.com/nodejs/help/issues/4117) in [nodejs/help](https://github.com/nodejs/help)
-2. 💪 Opened PR [#7](https://github.com/RaisinTen/tests/pull/7) in [RaisinTen/tests](https://github.com/RaisinTen/tests)
-3. 💪 Opened PR [#46868](https://github.com/nodejs/node/pull/46868) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#46824](https://github.com/nodejs/node/issues/46824) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#1179](https://github.com/Homebrew/homebrew-bundle/issues/1179) in [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle)
+2. 🗣 Commented on [#4117](https://github.com/nodejs/help/issues/4117) in [nodejs/help](https://github.com/nodejs/help)
+3. 🗣 Commented on [#4117](https://github.com/nodejs/help/issues/4117) in [nodejs/help](https://github.com/nodejs/help)
+4. 💪 Opened PR [#7](https://github.com/RaisinTen/tests/pull/7) in [RaisinTen/tests](https://github.com/RaisinTen/tests)
+5. 💪 Opened PR [#46868](https://github.com/nodejs/node/pull/46868) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
