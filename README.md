@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46832](https://github.com/nodejs/node/issues/46832) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#7](https://github.com/RaisinTen/tests/issues/7) in [RaisinTen/tests](https://github.com/RaisinTen/tests)
 2. 🗣 Commented on [#46832](https://github.com/nodejs/node/issues/46832) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#77](https://github.com/nodejs/postject/issues/77) in [nodejs/postject](https://github.com/nodejs/postject)
-4. 🗣 Commented on [#4117](https://github.com/nodejs/help/issues/4117) in [nodejs/help](https://github.com/nodejs/help)
-5. 🗣 Commented on [#4117](https://github.com/nodejs/help/issues/4117) in [nodejs/help](https://github.com/nodejs/help)
+3. 🗣 Commented on [#46832](https://github.com/nodejs/node/issues/46832) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#46832](https://github.com/nodejs/node/issues/46832) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#77](https://github.com/nodejs/postject/issues/77) in [nodejs/postject](https://github.com/nodejs/postject)
 <!--END_SECTION:activity-->
