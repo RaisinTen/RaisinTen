@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/nodejs/postject/pull/80) in [nodejs/postject](https://github.com/nodejs/postject)
-2. 💪 Opened PR [#80](https://github.com/nodejs/postject/pull/80) in [nodejs/postject](https://github.com/nodejs/postject)
-3. 🎉 Merged PR [#79](https://github.com/nodejs/postject/pull/79) in [nodejs/postject](https://github.com/nodejs/postject)
-4. 💪 Opened PR [#79](https://github.com/nodejs/postject/pull/79) in [nodejs/postject](https://github.com/nodejs/postject)
-5. ❗️ Closed issue [#71](https://github.com/nodejs/postject/issues/71) in [nodejs/postject](https://github.com/nodejs/postject)
+1. 💪 Opened PR [#81](https://github.com/nodejs/postject/pull/81) in [nodejs/postject](https://github.com/nodejs/postject)
+2. 🎉 Merged PR [#80](https://github.com/nodejs/postject/pull/80) in [nodejs/postject](https://github.com/nodejs/postject)
+3. 💪 Opened PR [#80](https://github.com/nodejs/postject/pull/80) in [nodejs/postject](https://github.com/nodejs/postject)
+4. 🎉 Merged PR [#79](https://github.com/nodejs/postject/pull/79) in [nodejs/postject](https://github.com/nodejs/postject)
+5. 💪 Opened PR [#79](https://github.com/nodejs/postject/pull/79) in [nodejs/postject](https://github.com/nodejs/postject)
 <!--END_SECTION:activity-->
