@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#32831](https://github.com/electron/electron/pull/32831) in [electron/electron](https://github.com/electron/electron)
-2. 🗣 Commented on [#32831](https://github.com/electron/electron/issues/32831) in [electron/electron](https://github.com/electron/electron)
-3. 🗣 Commented on [#47263](https://github.com/nodejs/node/issues/47263) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#3](https://github.com/postman-open-technologies/openapi-componentizer/issues/3) in [postman-open-technologies/openapi-componentizer](https://github.com/postman-open-technologies/openapi-componentizer)
-5. 🗣 Commented on [#47146](https://github.com/nodejs/node/issues/47146) in [nodejs/node](https://github.com/nodejs/node)
+1. 💪 Opened PR [#47307](https://github.com/nodejs/node/pull/47307) in [nodejs/node](https://github.com/nodejs/node)
+2. ❌ Closed PR [#32831](https://github.com/electron/electron/pull/32831) in [electron/electron](https://github.com/electron/electron)
+3. 🗣 Commented on [#32831](https://github.com/electron/electron/issues/32831) in [electron/electron](https://github.com/electron/electron)
+4. 🗣 Commented on [#47263](https://github.com/nodejs/node/issues/47263) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#3](https://github.com/postman-open-technologies/openapi-componentizer/issues/3) in [postman-open-technologies/openapi-componentizer](https://github.com/postman-open-technologies/openapi-componentizer)
 <!--END_SECTION:activity-->
