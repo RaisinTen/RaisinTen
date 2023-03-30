@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47309](https://github.com/nodejs/node/pull/47309) in [nodejs/node](https://github.com/nodejs/node)
-2. 💪 Opened PR [#47307](https://github.com/nodejs/node/pull/47307) in [nodejs/node](https://github.com/nodejs/node)
-3. ❌ Closed PR [#32831](https://github.com/electron/electron/pull/32831) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#32831](https://github.com/electron/electron/issues/32831) in [electron/electron](https://github.com/electron/electron)
-5. 🗣 Commented on [#47263](https://github.com/nodejs/node/issues/47263) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#9](https://github.com/postman-open-technologies/openapi-componentizer/issues/9) in [postman-open-technologies/openapi-componentizer](https://github.com/postman-open-technologies/openapi-componentizer)
+2. 🗣 Commented on [#47315](https://github.com/nodejs/node/issues/47315) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#47311](https://github.com/nodejs/node/issues/47311) in [nodejs/node](https://github.com/nodejs/node)
+4. 💪 Opened PR [#47315](https://github.com/nodejs/node/pull/47315) in [nodejs/node](https://github.com/nodejs/node)
+5. 💪 Opened PR [#47309](https://github.com/nodejs/node/pull/47309) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
