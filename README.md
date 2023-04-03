@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/postman-open-technologies/openapi-componentizer/issues/9) in [postman-open-technologies/openapi-componentizer](https://github.com/postman-open-technologies/openapi-componentizer)
+1. 🗣 Commented on [#47307](https://github.com/nodejs/node/issues/47307) in [nodejs/node](https://github.com/nodejs/node)
 2. 🗣 Commented on [#9](https://github.com/postman-open-technologies/openapi-componentizer/issues/9) in [postman-open-technologies/openapi-componentizer](https://github.com/postman-open-technologies/openapi-componentizer)
-3. 🗣 Commented on [#47315](https://github.com/nodejs/node/issues/47315) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#47311](https://github.com/nodejs/node/issues/47311) in [nodejs/node](https://github.com/nodejs/node)
-5. 💪 Opened PR [#47315](https://github.com/nodejs/node/pull/47315) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#9](https://github.com/postman-open-technologies/openapi-componentizer/issues/9) in [postman-open-technologies/openapi-componentizer](https://github.com/postman-open-technologies/openapi-componentizer)
+4. 🗣 Commented on [#47315](https://github.com/nodejs/node/issues/47315) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#47311](https://github.com/nodejs/node/issues/47311) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
