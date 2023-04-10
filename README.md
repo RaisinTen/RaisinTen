@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#62046](https://github.com/llvm/llvm-project/issues/62046) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
-2. ❌ Closed PR [#7](https://github.com/RaisinTen/tests/pull/7) in [RaisinTen/tests](https://github.com/RaisinTen/tests)
-3. 🗣 Commented on [#37829](https://github.com/electron/electron/issues/37829) in [electron/electron](https://github.com/electron/electron)
-4. ❌ Closed PR [#47307](https://github.com/nodejs/node/pull/47307) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#47307](https://github.com/nodejs/node/issues/47307) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#45038](https://github.com/nodejs/node/issues/45038) in [nodejs/node](https://github.com/nodejs/node)
+2. 💪 Opened PR [#47495](https://github.com/nodejs/node/pull/47495) in [nodejs/node](https://github.com/nodejs/node)
+3. ❗️ Opened issue [#62046](https://github.com/llvm/llvm-project/issues/62046) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
+4. ❌ Closed PR [#7](https://github.com/RaisinTen/tests/pull/7) in [RaisinTen/tests](https://github.com/RaisinTen/tests)
+5. 🗣 Commented on [#37829](https://github.com/electron/electron/issues/37829) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
