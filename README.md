@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45038](https://github.com/nodejs/node/issues/45038) in [nodejs/node](https://github.com/nodejs/node)
-2. 💪 Opened PR [#47495](https://github.com/nodejs/node/pull/47495) in [nodejs/node](https://github.com/nodejs/node)
-3. ❗️ Opened issue [#62046](https://github.com/llvm/llvm-project/issues/62046) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
-4. ❌ Closed PR [#7](https://github.com/RaisinTen/tests/pull/7) in [RaisinTen/tests](https://github.com/RaisinTen/tests)
-5. 🗣 Commented on [#37829](https://github.com/electron/electron/issues/37829) in [electron/electron](https://github.com/electron/electron)
+1. 🗣 Commented on [#47495](https://github.com/nodejs/node/issues/47495) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#45038](https://github.com/nodejs/node/issues/45038) in [nodejs/node](https://github.com/nodejs/node)
+3. 💪 Opened PR [#47495](https://github.com/nodejs/node/pull/47495) in [nodejs/node](https://github.com/nodejs/node)
+4. ❗️ Opened issue [#62046](https://github.com/llvm/llvm-project/issues/62046) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
+5. ❌ Closed PR [#7](https://github.com/RaisinTen/tests/pull/7) in [RaisinTen/tests](https://github.com/RaisinTen/tests)
 <!--END_SECTION:activity-->
