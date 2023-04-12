@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45038](https://github.com/nodejs/node/issues/45038) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#47495](https://github.com/nodejs/node/issues/47495) in [nodejs/node](https://github.com/nodejs/node)
-3. 🗣 Commented on [#45038](https://github.com/nodejs/node/issues/45038) in [nodejs/node](https://github.com/nodejs/node)
-4. 💪 Opened PR [#47495](https://github.com/nodejs/node/pull/47495) in [nodejs/node](https://github.com/nodejs/node)
-5. ❗️ Opened issue [#62046](https://github.com/llvm/llvm-project/issues/62046) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
+1. 💪 Opened PR [#37941](https://github.com/electron/electron/pull/37941) in [electron/electron](https://github.com/electron/electron)
+2. 🗣 Commented on [#45038](https://github.com/nodejs/node/issues/45038) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#47495](https://github.com/nodejs/node/issues/47495) in [nodejs/node](https://github.com/nodejs/node)
+4. 🗣 Commented on [#45038](https://github.com/nodejs/node/issues/45038) in [nodejs/node](https://github.com/nodejs/node)
+5. 💪 Opened PR [#47495](https://github.com/nodejs/node/pull/47495) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
