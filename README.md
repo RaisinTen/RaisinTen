@@ -20,8 +20,8 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com/postman-open-technologies/openapi-componentizer/issues/10) in [postman-open-technologies/openapi-componentizer](https://github.com/postman-open-technologies/openapi-componentizer)
-2. 🗣 Commented on [#83](https://github.com/nodejs/postject/issues/83) in [nodejs/postject](https://github.com/nodejs/postject)
-3. 🗣 Commented on [#83](https://github.com/nodejs/postject/issues/83) in [nodejs/postject](https://github.com/nodejs/postject)
-4. 🗣 Commented on [#47125](https://github.com/nodejs/node/issues/47125) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#45038](https://github.com/nodejs/node/issues/45038) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#47583](https://github.com/nodejs/node/issues/47583) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#10](https://github.com/postman-open-technologies/openapi-componentizer/issues/10) in [postman-open-technologies/openapi-componentizer](https://github.com/postman-open-technologies/openapi-componentizer)
+4. 🗣 Commented on [#83](https://github.com/nodejs/postject/issues/83) in [nodejs/postject](https://github.com/nodejs/postject)
+5. 🗣 Commented on [#83](https://github.com/nodejs/postject/issues/83) in [nodejs/postject](https://github.com/nodejs/postject)
 <!--END_SECTION:activity-->
