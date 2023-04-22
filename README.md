@@ -20,8 +20,8 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#47665](https://github.com/nodejs/node/issues/47665) in [nodejs/node](https://github.com/nodejs/node)
-2. 💪 Opened PR [#2](https://github.com/yjl9903/unbuild-sea/pull/2) in [yjl9903/unbuild-sea](https://github.com/yjl9903/unbuild-sea)
-3. 🗣 Commented on [#82](https://github.com/nodejs/postject/issues/82) in [nodejs/postject](https://github.com/nodejs/postject)
-4. 🗣 Commented on [#47625](https://github.com/nodejs/node/issues/47625) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#66](https://github.com/nodejs/single-executable/issues/66) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+2. 🗣 Commented on [#47665](https://github.com/nodejs/node/issues/47665) in [nodejs/node](https://github.com/nodejs/node)
+3. 💪 Opened PR [#2](https://github.com/yjl9903/unbuild-sea/pull/2) in [yjl9903/unbuild-sea](https://github.com/yjl9903/unbuild-sea)
+4. 🗣 Commented on [#82](https://github.com/nodejs/postject/issues/82) in [nodejs/postject](https://github.com/nodejs/postject)
+5. 🗣 Commented on [#47625](https://github.com/nodejs/node/issues/47625) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
