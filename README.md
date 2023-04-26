@@ -22,6 +22,6 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 1. 🗣 Commented on [#47665](https://github.com/nodejs/node/issues/47665) in [nodejs/node](https://github.com/nodejs/node)
 2. 🗣 Commented on [#47665](https://github.com/nodejs/node/issues/47665) in [nodejs/node](https://github.com/nodejs/node)
 3. 🗣 Commented on [#47665](https://github.com/nodejs/node/issues/47665) in [nodejs/node](https://github.com/nodejs/node)
-4. 💪 Opened PR [#2](https://github.com/yjl9903/unbuild-sea/pull/2) in [yjl9903/unbuild-sea](https://github.com/yjl9903/unbuild-sea)
-5. 🗣 Commented on [#82](https://github.com/nodejs/postject/issues/82) in [nodejs/postject](https://github.com/nodejs/postject)
+4. 🗣 Commented on [#47665](https://github.com/nodejs/node/issues/47665) in [nodejs/node](https://github.com/nodejs/node)
+5. 💪 Opened PR [#2](https://github.com/yjl9903/unbuild-sea/pull/2) in [yjl9903/unbuild-sea](https://github.com/yjl9903/unbuild-sea)
 <!--END_SECTION:activity-->
