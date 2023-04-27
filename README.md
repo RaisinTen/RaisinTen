@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47665](https://github.com/nodejs/node/issues/47665) in [nodejs/node](https://github.com/nodejs/node)
+1. 🗣 Commented on [#12](https://github.com/nodejs/postject/issues/12) in [nodejs/postject](https://github.com/nodejs/postject)
 2. 🗣 Commented on [#47665](https://github.com/nodejs/node/issues/47665) in [nodejs/node](https://github.com/nodejs/node)
 3. 🗣 Commented on [#47665](https://github.com/nodejs/node/issues/47665) in [nodejs/node](https://github.com/nodejs/node)
 4. 🗣 Commented on [#47665](https://github.com/nodejs/node/issues/47665) in [nodejs/node](https://github.com/nodejs/node)
-5. 💪 Opened PR [#2](https://github.com/yjl9903/unbuild-sea/pull/2) in [yjl9903/unbuild-sea](https://github.com/yjl9903/unbuild-sea)
+5. 🗣 Commented on [#47665](https://github.com/nodejs/node/issues/47665) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
