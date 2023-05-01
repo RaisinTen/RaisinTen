@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/nodejs/single-executable/issues/71) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-2. 🗣 Commented on [#12](https://github.com/nodejs/postject/issues/12) in [nodejs/postject](https://github.com/nodejs/postject)
-3. 🗣 Commented on [#69](https://github.com/nodejs/single-executable/issues/69) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
-4. 💪 Opened PR [#47779](https://github.com/nodejs/node/pull/47779) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#47665](https://github.com/nodejs/node/issues/47665) in [nodejs/node](https://github.com/nodejs/node)
+1. 🎉 Merged PR [#84](https://github.com/nodejs/postject/pull/84) in [nodejs/postject](https://github.com/nodejs/postject)
+2. 🗣 Commented on [#47779](https://github.com/nodejs/node/issues/47779) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#11115](https://github.com/postmanlabs/postman-app-support/issues/11115) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+4. 🗣 Commented on [#71](https://github.com/nodejs/single-executable/issues/71) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+5. 🗣 Commented on [#12](https://github.com/nodejs/postject/issues/12) in [nodejs/postject](https://github.com/nodejs/postject)
 <!--END_SECTION:activity-->
