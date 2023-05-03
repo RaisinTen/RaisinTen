@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47832](https://github.com/nodejs/node/issues/47832) in [nodejs/node](https://github.com/nodejs/node)
-2. ❗️ Opened issue [#47832](https://github.com/nodejs/node/issues/47832) in [nodejs/node](https://github.com/nodejs/node)
-3. 🎉 Merged PR [#84](https://github.com/nodejs/postject/pull/84) in [nodejs/postject](https://github.com/nodejs/postject)
-4. 🗣 Commented on [#47779](https://github.com/nodejs/node/issues/47779) in [nodejs/node](https://github.com/nodejs/node)
-5. 🗣 Commented on [#11115](https://github.com/postmanlabs/postman-app-support/issues/11115) in [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support)
+1. 🗣 Commented on [#47672](https://github.com/nodejs/node/issues/47672) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#47832](https://github.com/nodejs/node/issues/47832) in [nodejs/node](https://github.com/nodejs/node)
+3. ❗️ Opened issue [#47832](https://github.com/nodejs/node/issues/47832) in [nodejs/node](https://github.com/nodejs/node)
+4. 🎉 Merged PR [#84](https://github.com/nodejs/postject/pull/84) in [nodejs/postject](https://github.com/nodejs/postject)
+5. 🗣 Commented on [#47779](https://github.com/nodejs/node/issues/47779) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
