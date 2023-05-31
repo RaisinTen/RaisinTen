@@ -19,7 +19,7 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#72](https://github.com/nodejs/single-executable/issues/72) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
+1. 🔒 Closed issue [#72](https://github.com/nodejs/single-executable/issues/72) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
 2. 🗣 Commented on [#72](https://github.com/nodejs/single-executable/issues/72) in [nodejs/single-executable](https://github.com/nodejs/single-executable)
 3. 🗣 Commented on [#48175](https://github.com/nodejs/node/issues/48175) in [nodejs/node](https://github.com/nodejs/node)
 4. 💪 Opened PR [#48193](https://github.com/nodejs/node/pull/48193) in [nodejs/node](https://github.com/nodejs/node)
