@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#110](https://github.com/nodejs/node-addon-api/issues/110) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
-2. 💪 Opened PR [#211](https://github.com/nodejs/node-addon-examples/pull/211) in [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples)
-3. 🗣 Commented on [#48191](https://github.com/nodejs/node/issues/48191) in [nodejs/node](https://github.com/nodejs/node)
-4. 🗣 Commented on [#879](https://github.com/nodejs/security-wg/issues/879) in [nodejs/security-wg](https://github.com/nodejs/security-wg)
-5. 🗣 Commented on [#87](https://github.com/nodejs/postject/issues/87) in [nodejs/postject](https://github.com/nodejs/postject)
+1. 💪 Opened PR [#294](https://github.com/bagder/everything-curl/pull/294) in [bagder/everything-curl](https://github.com/bagder/everything-curl)
+2. 🗣 Commented on [#110](https://github.com/nodejs/node-addon-api/issues/110) in [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)
+3. 💪 Opened PR [#211](https://github.com/nodejs/node-addon-examples/pull/211) in [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples)
+4. 🗣 Commented on [#48191](https://github.com/nodejs/node/issues/48191) in [nodejs/node](https://github.com/nodejs/node)
+5. 🗣 Commented on [#879](https://github.com/nodejs/security-wg/issues/879) in [nodejs/security-wg](https://github.com/nodejs/security-wg)
 <!--END_SECTION:activity-->
