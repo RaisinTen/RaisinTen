@@ -20,8 +20,8 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11316](https://github.com/curl/curl/issues/11316) in [curl/curl](https://github.com/curl/curl)
-2. ❗ Opened issue [#11316](https://github.com/curl/curl/issues/11316) in [curl/curl](https://github.com/curl/curl)
-3. 🗣 Commented on [#48441](https://github.com/nodejs/node/issues/48441) in [nodejs/node](https://github.com/nodejs/node)
-4. 🔒 Closed issue [#48441](https://github.com/nodejs/node/issues/48441) in [nodejs/node](https://github.com/nodejs/node)
-5. 💪 Opened PR [#48436](https://github.com/nodejs/node/pull/48436) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#11316](https://github.com/curl/curl/issues/11316) in [curl/curl](https://github.com/curl/curl)
+3. ❗ Opened issue [#11316](https://github.com/curl/curl/issues/11316) in [curl/curl](https://github.com/curl/curl)
+4. 🗣 Commented on [#48441](https://github.com/nodejs/node/issues/48441) in [nodejs/node](https://github.com/nodejs/node)
+5. 🔒 Closed issue [#48441](https://github.com/nodejs/node/issues/48441) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
