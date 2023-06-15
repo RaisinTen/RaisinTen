@@ -21,7 +21,7 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11316](https://github.com/curl/curl/issues/11316) in [curl/curl](https://github.com/curl/curl)
 2. 🗣 Commented on [#11316](https://github.com/curl/curl/issues/11316) in [curl/curl](https://github.com/curl/curl)
-3. ❗ Opened issue [#11316](https://github.com/curl/curl/issues/11316) in [curl/curl](https://github.com/curl/curl)
-4. 🗣 Commented on [#48441](https://github.com/nodejs/node/issues/48441) in [nodejs/node](https://github.com/nodejs/node)
-5. 🔒 Closed issue [#48441](https://github.com/nodejs/node/issues/48441) in [nodejs/node](https://github.com/nodejs/node)
+3. 🗣 Commented on [#11316](https://github.com/curl/curl/issues/11316) in [curl/curl](https://github.com/curl/curl)
+4. ❗ Opened issue [#11316](https://github.com/curl/curl/issues/11316) in [curl/curl](https://github.com/curl/curl)
+5. 🗣 Commented on [#48441](https://github.com/nodejs/node/issues/48441) in [nodejs/node](https://github.com/nodejs/node)
 <!--END_SECTION:activity-->
