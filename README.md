@@ -19,9 +19,9 @@ Also, consider [**sponsoring**](https://github.com/sponsors/RaisinTen) me!
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46824](https://github.com/nodejs/node/issues/46824) in [nodejs/node](https://github.com/nodejs/node)
-2. 🗣 Commented on [#11316](https://github.com/curl/curl/issues/11316) in [curl/curl](https://github.com/curl/curl)
+1. 🗣 Commented on [#48567](https://github.com/nodejs/node/issues/48567) in [nodejs/node](https://github.com/nodejs/node)
+2. 🗣 Commented on [#46824](https://github.com/nodejs/node/issues/46824) in [nodejs/node](https://github.com/nodejs/node)
 3. 🗣 Commented on [#11316](https://github.com/curl/curl/issues/11316) in [curl/curl](https://github.com/curl/curl)
 4. 🗣 Commented on [#11316](https://github.com/curl/curl/issues/11316) in [curl/curl](https://github.com/curl/curl)
-5. ❗ Opened issue [#11316](https://github.com/curl/curl/issues/11316) in [curl/curl](https://github.com/curl/curl)
+5. 🗣 Commented on [#11316](https://github.com/curl/curl/issues/11316) in [curl/curl](https://github.com/curl/curl)
 <!--END_SECTION:activity-->
