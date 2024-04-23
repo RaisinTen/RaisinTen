@@ -23,12 +23,6 @@
 - Collaborated with the Chromium team to fix difficult GN bugs in the Electron build system
 - Contributed to other high-profile C++ projects like Chromium, Crashpad and Perfetto for the betterment of Electron
 
-## Deno
-
-### Contributor, August 2022 - September 2022
-
-- Once, I decided to challenge myself to land a valuable contribution in Deno, despite my inexperience in Rust, so I attempted solving a `serde_v8` bug - <https://github.com/denoland/deno/issues/11502> while teaching myself Rust and I ended up landing the key improvement in Rusty V8 - <https://github.com/denoland/rusty_v8/pull/1049>, bringing the change into Deno in the `rusty_v8` upgrade - <https://github.com/denoland/deno/pull/15762> and finally fixing the issue in <https://github.com/denoland/deno/pull/15946>
-
 ## Node.js
 
 ### TSC Member, Core Collaborator, Triager, October 2020 - January 2024
@@ -39,6 +33,12 @@
 - Primarily known for being the lead of the "Single executable applications" Strategic Initiative, which I have initially implemented in <https://github.com/nodejs/node/pull/45038>
 - Provided 1:1 mentorship to numerous contributors and onboarded 6 collaborators
 - Contributed to other high-profile C++ and C projects like V8, libuv and OpenSSL for the betterment of Node.js
+
+## Deno
+
+### Contributor, August 2022 - September 2022
+
+- Once, I decided to challenge myself to land a valuable contribution in Deno, despite my inexperience in Rust, so I attempted solving a `serde_v8` bug - <https://github.com/denoland/deno/issues/11502> while teaching myself Rust and I ended up landing the key improvement in Rusty V8 - <https://github.com/denoland/rusty_v8/pull/1049>, bringing the change into Deno in the `rusty_v8` upgrade - <https://github.com/denoland/deno/pull/15762> and finally fixing the issue in <https://github.com/denoland/deno/pull/15946>
 
 # Education
 
