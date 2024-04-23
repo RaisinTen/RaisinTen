@@ -1,3 +1,5 @@
+# Experience
+
 ## Postman
 
 ### Technical Lead, June 2021 - Present
@@ -37,3 +39,11 @@
 - Primarily known for being the lead of the "Single executable applications" Strategic Initiative, which I have initially implemented in <https://github.com/nodejs/node/pull/45038>
 - Provided 1:1 mentorship to numerous contributors and onboarded 6 collaborators
 - Contributed to other high-profile C++ and C projects like V8, libuv and OpenSSL for the betterment of Node.js
+
+# Education
+
+## West Bengal University of Technology, 2017 - 2021
+
+### Bachelor of Technology in Computer Science & Engineering
+
+DGPA - 9.28 / 10
