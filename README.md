@@ -13,7 +13,7 @@
 
 ## Electron
 
-### Governance Member, July 2022 - Present
+### Governance Member, July 2022 - May 2024
 
 - Nominated by the project community to serve as a Governance Member for my quality code contributions and valuable code reviews
 - 54th highest contributor of C++ and Objective-C++ fixes for various kinds of GUI bugs and crashes
