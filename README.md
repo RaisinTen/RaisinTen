@@ -55,3 +55,7 @@
 #### Bachelor of Technology in Computer Science & Engineering
 
 DGPA - 9.28 / 10
+
+## Skills
+
+C++, C, Electron, Node.js, JavaScript, TypeScript, Objective-C, Python, Bash, Git
