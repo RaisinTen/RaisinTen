@@ -58,4 +58,4 @@ DGPA - 9.28 / 10
 
 ## Skills
 
-C++, C, Electron, Node.js, JavaScript, TypeScript, Objective-C, Python, Bash, Git
+C++, C, Electron, Node.js, JavaScript, TypeScript, Objective-C, Python, Rust, Bash, Git
