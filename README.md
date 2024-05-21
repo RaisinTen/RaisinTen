@@ -3,8 +3,8 @@
 ## Contacts
 
 - Email - raisinten@gmail.com
-- GitHub - <https://github.com/RaisinTen>
 - LinkedIn - <https://www.linkedin.com/in/darshansen>
+- GitHub - <https://github.com/RaisinTen>
 
 ## Experience
 
