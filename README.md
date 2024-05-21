@@ -1,8 +1,16 @@
-# Experience
+# Darshan Sen
 
-## Postman
+## Contacts
 
-### Technical Lead, June 2021 - Present
+- Email - raisinten@gmail.com
+- GitHub - <https://github.com/RaisinTen>
+- LinkedIn - <https://www.linkedin.com/in/darshansen>
+
+## Experience
+
+### Postman
+
+#### Technical Lead, June 2021 - Present
 
 - As a Technical Lead, I have driven initiatives, chaired team meetings, onboarded 8 engineers on all our projects, been the key reviewer of all the work that my team has done and provided 1:1 mentorship to all of my teammates
 - As a prolific Open Source contributor belonging to the Governance of megaprojects like Node.js and Electron, I gave several talks to the entire engineering team of Postman and was able to mentor my colleagues to successfully make valuable contributions to Electron (<https://github.com/electron/electron/pull/34974>) and Node.js (<https://github.com/nodejs/node/pull/44532>)
@@ -11,9 +19,9 @@
 - Led a team of 4 engineers to develop a C++ library with an accompanying Node.js addon to send HTTP and WebSocket requests using a fully relocatable build of libcurl
 - Created a C++ HTTP client that uses WinHTTP on Windows, NSURLSession on Apple and libsoup on GNOME - <https://github.com/RaisinTen/benoni>
 
-## Electron
+### Electron
 
-### Governance Member, July 2022 - May 2024
+#### Governance Member, July 2022 - May 2024
 
 - Nominated by the project community to serve as a Governance Member for my quality code contributions and valuable code reviews
 - 54th highest contributor of C++ and Objective-C++ fixes for various kinds of GUI bugs and crashes
@@ -23,9 +31,9 @@
 - Collaborated with the Chromium team to fix difficult GN bugs in the Electron build system
 - Contributed to other high-profile C++ projects like Chromium, Crashpad and Perfetto for the betterment of Electron
 
-## Node.js
+### Node.js
 
-### TSC Member, Core Collaborator, Triager, October 2020 - January 2024
+#### TSC Member, Core Collaborator, Triager, October 2020 - January 2024
 
 - Nominated by the project community to serve as a TSC Member, Core Collaborator and Triager for my quality code contributions and valuable code reviews
 - Won the "Outstanding Contribution from a New Arrival" award as part of the JavaScriptLandia Awards at 2022's OpenJS World - <https://openjsf.org/blog/first-ever-javascriptlandia-awards-celebrate-community-leaders>
@@ -34,16 +42,16 @@
 - Provided 1:1 mentorship to numerous contributors and onboarded 6 collaborators
 - Contributed to other high-profile C++ and C projects like V8, libuv and OpenSSL for the betterment of Node.js
 
-## Deno
+### Deno
 
-### Contributor, August 2022 - September 2022
+#### Contributor, August 2022 - September 2022
 
 - Once, I decided to challenge myself to land a valuable contribution in Deno, despite my inexperience in Rust, so I attempted solving a `serde_v8` bug - <https://github.com/denoland/deno/issues/11502> while teaching myself Rust and I ended up landing the key improvement in Rusty V8 - <https://github.com/denoland/rusty_v8/pull/1049>, bringing the change into Deno in the `rusty_v8` upgrade - <https://github.com/denoland/deno/pull/15762> and finally fixing the issue in <https://github.com/denoland/deno/pull/15946>
 
-# Education
+## Education
 
-## West Bengal University of Technology, 2017 - 2021
+### West Bengal University of Technology, 2017 - 2021
 
-### Bachelor of Technology in Computer Science & Engineering
+#### Bachelor of Technology in Computer Science & Engineering
 
 DGPA - 9.28 / 10
