@@ -1,6 +1,6 @@
 # Darshan Sen
 
-## Contacts
+## Contact Details
 
 - Email - raisinten@gmail.com
 - LinkedIn - <https://www.linkedin.com/in/darshansen>
