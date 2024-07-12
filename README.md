@@ -20,6 +20,17 @@
 - Led a team of 4 engineers to develop a C++ library with an accompanying Node.js addon to send HTTP and WebSocket requests using a fully relocatable build of libcurl
 - Created a C++ HTTP client that uses WinHTTP on Windows, NSURLSession on Apple and libsoup on GNOME - <https://github.com/RaisinTen/benoni>
 
+### Node.js
+
+#### TSC Member, Core Collaborator, Triager, October 2020 - January 2024
+
+- Nominated by the project community to serve as a TSC Member, Core Collaborator and Triager for my quality code contributions and valuable code reviews
+- Won the "Outstanding Contribution from a New Arrival" award as part of the JavaScriptLandia Awards at 2022's OpenJS World - <https://openjsf.org/blog/first-ever-javascriptlandia-awards-celebrate-community-leaders>
+- 36th highest contributor of C++ and JavaScript features, bug fixes and performance improvements across all subsystems of Node.js
+- Primarily known for being the lead of the "Single executable applications" Strategic Initiative, which I have initially implemented in <https://github.com/nodejs/node/pull/45038>
+- Provided 1:1 mentorship to numerous contributors and onboarded 6 collaborators
+- Contributed to other high-profile C++ and C projects like V8, libuv and OpenSSL for the betterment of Node.js
+
 ### Electron
 
 #### Governance Member, July 2022 - May 2024
@@ -31,17 +42,6 @@
 - Worked with the Chromium C++ thread pool to create async and non-blocking functionalities - <https://github.com/electron/electron/pull/31023>
 - Collaborated with the Chromium team to fix difficult GN bugs in the Electron build system
 - Contributed to other high-profile C++ projects like Chromium, Crashpad and Perfetto for the betterment of Electron
-
-### Node.js
-
-#### TSC Member, Core Collaborator, Triager, October 2020 - January 2024
-
-- Nominated by the project community to serve as a TSC Member, Core Collaborator and Triager for my quality code contributions and valuable code reviews
-- Won the "Outstanding Contribution from a New Arrival" award as part of the JavaScriptLandia Awards at 2022's OpenJS World - <https://openjsf.org/blog/first-ever-javascriptlandia-awards-celebrate-community-leaders>
-- 36th highest contributor of C++ and JavaScript features, bug fixes and performance improvements across all subsystems of Node.js
-- Primarily known for being the lead of the "Single executable applications" Strategic Initiative, which I have initially implemented in <https://github.com/nodejs/node/pull/45038>
-- Provided 1:1 mentorship to numerous contributors and onboarded 6 collaborators
-- Contributed to other high-profile C++ and C projects like V8, libuv and OpenSSL for the betterment of Node.js
 
 ### Deno
 
@@ -59,4 +59,4 @@ DGPA - 9.28 / 10
 
 ## Skills
 
-C++, C, Electron, Node.js, JavaScript, TypeScript, Objective-C, Python, Rust, Bash, Git
+C++, C, Node.js, Electron, JavaScript, TypeScript, Objective-C, Python, Rust, Bash, Git
