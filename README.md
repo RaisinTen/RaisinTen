@@ -23,7 +23,7 @@
 
 ### Node.js
 
-#### TSC Member, Core Collaborator, Triager, October 2020 - January 2024
+#### TSC Member, Core Collaborator, Triager, October 2020 - January 2024, March 2025 - Present
 
 - Nominated by the project community to serve as a TSC Member, Core Collaborator and Triager for my quality code contributions and valuable code reviews
 - Won the "Outstanding Contribution from a New Arrival" award as part of the JavaScriptLandia Awards at 2022's OpenJS World - <https://openjsf.org/blog/first-ever-javascriptlandia-awards-celebrate-community-leaders>
