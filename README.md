@@ -18,7 +18,7 @@
 - Redefined how my team approaches performance problems by creating <https://github.com/RaisinTen/perftrace>, a JavaScript module which enables the visualization of performance bottlenecks in any JavaScript application
 - Conducted a novel experiment on using V8 snapshots to speed up the `require()`s in the Electron main process by 80% <https://github.com/RaisinTen/electron-snapshot-experiment>
 - Top contributor to an R&D C++ and JavaScript framework for creating cross-platform native desktop, mobile and CLI apps, where I authored key parts of the framework, like JavaScript support (V8 on Windows and JavaScriptCore on Apple and Linux), event loop, networking capabilities and owned the development of the entire framework on Windows using Win32 APIs
-- Led a team of 4 engineers to develop a C++ library with an accompanying Node.js addon to send HTTP and WebSocket requests using a fully relocatable build of libcurl
+- Led a team of 4 engineers to develop a C++ library with an accompanying Node.js addon to send HTTP, HTTP/2, HTTP/3 (QUIC protocol) and WebSocket requests using a fully relocatable build of libcurl - <https://github.com/RaisinTen/wormhole>
 - Created a C++ HTTP client that uses WinHTTP on Windows, NSURLSession on Apple and libsoup on GNOME - <https://github.com/RaisinTen/benoni>
 
 ### Node.js
