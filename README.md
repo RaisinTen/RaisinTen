@@ -1,10 +1,10 @@
 # Darshan Sen
 
-## Contact Details
+## Contacts
 
 - Email - raisinten@gmail.com
-- LinkedIn - <https://www.linkedin.com/in/darshansen>
 - GitHub - <https://github.com/RaisinTen>
+- LinkedIn - <https://www.linkedin.com/in/darshansen>
 
 ## Experience
 
@@ -14,10 +14,10 @@
 
 - As a Technical Lead, I have driven initiatives, chaired team meetings, onboarded 8 engineers on all our projects, been the key reviewer of all the work that my team has done and provided 1:1 mentorship to all of my teammates
 - As a prolific Open Source contributor belonging to the Governance of megaprojects like Node.js and Electron, I gave several talks to the entire engineering team of Postman like <https://youtu.be/IW7C_NiObcQ?si=2TEMGZFpLxddhfPg> and was able to mentor my colleagues to successfully make valuable contributions to Electron (<https://github.com/electron/electron/pull/34974>) and Node.js (<https://github.com/nodejs/node/pull/44532>)
-- Laid the groundwork for hooking in additional native C++ modules into our custom build of Electron which makes use of the internal features of Chromium. For example, one such module I wrote enables the Postman Enterprise app to use the registry on Windows, Mac OS X user defaults on macOS and snap configuration options on Linux for reading key-value pairs that have been set by an Admin in an Enterprise deployment environment.
-- Redefined how my team approaches performance problems by creating <https://github.com/RaisinTen/perftrace>, a JavaScript module which enables the visualization of performance bottlenecks in any JavaScript application
 - Conducted a novel experiment on using V8 snapshots to speed up the `require()`s in the Electron main process by 80% <https://github.com/RaisinTen/electron-snapshot-experiment>
+- Redefined how my team approaches performance problems by creating <https://github.com/RaisinTen/perftrace>, a JavaScript module which enables the visualization of performance bottlenecks in any JavaScript application
 - Top contributor to an R&D C++ and JavaScript framework for creating cross-platform native desktop, mobile and CLI apps, where I authored key parts of the framework, like JavaScript support (V8 on Windows and JavaScriptCore on Apple and Linux), event loop, networking capabilities and owned the development of the entire framework on Windows using Win32 APIs
+- Laid the groundwork for hooking in additional native C++ modules into our custom build of Electron which makes use of the internal features of Chromium. For example, one such module I wrote enables the Postman Enterprise app to use the registry on Windows, Mac OS X user defaults on macOS and snap configuration options on Linux for reading key-value pairs that have been set by an Admin in an Enterprise deployment environment.
 - Led a team of 4 engineers to develop a C++ library with an accompanying Node.js addon to send HTTP, HTTP/2, HTTP/3 (QUIC protocol) and WebSocket requests using a fully relocatable build of libcurl - <https://github.com/RaisinTen/wormhole>
 - Created a C++ HTTP client that uses WinHTTP on Windows, NSURLSession on Apple and libsoup on GNOME - <https://github.com/RaisinTen/benoni>
 
