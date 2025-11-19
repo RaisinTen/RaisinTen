@@ -8,9 +8,21 @@
 
 ## Experience
 
+### Holepunch
+
+#### Engineer, June 2025 - Present
+
+- End-to-end development of video streaming in Keet, the peer-to-peer messaging app focused on privacy, by leveraging JS and C++ expertise to seamlessly integrate FFmpeg into the Electron app
+
+### Cursor
+
+#### Engineer, January 2025 - Present
+
+- Delivering key solutions across Node.js and Electron for Cursor, the AI code editor. For example, tracking Node.js HTTP/2 calls through the Network tab of Chrome DevTools <https://github.com/nodejs/node/pull/59611>
+
 ### Postman
 
-#### Technical Lead, June 2021 - Present
+#### Technical Lead, June 2021 - August 2025
 
 - As a Technical Lead, I have driven initiatives, chaired team meetings, onboarded 8 engineers on all our projects, been the key reviewer of all the work that my team has done and provided 1:1 mentorship to all of my teammates
 - As a prolific Open Source contributor belonging to the Governance of megaprojects like Node.js and Electron, I gave several talks to the entire engineering team of Postman like <https://youtu.be/IW7C_NiObcQ?si=2TEMGZFpLxddhfPg> and was able to mentor my colleagues to successfully make valuable contributions to Electron (<https://github.com/electron/electron/pull/34974>) and Node.js (<https://github.com/nodejs/node/pull/44532>)
