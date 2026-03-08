@@ -16,7 +16,7 @@
 
 ### Cursor
 
-#### Engineer, January 2025 - Present
+#### Engineer, January 2025 - October 2025
 
 - Delivering key solutions across Node.js and Electron for Cursor, the AI code editor. For example, tracking Node.js HTTP/2 calls through the Network tab of Chrome DevTools <https://github.com/nodejs/node/pull/59611>
 
