@@ -12,7 +12,10 @@
 
 #### Engineer, June 2025 - Present
 
-- End-to-end development of video streaming in Keet, the peer-to-peer messaging app focused on privacy, by leveraging JS and C++ expertise to seamlessly integrate FFmpeg into the Electron app
+- Led development of the Keet Broadcast Call engine, leveraging JS and C++ to seamlessly integrate FFmpeg into Electron atop our peer-to-peer stack.
+- Developed a WebRTC benchmark to test scalability, simulating many-to-many video conferencing on Electron <https://github.com/RaisinTen/webrtc-electron-scaling-test> over a virtual network topology <https://github.com/RaisinTen/virtual-net>.
+- Built org-wide build and packaging infrastructure, creating a GitHub Actions pipeline with code signing support and implementing supporting changes across MSIX, DMG, Snap, AppImage and Flatpak to modernize cross-platform app deployment on Windows, macOS, and Linux.
+- Enhanced GNOME privacy by prototyping a native C solution in the Mutter Wayland display server to hide app windows from screenshots <https://gitlab.gnome.org/GNOME/mutter/-/issues/2186#note_2685492>.
 
 ### Cursor
 
