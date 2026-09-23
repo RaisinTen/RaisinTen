@@ -8,7 +8,7 @@
 
 ## Experience
 
-### Holepunch
+### Tether
 
 #### Engineer, June 2025 - Present
 
