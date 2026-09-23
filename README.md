@@ -10,7 +10,7 @@
 
 ### Tether
 
-#### Engineer, June 2025 - Present
+#### Engineer, June 2026 - Present
 
 - Leading the development of technology and processes to ease the distribution of our products Keet, QVAC, etc. to the Apple App Store, Linux Flathub and other app stores.
 - Developing Pear and the related stack to enable peer-to-peer distribution of apps.
