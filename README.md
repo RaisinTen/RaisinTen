@@ -12,6 +12,13 @@
 
 #### Engineer, June 2025 - Present
 
+- Leading the development of technology and processes to ease the distribution of our products Keet, QVAC, etc. to the Apple App Store, Linux Flathub and other app stores.
+- Developing Pear and the related stack to enable peer-to-peer distribution of apps.
+
+### Holepunch
+
+#### Engineer, June 2025 - May 2026
+
 - Led development of the Keet Broadcast Call engine, leveraging JS and C++ to seamlessly integrate FFmpeg into Electron atop our peer-to-peer stack.
 - Developed a WebRTC benchmark to test scalability, simulating many-to-many video conferencing on Electron <https://github.com/RaisinTen/webrtc-electron-scaling-test> over a virtual network topology <https://github.com/RaisinTen/virtual-net>.
 - Built org-wide build and packaging infrastructure, creating a GitHub Actions pipeline with code signing support and implementing supporting changes across MSIX, DMG, Snap, AppImage and Flatpak to modernize cross-platform app deployment on Windows, macOS, and Linux.
